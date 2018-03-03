@@ -1,0 +1,224 @@
+object xfrDirectoryItem1: TxfrDirectoryItem
+  ItemType = itmRoot
+  TimeStamp = 39958.898698090280000000
+  ReportName = 'Folder List'
+  ReportAttr = [ftReadOnly]
+  Deleted = False
+  NextID = 4
+  object xfrDirectoryItem1: TxfrDirectoryItem
+    ItemType = itmDirectory
+    TimeStamp = 39978.581420891210000000
+    ReportName = 'System Reports'
+    ReportAttr = [ftHidden]
+    Deleted = False
+    object xfrReportItem2: TxfrReportItem
+      ItemType = itmReport
+      TimeStamp = 39978.874063946760000000
+      ReportName = 'Order Print'
+      ReportAttr = [ftReadOnly, ftHidden, ftSystem]
+      Deleted = False
+      ReportID = 4001
+      FileContent = 
+        '<?xml version="1.0" encoding="utf-8"?>'#13#10'<TfrxReport Version="4.7' +
+        '.91" DotMatrixReport="False" IniFile="\Software\Fast Reports" Pr' +
+        'eviewOptions.Buttons="4095" PreviewOptions.Zoom="1" PrintOptions' +
+        '.Printer="Default" PrintOptions.PrintOnSheet="0" ReportOptions.C' +
+        'reateDate="39115.6589597801" ReportOptions.Description.Text="" R' +
+        'eportOptions.LastChange="39978.8740639468" ScriptLanguage="Pasca' +
+        'lScript" ScriptText.Text="  &#13;&#10;begin&#13;&#10;&#13;&#10;e' +
+        'nd." PropData="044C656674021503546F70020908446174617365747301010' +
+        'C2A00000020446174615365743D2254424D61737465722220446174615365744' +
+        'E616D653D2254424D61737465722200010C2A00000020446174615365743D225' +
+        '44244657461696C2220446174615365744E616D653D22544244657461696C220' +
+        '000095661726961626C65730100055374796C650100">'#13#10'  <TfrxDataPage N' +
+        'ame="Data" Height="1000" Left="0" Top="0" Width="1000">'#13#10'    <Tf' +
+        'rxACRQuery Name="TBMaster" UserName="TBMaster" CloseDataSource="' +
+        'True" FieldAliases.Text="" BCDToCurrency="False" IgnoreDupParams' +
+        '="False" SQL.Text="SELECT o.ordno, o.orddate, o.orddesc, o.cstco' +
+        'de, o.cstname, o.maxlen, o.maxthick, o.mrklen, o.algorithm, o.mr' +
+        'kwidth&#13;&#10;FROM&#13;&#10;    orders o&#13;&#10;WHERE&#13;&#' +
+        '10;    o.ordno = :ordno              " SQLSchema="eAF10LEOwiAQBu' +
+        'CdhHfwARigtNqasBgTlw4a3RqHE4glLZAAiT6+pXETc9t9/3/DDUdIcICo7xhdL7' +
+        '3gVctrTluMhhs8Zh2XvRc+KB0i4YzUHakoJayhS+IUjFqcZneefFOeMELXEZv9GQ' +
+        'JYhhHLGQVJ/6YwqlbUUZaQCxmT9KrYrDM6sEVshIX3rF3p6jZbGo2cSroTNkx/mq' +
+        '2A+emDSaMtVbtcfRmVxpIOvXFT/ukH7o9rzw==" DatabaseName="PKGDATABAS' +
+        'E" SessionName="PKGSESSION" PropData="05704C65667402340470546F70' +
+        '021C0A506172616D657465727301010C40000000204E616D653D226F72646E6F' +
+        '222044617461547970653D226674537472696E67222045787072657373696F6E' +
+        '3D22417070506172616D56616C7565735B305D220000"/>'#13#10'    <TfrxACRTab' +
+        'le Name="TBDetail" UserName="TBDetail" CloseDataSource="True" Fi' +
+        'eldAliases.Text="" BCDToCurrency="False" Master="TBMaster" Maste' +
+        'rFields="ordno=ordno" TableName="oritems" IndexName="pk_oritems"' +
+        ' DatabaseName="PKGDATABASE" SessionName="PKGSESSION" PropData="0' +
+        '5704C65667402780470546F70021C"/>'#13#10'  </TfrxDataPage>'#13#10'  <TfrxRepo' +
+        'rtPage Name="OrderPage" PaperWidth="210" PaperHeight="297" Paper' +
+        'Size="9" LeftMargin="10" RightMargin="10" TopMargin="10" BottomM' +
+        'argin="10" ColumnWidth="0" ColumnPositions.Text="" HGuides.Text=' +
+        '"" VGuides.Text="">'#13#10'    <TfrxMasterData Name="MasterData1" Heig' +
+        'ht="105.82684" Left="0" Top="18.89765" Width="718.1107" ColumnWi' +
+        'dth="0" ColumnGap="0" DataSet="TBMaster" DataSetName="TBMaster" ' +
+        'RowCount="0">'#13#10'      <TfrxMemoView Name="TBMasterordno" Left="98' +
+        '.26778" Top="0" Width="128.50402" Height="18.89765" ShowHint="Fa' +
+        'lse" DataSet="TBMaster" DataSetName="TBMaster" Font.Charset="1" ' +
+        'Font.Color="-16777208" Font.Height="-13" Font.Name="Arial" Font.' +
+        'Style="0" ParentFont="False" Text="[TBMaster.&#34;ordno&#34;]"/>' +
+        #13#10'      <TfrxMemoView Name="Memo2" Left="0" Top="0" Width="94.48' +
+        '825" Height="18.89765" ShowHint="False" Font.Charset="1" Font.Co' +
+        'lor="-16777208" Font.Height="-13" Font.Name="Arial" Font.Style="' +
+        '0" ParentFont="False" Text="Order:"/>'#13#10'      <TfrxMemoView Name=' +
+        '"Memo3" Left="98.26778" Top="18.89765" Width="128.50402" Height=' +
+        '"18.89765" ShowHint="False" DataSet="TBMaster" DataSetName="TBMa' +
+        'ster" Font.Charset="1" Font.Color="-16777208" Font.Height="-13" ' +
+        'Font.Name="Arial" Font.Style="0" ParentFont="False" Text="[TBMas' +
+        'ter.&#34;orddate&#34;]"/>'#13#10'      <TfrxMemoView Name="Memo4" Left' +
+        '="0" Top="18.89765" Width="94.48825" Height="18.89765" ShowHint=' +
+        '"False" Font.Charset="1" Font.Color="-16777208" Font.Height="-13' +
+        '" Font.Name="Arial" Font.Style="0" ParentFont="False" Text="Date' +
+        ':"/>'#13#10'      <TfrxMemoView Name="Memo5" Left="98.26778" Top="49.1' +
+        '3389" Width="578.26809" Height="18.89765" ShowHint="False" DataF' +
+        'ield="orddate" DataSet="TBMaster" DataSetName="TBMaster" Font.Ch' +
+        'arset="1" Font.Color="-16777208" Font.Height="-13" Font.Name="Ar' +
+        'ial" Font.Style="0" ParentFont="False" Text="[TBMaster.&#34;ordd' +
+        'ate&#34;]"/>'#13#10'      <TfrxMemoView Name="Memo6" Left="0" Top="49.' +
+        '13389" Width="94.48825" Height="18.89765" ShowHint="False" Font.' +
+        'Charset="1" Font.Color="-16777208" Font.Height="-13" Font.Name="' +
+        'Arial" Font.Style="0" ParentFont="False" Text="Desc:"/>'#13#10'      <' +
+        'TfrxMemoView Name="Memo7" Left="264.5671" Top="0" Width="94.4882' +
+        '5" Height="18.89765" ShowHint="False" Font.Charset="1" Font.Colo' +
+        'r="-16777208" Font.Height="-13" Font.Name="Arial" Font.Style="0"' +
+        ' ParentFont="False" Text="Customer:"/>'#13#10'      <TfrxMemoView Name' +
+        '="TBMastercstcode" Left="362.83488" Top="0" Width="105.82684" He' +
+        'ight="18.89765" ShowHint="False" DataField="cstcode" DataSet="TB' +
+        'Master" DataSetName="TBMaster" Font.Charset="1" Font.Color="-167' +
+        '77208" Font.Height="-13" Font.Name="Arial" Font.Style="0" Parent' +
+        'Font="False" Text="[TBMaster.&#34;cstcode&#34;]"/>'#13#10'      <TfrxM' +
+        'emoView Name="TBMastercstname" Left="362.83488" Top="22.67718" W' +
+        'idth="226.7718" Height="18.89765" ShowHint="False" DataField="cs' +
+        'tname" DataSet="TBMaster" DataSetName="TBMaster" Font.Charset="1' +
+        '" Font.Color="-16777208" Font.Height="-13" Font.Name="Arial" Fon' +
+        't.Style="0" ParentFont="False" Text="[TBMaster.&#34;cstname&#34;' +
+        ']"/>'#13#10'      <TfrxMemoView Name="Memo8" Left="18.89765" Top="86.9' +
+        '2919" Width="94.48825" Height="18.89765" ShowHint="False" Font.C' +
+        'harset="1" Font.Color="-16777208" Font.Height="-13" Font.Name="A' +
+        'rial" Font.Style="0" ParentFont="False" Text="Item"/>'#13#10'      <Tf' +
+        'rxMemoView Name="Memo9" Left="158.74026" Top="86.92919" Width="9' +
+        '4.48825" Height="18.89765" ShowHint="False" Font.Charset="1" Fon' +
+        't.Color="-16777208" Font.Height="-13" Font.Name="Arial" Font.Sty' +
+        'le="0" ParentFont="False" Text="Name"/>'#13#10'      <TfrxMemoView Nam' +
+        'e="Memo10" Left="597.16574" Top="86.92919" Width="94.48825" Heig' +
+        'ht="18.89765" ShowHint="False" Font.Charset="1" Font.Color="-167' +
+        '77208" Font.Height="-13" Font.Name="Arial" Font.Style="0" Parent' +
+        'Font="False" Text="Quantity"/>'#13#10'    </TfrxMasterData>'#13#10'    <Tfrx' +
+        'PageFooter Name="PageFooter1" Height="22.67718" Left="0" Top="23' +
+        '0.55133" Width="718.1107">'#13#10'      <TfrxMemoView Name="Memo1" Lef' +
+        't="642.5201" Top="0" Width="75.5906" Height="18.89765" ShowHint=' +
+        '"False" HAlign="haRight" Text="[Page#]"/>'#13#10'    </TfrxPageFooter>' +
+        #13#10'    <TfrxDetailData Name="DetailData1" Height="22.67718" Left=' +
+        '"0" Top="147.40167" Width="718.1107" ColumnWidth="0" ColumnGap="' +
+        '0" DataSet="TBDetail" DataSetName="TBDetail" RowCount="0">'#13#10'    ' +
+        '  <TfrxMemoView Name="TBDetailitmname" Left="18.89765" Top="0" W' +
+        'idth="136.06308" Height="18.89765" ShowHint="False" DataField="i' +
+        'tmname" DataSet="TBDetail" DataSetName="TBDetail" Font.Charset="' +
+        '1" Font.Color="-16777208" Font.Height="-13" Font.Name="Arial" Fo' +
+        'nt.Style="0" ParentFont="False" Text="[TBDetail.&#34;itmname&#34' +
+        ';]"/>'#13#10'      <TfrxMemoView Name="TBDetailitmdesc" Left="158.7402' +
+        '6" Top="0" Width="430.86642" Height="18.89765" ShowHint="False" ' +
+        'DataField="itmdesc" DataSet="TBDetail" DataSetName="TBDetail" Fo' +
+        'nt.Charset="1" Font.Color="-16777208" Font.Height="-13" Font.Nam' +
+        'e="Arial" Font.Style="0" ParentFont="False" Text="[TBDetail.&#34' +
+        ';itmdesc&#34;]"/>'#13#10'      <TfrxMemoView Name="TBDetailorqty" Left' +
+        '="597.16574" Top="0" Width="79.37013" Height="18.89765" ShowHint' +
+        '="False" DataField="orqty" DataSet="TBDetail" DataSetName="TBDet' +
+        'ail" Font.Charset="1" Font.Color="-16777208" Font.Height="-13" F' +
+        'ont.Name="Arial" Font.Style="0" ParentFont="False" Text="[TBDeta' +
+        'il.&#34;orqty&#34;]"/>'#13#10'    </TfrxDetailData>'#13#10'  </TfrxReportPag' +
+        'e>'#13#10'</TfrxReport>'#13#10
+      InternalID = 1
+    end
+    object xfrReportItem3: TxfrReportItem
+      ItemType = itmReport
+      TimeStamp = 39978.873234409720000000
+      ReportName = 'Order Rule Item'
+      ReportAttr = [ftReadOnly, ftHidden, ftSystem]
+      Deleted = False
+      ReportID = 8031
+      FileContent = 
+        '<?xml version="1.0" encoding="utf-8"?>'#13#10'<TfrxReport Version="4.1' +
+        '" DotMatrixReport="False" IniFile="\Software\Fast Reports" Previ' +
+        'ewOptions.Buttons="4095" PreviewOptions.Zoom="1" PrintOptions.Pr' +
+        'inter="Default" PrintOptions.PrintOnSheet="0" ReportOptions.Crea' +
+        'teDate="39115,6589597801" ReportOptions.Description.Text="" Repo' +
+        'rtOptions.LastChange="39115,6590641204" ScriptLanguage="PascalSc' +
+        'ript" ScriptText.Text="&#13;&#10;begin&#13;&#10;&#13;&#10;end." ' +
+        'PropData="044C65667403230203546F70026908446174617365747301000956' +
+        '61726961626C65730100055374796C650100">'#13#10'  <TfrxDataPage Name="Da' +
+        'ta" Height="1000" Left="0" Top="0" Width="1000"/>'#13#10'  <TfrxReport' +
+        'Page Name="Page1" PaperWidth="210" PaperHeight="297" PaperSize="' +
+        '9" LeftMargin="10" RightMargin="10" TopMargin="10" BottomMargin=' +
+        '"10" ColumnWidth="0" ColumnPositions.Text="" HGuides.Text="" VGu' +
+        'ides.Text="">'#13#10'    <TfrxReportTitle Name="ReportTitle1" Height="' +
+        '22,67718" Left="0" Top="18,89765" Width="718,1107"/>'#13#10'    <TfrxM' +
+        'asterData Name="MasterData1" Height="22,67718" Left="0" Top="102' +
+        ',04731" Width="718,1107" ColumnWidth="0" ColumnGap="0" RowCount=' +
+        '"0"/>'#13#10'    <TfrxPageFooter Name="PageFooter1" Height="22,67718" ' +
+        'Left="0" Top="185,19697" Width="718,1107">'#13#10'      <TfrxMemoView ' +
+        'Name="Memo1" Left="642,5201" Top="0" Width="75,5906" Height="18,' +
+        '89765" HAlign="haRight" Text="[Page#]"/>'#13#10'    </TfrxPageFooter>'#13 +
+        #10'  </TfrxReportPage>'#13#10'</TfrxReport>'
+      InternalID = 2
+    end
+    object xfrReportItem4: TxfrReportItem
+      ItemType = itmReport
+      TimeStamp = 39978.874225254630000000
+      ReportName = 'Order Rule All'
+      ReportAttr = [ftReadOnly, ftHidden, ftSystem]
+      Deleted = False
+      ReportID = 8030
+      FileContent = 
+        '<?xml version="1.0" encoding="utf-8"?>'#13#10'<TfrxReport Version="4.1' +
+        '" DotMatrixReport="False" IniFile="\Software\Fast Reports" Previ' +
+        'ewOptions.Buttons="4095" PreviewOptions.Zoom="1" PrintOptions.Pr' +
+        'inter="Default" PrintOptions.PrintOnSheet="0" ReportOptions.Crea' +
+        'teDate="39115,6589597801" ReportOptions.Description.Text="" Repo' +
+        'rtOptions.LastChange="39115,6590641204" ScriptLanguage="PascalSc' +
+        'ript" ScriptText.Text="&#13;&#10;begin&#13;&#10;&#13;&#10;end." ' +
+        'PropData="044C65667403230203546F70026908446174617365747301000956' +
+        '61726961626C65730100055374796C650100">'#13#10'  <TfrxDataPage Name="Da' +
+        'ta" Height="1000" Left="0" Top="0" Width="1000"/>'#13#10'  <TfrxReport' +
+        'Page Name="Page1" PaperWidth="210" PaperHeight="297" PaperSize="' +
+        '9" LeftMargin="10" RightMargin="10" TopMargin="10" BottomMargin=' +
+        '"10" ColumnWidth="0" ColumnPositions.Text="" HGuides.Text="" VGu' +
+        'ides.Text="">'#13#10'    <TfrxReportTitle Name="ReportTitle1" Height="' +
+        '22,67718" Left="0" Top="18,89765" Width="718,1107"/>'#13#10'    <TfrxM' +
+        'asterData Name="MasterData1" Height="22,67718" Left="0" Top="102' +
+        ',04731" Width="718,1107" ColumnWidth="0" ColumnGap="0" RowCount=' +
+        '"0"/>'#13#10'    <TfrxPageFooter Name="PageFooter1" Height="22,67718" ' +
+        'Left="0" Top="185,19697" Width="718,1107">'#13#10'      <TfrxMemoView ' +
+        'Name="Memo1" Left="642,5201" Top="0" Width="75,5906" Height="18,' +
+        '89765" HAlign="haRight" Text="[Page#]"/>'#13#10'    </TfrxPageFooter>'#13 +
+        #10'  </TfrxReportPage>'#13#10'</TfrxReport>'
+      InternalID = 3
+    end
+  end
+  object xfrDirectoryItem9: TxfrDirectoryItem
+    ItemType = itmDirectory
+    TimeStamp = 39979.005862442130000000
+    ReportName = 'Reference Informations'
+    ReportAttr = []
+    Deleted = False
+  end
+  object xfrDirectoryItem2: TxfrDirectoryItem
+    ItemType = itmDirectory
+    TimeStamp = 39979.006497928240000000
+    ReportName = 'Orders'
+    ReportAttr = []
+    Deleted = False
+  end
+  object xfrRecycleDir1: TxfrRecycleDir
+    ItemType = itmRecycleDir
+    TimeStamp = 39958.898720150460000000
+    ReportName = 'Recycle Bin'
+    ReportAttr = [ftReadOnly]
+    Deleted = False
+  end
+end

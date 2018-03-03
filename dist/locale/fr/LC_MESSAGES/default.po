@@ -1,0 +1,614 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language-Team: \n"
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Jaimy Azle <jazle@sat.net.id>\n"
+
+msgid "MaskEdit|Represents a generic masked edit control."
+msgstr "MaskEdit|génériques masqués Représente un contrôle d'édition."
+
+msgid "ComboBox|Represents the combo box editor"
+msgstr "ComboBox|Représente la zone combinée éditeur"
+
+msgid "PopupEdit|Represents an edit control with a dropdown list"
+msgstr "PopupEdit|Représente un contrôle d'édition avec une liste déroulante"
+
+msgid "CheckBox|Represents a check box control that allows selecting an option"
+msgstr "CheckBox|Représente une case de contrôle qui permet de sélectionner une option"
+
+msgid "SpinEdit|Represents a spin editor"
+msgstr "SpinEdit|Représente un spin editor"
+
+msgid "JPEG Image File"
+msgstr ""
+
+msgid "Image|Represents an image editor"
+msgstr "Image|Représente un éditeur d'images"
+
+msgid "Memo|Represents an edit control that allows editing memo data"
+msgstr "Mémo|Représente un contrôle d'édition qui permet d'éditer les données mémo"
+
+msgid "BlobEdit|Represents the BLOB editor"
+msgstr "BlobEdit|Représente l'éditeur BLOB"
+
+msgid "ButtonEdit|Represents an edit control with embedded buttons"
+msgstr "ButtonEdit|Représente un contrôle d'édition avec boutons embarqués"
+
+msgid "CalcEdit|Represents an edit control with a dropdown calculator window"
+msgstr "CalcEdit|Représente un contrôle d'édition avec une fenêtre déroulante calculatrice"
+
+msgid "today"
+msgstr ""
+
+msgid "yesterday"
+msgstr ""
+
+msgid "tomorrow"
+msgstr ""
+
+msgid "Sunday"
+msgstr ""
+
+msgid "Monday"
+msgstr ""
+
+msgid "Tuesday"
+msgstr ""
+
+msgid "Wednesday"
+msgstr ""
+
+msgid "Thursday"
+msgstr ""
+
+msgid "Friday"
+msgstr ""
+
+msgid "Saturday"
+msgstr ""
+
+msgid "first"
+msgstr ""
+
+msgid "second"
+msgstr ""
+
+msgid "third"
+msgstr ""
+
+msgid "fourth"
+msgstr ""
+
+msgid "fifth"
+msgstr ""
+
+msgid "sixth"
+msgstr ""
+
+msgid "seventh"
+msgstr ""
+
+msgid "bom"
+msgstr ""
+
+msgid "eom"
+msgstr ""
+
+msgid "now"
+msgstr ""
+
+msgid "TimeEdit|Represents an editor displaying time values"
+msgstr ""
+
+msgid "DateEdit|Represents an edit control with a dropdown calendar"
+msgstr ""
+
+msgid "CurrencyEdit|Represents an editor enabling editing currency data"
+msgstr ""
+
+msgid "HyperLink|Represents a text editor with hyperlink functionality"
+msgstr ""
+
+msgid "ImageComboBox|Represents an editor displaying the list of images and text strings within the dropdown window"
+msgstr ""
+
+msgid "MRUEdit|Represents a text editor displaying the list of most recently used items (MRU) within a dropdown window"
+msgstr ""
+
+msgid "RadioGroup|Represents a group of radio buttons"
+msgstr ""
+
+msgid "True"
+msgstr ""
+
+msgid "False"
+msgstr ""
+
+msgid "LookupComboBox|Represents a lookup combo box control"
+msgstr ""
+
+msgid "Label|Represents a Label"
+msgstr ""
+
+msgid "Toolbar Panel"
+msgstr ""
+
+msgid "data"
+msgstr ""
+
+msgid "reports"
+msgstr ""
+
+msgid "Default"
+msgstr ""
+
+msgid "<No data to display>"
+msgstr "<Aucune donnée à afficher>"
+
+msgid "Click here to define a filter"
+msgstr "Cliquez ici pour définir un filtre"
+
+msgid "Click here to add a new row"
+msgstr "Cliquez ici pour ajouter une nouvelle ligne"
+
+msgid "Drag a column header here to group by that column"
+msgstr "Faites glisser un en-tête de colonne ici pour regrouper par cette colonne"
+
+msgid "<Filter is Empty>"
+msgstr "<Filter est vide>"
+
+msgid "Click here to show/hide/move columns"
+msgstr "Cliquez ici pour afficher / masquer / déplacer les colonnes"
+
+msgid "First record"
+msgstr ""
+
+msgid "Prior page"
+msgstr ""
+
+msgid "Prior record"
+msgstr ""
+
+msgid "Next record"
+msgstr ""
+
+msgid "Next page"
+msgstr ""
+
+msgid "Last record"
+msgstr "Dernier record"
+
+msgid "Insert record"
+msgstr "Insérer record"
+
+msgid "Delete record"
+msgstr "Supprimer le dossier"
+
+msgid "Edit record"
+msgstr "Modifier le dossier"
+
+msgid "Post edit"
+msgstr "Post éditer"
+
+msgid "Cancel edit"
+msgstr "Annuler éditer"
+
+msgid "Refresh data"
+msgstr "Rafraîchir les données"
+
+msgid "Save Bookmark"
+msgstr ""
+
+msgid "Goto Bookmark"
+msgstr ""
+
+msgid "Filter data"
+msgstr "Filtrer les données"
+
+msgid "ECFAPI"
+msgstr ""
+
+msgid "&Filter Log Items"
+msgstr ""
+
+msgid "&Drill Down"
+msgstr ""
+
+msgid "&Pause Log Viewer"
+msgstr ""
+
+msgid "Scroll to &Earliest Log Item"
+msgstr ""
+
+msgid "&Copy Log Item to Clipboard"
+msgstr ""
+
+msgid "ID"
+msgstr ""
+
+msgid "Date"
+msgstr ""
+
+msgid "Time"
+msgstr "Temps"
+
+msgid "Category"
+msgstr "Catégorie"
+
+msgid "Context"
+msgstr "Contexte"
+
+msgid "Text"
+msgstr ""
+
+msgid "Clear"
+msgstr "Clair"
+
+msgid "License information for %s not found. You cannot use this control in design mode"
+msgstr "Informations de licence pour %s non trouvé. Vous ne pouvez pas utiliser cette commande en mode conception"
+
+msgid "Back"
+msgstr "Retour"
+
+msgid "Forward"
+msgstr "Transférer"
+
+msgid "Home"
+msgstr "Accueil"
+
+msgid "Refresh"
+msgstr "Rafraîchir"
+
+msgid "Stop"
+msgstr ""
+
+msgid "Welcome"
+msgstr "Bienvenue"
+
+msgid "Disconnected"
+msgstr "Déconnecté du serveur"
+
+msgid "Enterprise Core Framework Navigator"
+msgstr ""
+
+msgid "DockMainPanel"
+msgstr ""
+
+msgid "-"
+msgstr ""
+
+msgid "Toolbar"
+msgstr ""
+
+msgid "Log View"
+msgstr "Voir news"
+
+msgid "Module Explorer"
+msgstr ""
+
+msgid "Help"
+msgstr "Aide"
+
+msgid "Run Command"
+msgstr "Exécuter une commande"
+
+msgid "Close active tab"
+msgstr "Fermer l'onglet actif"
+
+msgid "Close all tab"
+msgstr "Fermer tous les onglets"
+
+msgid "Login server"
+msgstr "Connexion au serveur"
+
+msgid "Logout server"
+msgstr "Déconnexion du serveur"
+
+msgid "Settings/properties"
+msgstr "Paramètres/Propriétés"
+
+msgid "Print"
+msgstr "Imprimer"
+
+msgid "Exit"
+msgstr "Quitter"
+
+msgid "Cut"
+msgstr "Couper"
+
+msgid "Copy"
+msgstr "Copier"
+
+msgid "Paste"
+msgstr "Coller"
+
+msgid "Select all"
+msgstr "Sélectionner tout"
+
+msgid "Undo"
+msgstr "Annuler"
+
+msgid "User Manager..."
+msgstr ""
+
+msgid "Connections..."
+msgstr "Connexions"
+
+msgid "User API Access Management"
+msgstr "Utilisateur accès à l'API de gestion"
+
+msgid "Execute"
+msgstr "Exécuter"
+
+msgid "Contents"
+msgstr "Sommaire"
+
+msgid "Search help on..."
+msgstr "Aide à la recherche sur"
+
+msgid "How to use help"
+msgstr "Comment utiliser l'aide"
+
+msgid "Readme"
+msgstr "Readme"
+
+msgid "About"
+msgstr "A propos"
+
+msgid "Options..."
+msgstr "Options"
+
+msgid "Report explorer"
+msgstr ""
+
+msgid "Layout designer"
+msgstr ""
+
+msgid "Manage external tools..."
+msgstr "Gérer les outils externes"
+
+msgid "Recent Documents"
+msgstr "Documents récents"
+
+msgid "Main Menu"
+msgstr "Menu Principal"
+
+msgid "Standard"
+msgstr ""
+
+msgid "Main"
+msgstr ""
+
+msgid "Functions"
+msgstr "Fonctions"
+
+msgid "Clipboard"
+msgstr ""
+
+msgid "Misc"
+msgstr ""
+
+msgid "Quick Access"
+msgstr "Accès Rapide"
+
+msgid "File"
+msgstr "Fichier"
+
+msgid "Edit"
+msgstr "Éditer"
+
+msgid "View"
+msgstr "Voir"
+
+msgid "Tools"
+msgstr "Outils"
+
+msgid "Select"
+msgstr "Sélectionnez"
+
+msgid "New transaction"
+msgstr "Nouvelle transaction"
+
+msgid "Open"
+msgstr "Ouvrir"
+
+msgid "Show"
+msgstr "Voir"
+
+msgid "Extended functions"
+msgstr "Extended fonctions"
+
+msgid "Open Related"
+msgstr "Ouvert connexes"
+
+msgid "Log panel"
+msgstr "Connexion panneau"
+
+msgid "Themes"
+msgstr "Thèmes"
+
+msgid "Languages"
+msgstr "Langues"
+
+msgid "Show report designer"
+msgstr "Voir concepteur de rapport"
+
+msgid "External tools"
+msgstr ""
+
+msgid "Toolbars..."
+msgstr ""
+
+msgid "Run:"
+msgstr "Exécuter"
+
+msgid "Run Command:"
+msgstr "Exécuter une commande"
+
+msgid "All Modules"
+msgstr "Tous les modules"
+
+msgid "TextColorHot"
+msgstr ""
+
+msgid "Server configuration"
+msgstr "Configuration de serveur"
+
+msgid "New"
+msgstr "Nouvelle"
+
+msgid "Delete"
+msgstr "Supprimer"
+
+msgid "Properties"
+msgstr "Propriétés"
+
+msgid "Set Default"
+msgstr "Par défaut"
+
+msgid "dbconn"
+msgstr ""
+
+msgid "Error: Access module is not possible since you are not connected to the server"
+msgstr "Erreur: le module d'accès n'est pas possible, étant donné que vous n'êtes pas connecté au serveur"
+
+msgid "List of available tools:"
+msgstr "Liste des outils disponibles:"
+
+msgid "Add"
+msgstr "Ajouter"
+
+msgid "Move Down"
+msgstr "Déplacer vers le bas"
+
+msgid "Move Up"
+msgstr "Déplacer vers le haut"
+
+msgid "Close"
+msgstr "Fermer"
+
+msgid "External Tools Editor"
+msgstr ""
+
+msgid "Title:"
+msgstr "Titre"
+
+msgid "Program:"
+msgstr "Programme:"
+
+msgid "Working Dir:"
+msgstr "Répertoire de travail:"
+
+msgid "Parameters:"
+msgstr "Paramètres:"
+
+msgid "OK"
+msgstr ""
+
+msgid "Cancel"
+msgstr "Annuler"
+
+msgid "&Customize..."
+msgstr "&Personnaliser"
+
+msgid "Options"
+msgstr ""
+
+msgid "Preferences"
+msgstr "Préférences"
+
+msgid "Show splash screen at startup"
+msgstr "Afficher l'écran de démarrage au démarrage"
+
+msgid "Splash screen"
+msgstr ""
+
+msgid "Show/hide the splash screen at startup."
+msgstr "Afficher/masquer l'écran de démarrage au démarrage."
+
+msgid "Instances"
+msgstr ""
+
+msgid "Enable/disable multiple instances of this application"
+msgstr "Activer/désactiver plusieurs instances de cette application"
+
+msgid "Enable multiple instances"
+msgstr "Activer plusieurs instances"
+
+msgid "Setup the default theme to be used"
+msgstr "Configuration du thème par défaut à utiliser"
+
+msgid "Internationalisation"
+msgstr ""
+
+msgid "Setup default language for this application"
+msgstr "Configuration de la langue par défaut pour cette application"
+
+msgid "Use ribbon bar"
+msgstr "Utilisez du ruban bar"
+
+msgid "<< Previous"
+msgstr "<< Précédent"
+
+msgid "Next >>"
+msgstr "Suivant >>"
+
+msgid "ECFPGM"
+msgstr ""
+
+msgid "Apply Filter"
+msgstr "Appliquer le filtre"
+
+msgid "Connected as %s@%s (%s:%d)"
+msgstr "Connecté en tant que %s@%s (%s:%d)"
+
+msgid "You should restart this application to make your changes fully applied"
+msgstr "Vous devez redémarrer cette application pour que vos modifications soient pleinement appliquées"
+
+msgid "Unknown user name or password."
+msgstr "Inconnu nom d'utilisateur ou un mot de passe."
+
+msgid "&User Name:"
+msgstr "Nom d'utilisateur:"
+
+msgid "&Password:"
+msgstr "Mot de passe:"
+
+msgid "Invalid input value. Use escape key to abandon changes"
+msgstr "Invalid valeur d'entrée. Utilisez touche d'échappement d'abandonner les changements"
+
+msgid "Module %s (%s) has already open, do you want to create a new one?"
+msgstr "Module %s (%s) a déjà ouvert, voulez-vous créer un nouveau?"
+
+msgid "Work with..."
+msgstr "Travailler avec..."
+
+msgid "Personalized Menus and Toolbars  "
+msgstr "Les menus et les barres d'outils personnalisées"
+
+msgid "Menus show recently used commands first"
+msgstr "Afficher les menus récemment utilisés commandes premier"
+
+msgid "Show full menus after a short delay"
+msgstr "Voir la liste complète des menus après un court délai"
+
+msgid "Reset my usage data"
+msgstr "Réinitialiser mes données d'utilisation"
+
+msgid "Other  "
+msgstr "Autres  "
+
+msgid "Large icons"
+msgstr "Grandes icônes"
+
+msgid "Show ToolTips on toolbars"
+msgstr "Voir ToolTips sur les barres d'outils"
+
+msgid "Show shortcut keys in ToolTips"
+msgstr "Afficher les touches de raccourci dans ToolTips"
+

@@ -1,0 +1,12 @@
+LIBRARY	imagemagick
+
+EXPORTS
+IEX_GetInfo
+IEX_SetInfo
+IEX_SetCallBacks
+IEX_Initialize
+IEX_AddParameter
+IEX_Finalize
+IEX_ExecuteRead
+IEX_ExecuteTry
+IEX_ExecuteWrite

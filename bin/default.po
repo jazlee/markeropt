@@ -1,0 +1,4735 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# 
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"POT-Creation-Date: 2009-07-08 22:11\n"
+"PO-Revision-Date: 2009-07-08 22:11\n"
+"Last-Translator: Somebody <your.email@address.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: dxgettext 1.2.2\n"
+
+#. dmReporter..frxReport..Version
+#: dmReporterU.dfm:8
+msgid "4.2.20"
+msgstr ""
+
+#. dmReporter..frxReport..IniFile
+#: dmReporterU.dfm:10
+msgid "\\Software\\Fast Reports"
+msgstr ""
+
+#. dmReporter..frxReport..PrintOptions.Printer
+#: dmReporterU.dfm:13
+#. frmBrowser..BarManager....Categories.Strings
+#: frmBrowserU.dfm:161
+#. frmLog..LogBarManager....Categories.Strings
+#: frmLogU.dfm:177
+#. frmMain..BarManager....Categories.Strings
+#: frmMainU.dfm:578
+#. frmMarkerOptimizer..EngineTabControl..Panel1..TabProperties....Tabs.Strings
+#: frmMarkerOptimizerU.dfm:211
+#. frmMarkerOptimizer..BarManager....Categories.Strings
+#: frmMarkerOptimizerU.dfm:374
+#. frmCustomer..BarManager....Categories.Strings
+#: modules/frmCustomerU.dfm:256
+#. frmFeatureItems..BarManager....Categories.Strings
+#: modules/frmFeatureItemsU.dfm:217
+#. frmFeature..BarManager....Categories.Strings
+#: modules/frmFeatureU.dfm:186
+#. frmLayingRuleItems..BarManager....Categories.Strings
+#: modules/frmLayingRuleItemsU.dfm:168
+#. frmLayingRule..BarManager....Categories.Strings
+#: modules/frmLayingRuleU.dfm:166
+#. frmMaterial..BarManager....Categories.Strings
+#: modules/frmMaterialU.dfm:181
+#. frmStyleType..BarManager....Categories.Strings
+#: modules/frmStyleTypeU.dfm:165
+#. frmUoMConv..BarManager....Categories.Strings
+#: modules/frmUoMConvU.dfm:215
+#. frmUoM..BarManager....Categories.Strings
+#: modules/frmUoMU.dfm:198
+#. frmItem..BarManager....Categories.Strings
+#: packages/frmItemU.dfm:340
+#. frmItmCreation..BarManager....Categories.Strings
+#: packages/frmItmCreationU.dfm:129
+#. frmItmLayingRuleItems..BarManager....Categories.Strings
+#: packages/frmItmLayingRuleItemsU.dfm:187
+#. frmItmMaterial..BarManager....Categories.Strings
+#: packages/frmItmMaterialU.dfm:346
+#. frmOrderItmCreation..BarManager....Categories.Strings
+#: packages/frmOrderItmCreationU.dfm:174
+#. frmOrder..BarManager....Categories.Strings
+#: packages/frmOrderU.dfm:464
+#. frmOrdItem..BarManager....Categories.Strings
+#: packages/frmOrdItemU.dfm:604
+#. frmOrdLayingRuleItems..BarManager....Categories.Strings
+#: packages/frmOrdLayingRuleItemsU.dfm:198
+#. frmOrdMaterial..BarManager....Categories.Strings
+#: packages/frmOrdMaterialU.dfm:590
+#. frmStFeatureItems..BarManager....Categories.Strings
+#: packages/frmStFeatureItemsU.dfm:253
+#. frmStFeature..BarManager....Categories.Strings
+#: packages/frmStFeatureU.dfm:212
+#. frmStLayingRuleItems..BarManager....Categories.Strings
+#: packages/frmStLayingRuleItemsU.dfm:225
+#. frmStMaterial..BarManager....Categories.Strings
+#: packages/frmStMaterialU.dfm:373
+#. frmStyle..BarManager....Categories.Strings
+#: packages/frmStylesU.dfm:256
+msgid "Default"
+msgstr ""
+
+#. dmReporter..frxReport..ScriptLanguage
+#: dmReporterU.dfm:17
+msgid "PascalScript"
+msgstr ""
+
+#. dmReporter..frxReport....ScriptText.Strings
+#: dmReporterU.dfm:20
+msgid "begin"
+msgstr ""
+
+#. dmReporter..frxReport....ScriptText.Strings
+#: dmReporterU.dfm:22
+msgid "end."
+msgstr ""
+
+#. dmReporter..frxReport..DialogPage1..Font.Name
+#: dmReporterU.dfm:36
+#. ecfrptexplorer..BarManager..Font.Name
+#: ecfreporter.dfm:2688
+#. ecfrptexplorer..dxDockingManager1..Font.Name
+#: ecfreporter.dfm:3071
+#. frmBrowser..Font.Name
+#: frmBrowserU.dfm:11
+#. frmBrowser..BarManager..Font.Name
+#: frmBrowserU.dfm:158
+#. frmExtrnToolsEdit..Font.Name
+#: frmExtrnToolsEditU.dfm:12
+#. frmExtrnTools..Font.Name
+#: frmExtrnToolsU.dfm:12
+#. frmFind..Font.Name
+#: frmFindU.dfm:12
+#. frmInputPassword..Font.Name
+#: frmInputPasswdU.dfm:12
+#. frmLog..LogBarManager..Font.Name
+#: frmLogU.dfm:174
+#. frmMain..BarManager..Font.Name
+#: frmMainU.dfm:575
+#. frmMain..dxDockingManager1..Font.Name
+#: frmMainU.dfm:1482
+#. frmMarkerOptimizer..Font.Name
+#: frmMarkerOptimizerU.dfm:11
+#. frmMarkerOptimizer..BarManager..Font.Name
+#: frmMarkerOptimizerU.dfm:371
+#. frmOptions..Font.Name
+#: frmOptionsU.dfm:12
+#. frmProgress..Font.Name
+#: frmProgressU.dfm:12
+#. frmProperties..Font.Name
+#: frmPropU.dfm:12
+#. xfrAboutForm..Font.Name
+#: xfrAboutFrm.dfm:12
+#. xfrAboutForm..Label2..Font.Name
+#: xfrAboutFrm.dfm:39
+#. xfrAboutForm..Label10..Font.Name
+#: xfrAboutFrm.dfm:253
+#. frmCustomer..Font.Name
+#: modules/frmCustomerU.dfm:11
+#. frmCustomer..BarManager..Font.Name
+#: modules/frmCustomerU.dfm:253
+#. frmFeatureItems..Font.Name
+#: modules/frmFeatureItemsU.dfm:11
+#. frmFeatureItems..BarManager..Font.Name
+#: modules/frmFeatureItemsU.dfm:214
+#. frmFeature..Font.Name
+#: modules/frmFeatureU.dfm:11
+#. frmFeature..BarManager..Font.Name
+#: modules/frmFeatureU.dfm:183
+#. frmLayingRuleItems..Font.Name
+#: modules/frmLayingRuleItemsU.dfm:11
+#. frmLayingRuleItems..BarManager..Font.Name
+#: modules/frmLayingRuleItemsU.dfm:165
+#. frmLayingRule..Font.Name
+#: modules/frmLayingRuleU.dfm:11
+#. frmLayingRule..BarManager..Font.Name
+#: modules/frmLayingRuleU.dfm:163
+#. frmMaterial..Font.Name
+#: modules/frmMaterialU.dfm:11
+#. frmMaterial..BarManager..Font.Name
+#: modules/frmMaterialU.dfm:178
+#. frmStyleType..Font.Name
+#: modules/frmStyleTypeU.dfm:11
+#. frmStyleType..BarManager..Font.Name
+#: modules/frmStyleTypeU.dfm:162
+#. frmUoMConv..Font.Name
+#: modules/frmUoMConvU.dfm:11
+#. frmUoMConv..BarManager..Font.Name
+#: modules/frmUoMConvU.dfm:212
+#. frmUoM..Font.Name
+#: modules/frmUoMU.dfm:11
+#. frmUoM..BarManager..Font.Name
+#: modules/frmUoMU.dfm:195
+#. frmItem..Font.Name
+#: packages/frmItemU.dfm:11
+#. frmItem..BarManager..Font.Name
+#: packages/frmItemU.dfm:337
+#. frmItmCreation..Font.Name
+#: packages/frmItmCreationU.dfm:11
+#. frmItmCreation..BarManager..Font.Name
+#: packages/frmItmCreationU.dfm:126
+#. frmItmLayingRuleItems..Font.Name
+#: packages/frmItmLayingRuleItemsU.dfm:11
+#. frmItmLayingRuleItems..BarManager..Font.Name
+#: packages/frmItmLayingRuleItemsU.dfm:184
+#. frmItmMaterial..Font.Name
+#: packages/frmItmMaterialU.dfm:11
+#. frmItmMaterial..BarManager..Font.Name
+#: packages/frmItmMaterialU.dfm:343
+#. frmOrderItmCreation..Font.Name
+#: packages/frmOrderItmCreationU.dfm:11
+#. frmOrderItmCreation..BarManager..Font.Name
+#: packages/frmOrderItmCreationU.dfm:171
+#. frmOrder..Font.Name
+#: packages/frmOrderU.dfm:11
+#. frmOrder..BarManager..Font.Name
+#: packages/frmOrderU.dfm:461
+#. frmOrdItem..Font.Name
+#: packages/frmOrdItemU.dfm:11
+#. frmOrdItem..BarManager..Font.Name
+#: packages/frmOrdItemU.dfm:601
+#. frmOrdLayingRuleItems..Font.Name
+#: packages/frmOrdLayingRuleItemsU.dfm:11
+#. frmOrdLayingRuleItems..BarManager..Font.Name
+#: packages/frmOrdLayingRuleItemsU.dfm:195
+#. frmOrdMaterial..Font.Name
+#: packages/frmOrdMaterialU.dfm:11
+#. frmOrdMaterial..BarManager..Font.Name
+#: packages/frmOrdMaterialU.dfm:587
+#. frmStFeatureItems..Font.Name
+#: packages/frmStFeatureItemsU.dfm:11
+#. frmStFeatureItems..BarManager..Font.Name
+#: packages/frmStFeatureItemsU.dfm:250
+#. frmStFeature..Font.Name
+#: packages/frmStFeatureU.dfm:11
+#. frmStFeature..BarManager..Font.Name
+#: packages/frmStFeatureU.dfm:209
+#. frmStLayingRuleItems..Font.Name
+#: packages/frmStLayingRuleItemsU.dfm:11
+#. frmStLayingRuleItems..BarManager..Font.Name
+#: packages/frmStLayingRuleItemsU.dfm:222
+#. frmStMaterial..Font.Name
+#: packages/frmStMaterialU.dfm:11
+#. frmStMaterial..BarManager..Font.Name
+#: packages/frmStMaterialU.dfm:370
+#. frmStyle..Font.Name
+#: packages/frmStylesU.dfm:11
+#. frmStyle..BarManager..Font.Name
+#: packages/frmStylesU.dfm:253
+msgid "Tahoma"
+msgstr ""
+
+#. dmReporter..frxPDFExport1..Author
+#: dmReporterU.dfm:49
+#. dmReporter..frxXMLExport1..Creator
+#: dmReporterU.dfm:83
+#. dmReporter..frxODTExport1..Creator
+#: dmReporterU.dfm:126
+#. dmReporter..frxODSExport1..Creator
+#: dmReporterU.dfm:136
+#. xfrAboutForm..Label1..Caption
+#: xfrAboutFrm.dfm:68
+msgid "FastReport"
+msgstr ""
+
+#. dmReporter..frxPDFExport1..Subject
+#: dmReporterU.dfm:50
+msgid "FastReport PDF export"
+msgstr ""
+
+#. dmReporter..frxPDFExport1..Creator
+#: dmReporterU.dfm:52
+msgid "FastReport (http://www.fast-report.com)"
+msgstr ""
+
+#. dmReporter..frxRTFExport1..Creator
+#: dmReporterU.dfm:93
+msgid "FastReport http://www.fast-report.com"
+msgstr ""
+
+#. dmReporter..frxCSVExport1..Separator
+#: dmReporterU.dfm:154
+msgid ";"
+msgstr ""
+
+#. dmReporter..frxUserDataSet1..UserName
+#: dmReporterU.dfm:205
+msgid "frxUserDataSet1"
+msgstr ""
+
+#. ecfrptexplorer..Caption
+#: ecfreporter.dfm:4
+msgid "Report Explorer"
+msgstr ""
+
+#. ecfrptexplorer..Font.Name
+#: ecfreporter.dfm:11
+#. ecfrptexplorer..dxStatusBar..Font.Name
+#: ecfreporter.dfm:39
+#. frmAbout..Font.Name
+#: frmAboutU.dfm:12
+#. frmBanner..Font.Name
+#: frmBannerU.dfm:12
+#. frmBanner..Label2..Font.Name
+#: frmBannerU.dfm:9954
+#. frmBrowser..StatusBar..Font.Name
+#: frmBrowserU.dfm:111
+#. frmLog..Font.Name
+#: frmLogU.dfm:11
+#. frmMain..Font.Name
+#: frmMainU.dfm:10
+#. frmMain..StatusBar..Font.Name
+#: frmMainU.dfm:50
+#. frmMarkerOptimizer..StatusBar..Font.Name
+#: frmMarkerOptimizerU.dfm:51
+#. frmCustomer..StatusBar..Font.Name
+#: modules/frmCustomerU.dfm:50
+#. frmFeatureItems..StatusBar..Font.Name
+#: modules/frmFeatureItemsU.dfm:50
+#. frmFeature..StatusBar..Font.Name
+#: modules/frmFeatureU.dfm:50
+#. frmLayingRuleItems..StatusBar..Font.Name
+#: modules/frmLayingRuleItemsU.dfm:50
+#. frmLayingRule..StatusBar..Font.Name
+#: modules/frmLayingRuleU.dfm:50
+#. frmMaterial..StatusBar..Font.Name
+#: modules/frmMaterialU.dfm:50
+#. frmStyleType..StatusBar..Font.Name
+#: modules/frmStyleTypeU.dfm:50
+#. frmUoMConv..StatusBar..Font.Name
+#: modules/frmUoMConvU.dfm:50
+#. frmUoM..StatusBar..Font.Name
+#: modules/frmUoMU.dfm:50
+#. frmItem..StatusBar..Font.Name
+#: packages/frmItemU.dfm:50
+#. frmItmCreation..StatusBar..Font.Name
+#: packages/frmItmCreationU.dfm:103
+#. frmItmLayingRuleItems..StatusBar..Font.Name
+#: packages/frmItmLayingRuleItemsU.dfm:50
+#. frmItmMaterial..StatusBar..Font.Name
+#: packages/frmItmMaterialU.dfm:50
+#. frmOrderItmCreation..StatusBar..Font.Name
+#: packages/frmOrderItmCreationU.dfm:148
+#. frmOrder..StatusBar..Font.Name
+#: packages/frmOrderU.dfm:50
+#. frmOrdItem..StatusBar..Font.Name
+#: packages/frmOrdItemU.dfm:50
+#. frmOrdLayingRuleItems..StatusBar..Font.Name
+#: packages/frmOrdLayingRuleItemsU.dfm:50
+#. frmOrdMaterial..StatusBar..Font.Name
+#: packages/frmOrdMaterialU.dfm:50
+#. frmStFeatureItems..StatusBar..Font.Name
+#: packages/frmStFeatureItemsU.dfm:50
+#. frmStFeature..StatusBar..Font.Name
+#: packages/frmStFeatureU.dfm:50
+#. frmStLayingRuleItems..StatusBar..Font.Name
+#: packages/frmStLayingRuleItemsU.dfm:50
+#. frmStMaterial..StatusBar..Font.Name
+#: packages/frmStMaterialU.dfm:50
+#. frmStyle..StatusBar..Font.Name
+#: packages/frmStylesU.dfm:50
+msgid "MS Sans Serif"
+msgstr ""
+
+#. ecfrptexplorer..dxStatusBar......PanelStyleClassName
+#: ecfreporter.dfm:24
+#. ecfrptexplorer..dxStatusBar......PanelStyleClassName
+#: ecfreporter.dfm:28
+#. ecfrptexplorer..dxStatusBar......PanelStyleClassName
+#: ecfreporter.dfm:32
+#. frmBrowser..StatusBar......PanelStyleClassName
+#: frmBrowserU.dfm:85
+#. frmBrowser..StatusBar......PanelStyleClassName
+#: frmBrowserU.dfm:103
+#. frmMain..StatusBar......PanelStyleClassName
+#: frmMainU.dfm:24
+#. frmMain..StatusBar......PanelStyleClassName
+#: frmMainU.dfm:42
+#. frmMarkerOptimizer..StatusBar......PanelStyleClassName
+#: frmMarkerOptimizerU.dfm:25
+#. frmMarkerOptimizer..StatusBar......PanelStyleClassName
+#: frmMarkerOptimizerU.dfm:43
+#. frmCustomer..StatusBar......PanelStyleClassName
+#: modules/frmCustomerU.dfm:24
+#. frmCustomer..StatusBar......PanelStyleClassName
+#: modules/frmCustomerU.dfm:42
+#. frmFeatureItems..StatusBar......PanelStyleClassName
+#: modules/frmFeatureItemsU.dfm:24
+#. frmFeatureItems..StatusBar......PanelStyleClassName
+#: modules/frmFeatureItemsU.dfm:42
+#. frmFeature..StatusBar......PanelStyleClassName
+#: modules/frmFeatureU.dfm:24
+#. frmFeature..StatusBar......PanelStyleClassName
+#: modules/frmFeatureU.dfm:42
+#. frmLayingRuleItems..StatusBar......PanelStyleClassName
+#: modules/frmLayingRuleItemsU.dfm:24
+#. frmLayingRuleItems..StatusBar......PanelStyleClassName
+#: modules/frmLayingRuleItemsU.dfm:42
+#. frmLayingRule..StatusBar......PanelStyleClassName
+#: modules/frmLayingRuleU.dfm:24
+#. frmLayingRule..StatusBar......PanelStyleClassName
+#: modules/frmLayingRuleU.dfm:42
+#. frmMaterial..StatusBar......PanelStyleClassName
+#: modules/frmMaterialU.dfm:24
+#. frmMaterial..StatusBar......PanelStyleClassName
+#: modules/frmMaterialU.dfm:42
+#. frmStyleType..StatusBar......PanelStyleClassName
+#: modules/frmStyleTypeU.dfm:24
+#. frmStyleType..StatusBar......PanelStyleClassName
+#: modules/frmStyleTypeU.dfm:42
+#. frmUoMConv..StatusBar......PanelStyleClassName
+#: modules/frmUoMConvU.dfm:24
+#. frmUoMConv..StatusBar......PanelStyleClassName
+#: modules/frmUoMConvU.dfm:42
+#. frmUoM..StatusBar......PanelStyleClassName
+#: modules/frmUoMU.dfm:24
+#. frmUoM..StatusBar......PanelStyleClassName
+#: modules/frmUoMU.dfm:42
+#. frmItem..StatusBar......PanelStyleClassName
+#: packages/frmItemU.dfm:24
+#. frmItem..StatusBar......PanelStyleClassName
+#: packages/frmItemU.dfm:42
+#. frmItmCreation..StatusBar......PanelStyleClassName
+#: packages/frmItmCreationU.dfm:77
+#. frmItmCreation..StatusBar......PanelStyleClassName
+#: packages/frmItmCreationU.dfm:95
+#. frmItmLayingRuleItems..StatusBar......PanelStyleClassName
+#: packages/frmItmLayingRuleItemsU.dfm:24
+#. frmItmLayingRuleItems..StatusBar......PanelStyleClassName
+#: packages/frmItmLayingRuleItemsU.dfm:42
+#. frmItmMaterial..StatusBar......PanelStyleClassName
+#: packages/frmItmMaterialU.dfm:24
+#. frmItmMaterial..StatusBar......PanelStyleClassName
+#: packages/frmItmMaterialU.dfm:42
+#. frmOrderItmCreation..StatusBar......PanelStyleClassName
+#: packages/frmOrderItmCreationU.dfm:122
+#. frmOrderItmCreation..StatusBar......PanelStyleClassName
+#: packages/frmOrderItmCreationU.dfm:140
+#. frmOrder..StatusBar......PanelStyleClassName
+#: packages/frmOrderU.dfm:24
+#. frmOrder..StatusBar......PanelStyleClassName
+#: packages/frmOrderU.dfm:42
+#. frmOrdItem..StatusBar......PanelStyleClassName
+#: packages/frmOrdItemU.dfm:24
+#. frmOrdItem..StatusBar......PanelStyleClassName
+#: packages/frmOrdItemU.dfm:42
+#. frmOrdLayingRuleItems..StatusBar......PanelStyleClassName
+#: packages/frmOrdLayingRuleItemsU.dfm:24
+#. frmOrdLayingRuleItems..StatusBar......PanelStyleClassName
+#: packages/frmOrdLayingRuleItemsU.dfm:42
+#. frmOrdMaterial..StatusBar......PanelStyleClassName
+#: packages/frmOrdMaterialU.dfm:24
+#. frmOrdMaterial..StatusBar......PanelStyleClassName
+#: packages/frmOrdMaterialU.dfm:42
+#. frmStFeatureItems..StatusBar......PanelStyleClassName
+#: packages/frmStFeatureItemsU.dfm:24
+#. frmStFeatureItems..StatusBar......PanelStyleClassName
+#: packages/frmStFeatureItemsU.dfm:42
+#. frmStFeature..StatusBar......PanelStyleClassName
+#: packages/frmStFeatureU.dfm:24
+#. frmStFeature..StatusBar......PanelStyleClassName
+#: packages/frmStFeatureU.dfm:42
+#. frmStLayingRuleItems..StatusBar......PanelStyleClassName
+#: packages/frmStLayingRuleItemsU.dfm:24
+#. frmStLayingRuleItems..StatusBar......PanelStyleClassName
+#: packages/frmStLayingRuleItemsU.dfm:42
+#. frmStMaterial..StatusBar......PanelStyleClassName
+#: packages/frmStMaterialU.dfm:24
+#. frmStMaterial..StatusBar......PanelStyleClassName
+#: packages/frmStMaterialU.dfm:42
+#. frmStyle..StatusBar......PanelStyleClassName
+#: packages/frmStylesU.dfm:24
+#. frmStyle..StatusBar......PanelStyleClassName
+#: packages/frmStylesU.dfm:42
+msgid "TdxStatusBarTextPanelStyle"
+msgstr ""
+
+#. ecfrptexplorer..dxDockSite1..dxLayoutDockSite2..ContentPanel..Caption
+#: ecfreporter.dfm:76
+msgid "Report List"
+msgstr ""
+
+#. ecfrptexplorer..dxDockSite1..dxLayoutDockSite2..ContentPanel..RLV......Caption
+#: ecfreporter.dfm:90
+msgid "Name"
+msgstr ""
+
+#. ecfrptexplorer..dxDockSite1..dxLayoutDockSite2..ContentPanel..RLV......Caption
+#: ecfreporter.dfm:94
+msgid "Size"
+msgstr ""
+
+#. ecfrptexplorer..dxDockSite1..dxLayoutDockSite2..ContentPanel..RLV......Caption
+#: ecfreporter.dfm:98
+msgid "Type"
+msgstr ""
+
+#. ecfrptexplorer..dxDockSite1..dxLayoutDockSite2..ContentPanel..RLV......Caption
+#: ecfreporter.dfm:102
+msgid "Date"
+msgstr ""
+
+#. ecfrptexplorer..dxDockSite1..FolderTreePanel..Caption
+#: ecfreporter.dfm:136
+#: ecfreporter.pas:1558
+msgid "Folders"
+msgstr ""
+
+#. ecfrptexplorer..ActionList1..actNewFolder..Category
+#: ecfreporter.dfm:170
+#. ecfrptexplorer..ActionList1..actNewReport..Category
+#: ecfreporter.dfm:176
+#. ecfrptexplorer..ActionList1..actOpen..Category
+#: ecfreporter.dfm:183
+#. ecfrptexplorer..ActionList1..actPrint..Category
+#: ecfreporter.dfm:189
+#. ecfrptexplorer..ActionList1..actDelete..Category
+#: ecfreporter.dfm:195
+#. ecfrptexplorer..ActionList1..actExit..Category
+#: ecfreporter.dfm:201
+#. ecfrptexplorer..ActionList1..actImport..Category
+#: ecfreporter.dfm:288
+#. ecfrptexplorer..ActionList1..actExport..Category
+#: ecfreporter.dfm:293
+#. ecfrptexplorer..ActionList1..actSecureRpt..Category
+#: ecfreporter.dfm:298
+#. ecfrptexplorer..ActionList1..actSaveRpts..Category
+#: ecfreporter.dfm:303
+#. ecfrptexplorer..BarManager....Categories.Strings
+#: ecfreporter.dfm:2691
+#. ecfrptexplorer..BarManager..File1..Caption
+#: ecfreporter.dfm:2948
+#. frmMain..STDActions..actPackageNew..Category
+#: frmMainU.dfm:347
+#. frmMain..STDActions..actPackageOpen..Category
+#: frmMainU.dfm:353
+#. frmMain..STDActions..actPackageClose..Category
+#: frmMainU.dfm:360
+#. frmMain..STDActions..actPackageProperties..Category
+#: frmMainU.dfm:367
+#. frmMain..STDActions..actExit..Category
+#: frmMainU.dfm:373
+#: ecfreporter.pas:1559
+msgid "File"
+msgstr ""
+
+#. ecfrptexplorer..ActionList1..actNewFolder..Caption
+#: ecfreporter.dfm:171
+msgid "Folder"
+msgstr ""
+
+#. ecfrptexplorer..ActionList1..actNewReport..Caption
+#: ecfreporter.dfm:177
+msgid "Report"
+msgstr ""
+
+#. ecfrptexplorer..ActionList1..actOpen..Caption
+#: ecfreporter.dfm:184
+#. frmMain..STDActions..actPackageOpen..Caption
+#: frmMainU.dfm:354
+#: ecfreporter.pas:1533
+msgid "Open"
+msgstr ""
+
+#. ecfrptexplorer..ActionList1..actPrint..Caption
+#: ecfreporter.dfm:190
+msgid "Print Report"
+msgstr ""
+
+#. ecfrptexplorer..ActionList1..actDelete..Caption
+#: ecfreporter.dfm:196
+#. frmExtrnTools..btnDelete..Caption
+#: frmExtrnToolsU.dfm:59
+#: ecfreporter.pas:1535
+msgid "Delete"
+msgstr ""
+
+#. ecfrptexplorer..ActionList1..actExit..Caption
+#: ecfreporter.dfm:202
+#. frmMain..STDActions..actExit..Caption
+#: frmMainU.dfm:374
+#: ecfreporter.pas:1536
+msgid "Exit"
+msgstr ""
+
+#. ecfrptexplorer..ActionList1..actViewList..Category
+#: ecfreporter.dfm:208
+#. ecfrptexplorer..ActionList1..actViewDetails..Category
+#: ecfreporter.dfm:215
+#. ecfrptexplorer..ActionList1..actUpLevel..Category
+#: ecfreporter.dfm:222
+#. ecfrptexplorer..ActionList1..actRefresh..Category
+#: ecfreporter.dfm:239
+#. ecfrptexplorer..ActionList1..actFolderTree..Category
+#: ecfreporter.dfm:245
+#. ecfrptexplorer..BarManager....Categories.Strings
+#: ecfreporter.dfm:2693
+#. ecfrptexplorer..BarManager..View1..Caption
+#: ecfreporter.dfm:2994
+#. frmMain..BarManager..View1..Caption
+#: frmMainU.dfm:1226
+#. frmMain..BarManager..rbnBtnView..Caption
+#: frmMainU.dfm:1345
+#: ecfreporter.pas:1561
+msgid "View"
+msgstr ""
+
+#. ecfrptexplorer..ActionList1..actViewList..Caption
+#: ecfreporter.dfm:209
+#: ecfreporter.pas:1537
+msgid "List"
+msgstr ""
+
+#. ecfrptexplorer..ActionList1..actViewDetails..Caption
+#: ecfreporter.dfm:216
+#: ecfreporter.pas:1538
+msgid "Details"
+msgstr ""
+
+#. ecfrptexplorer..ActionList1..actUpLevel..Caption
+#: ecfreporter.dfm:223
+msgid "Up One Level"
+msgstr ""
+
+#. ecfrptexplorer..ActionList1..actAbout..Category
+#: ecfreporter.dfm:228
+#. ecfrptexplorer..BarManager....Categories.Strings
+#: ecfreporter.dfm:2694
+#. ecfrptexplorer..BarManager..Help1..Caption
+#: ecfreporter.dfm:3027
+#. frmMain..Ribbon..RibbonTabHelp..Caption
+#: frmMainU.dfm:334
+#. frmMain..STDActions..HelpContent..Category
+#: frmMainU.dfm:418
+#. frmMain..STDActions..HelpSearch..Category
+#: frmMainU.dfm:424
+#. frmMain..STDActions..HelpOnHelp..Category
+#: frmMainU.dfm:430
+#. frmMain..STDActions..HelpReadme..Category
+#: frmMainU.dfm:435
+#. frmMain..STDActions..HelpAbout..Category
+#: frmMainU.dfm:441
+#. frmMain..STDActions..actWelcome..Category
+#: frmMainU.dfm:447
+#. frmMain..BarManager....Categories.Strings
+#: frmMainU.dfm:589
+#. frmMain..BarManager..Help1..Caption
+#: frmMainU.dfm:1277
+#: ecfreporter.pas:1562
+msgid "Help"
+msgstr ""
+
+#. ecfrptexplorer..ActionList1..actAbout..Caption
+#: ecfreporter.dfm:229
+#. frmAbout..Caption
+#: frmAboutU.dfm:5
+#: ecfreporter.pas:1540
+msgid "About"
+msgstr ""
+
+#. ecfrptexplorer..ActionList1..actRename..Category
+#: ecfreporter.dfm:234
+#. ecfrptexplorer..ActionList1..actCut..Category
+#: ecfreporter.dfm:267
+#. ecfrptexplorer..ActionList1..actCopy..Category
+#: ecfreporter.dfm:274
+#. ecfrptexplorer..ActionList1..actPaste..Category
+#: ecfreporter.dfm:281
+#. ecfrptexplorer..BarManager....Categories.Strings
+#: ecfreporter.dfm:2692
+#. ecfrptexplorer..BarManager..dxBarSubItem1..Caption
+#: ecfreporter.dfm:3037
+#. frmExtrnTools..btnEdit..Caption
+#: frmExtrnToolsU.dfm:50
+#. frmMain..STDActions..actEditCut1..Category
+#: frmMainU.dfm:379
+#. frmMain..STDActions..actEditCopy1..Category
+#: frmMainU.dfm:387
+#. frmMain..STDActions..actEditPaste1..Category
+#: frmMainU.dfm:395
+#. frmMain..STDActions..actEditSelectAll1..Category
+#: frmMainU.dfm:403
+#. frmMain..STDActions..actEditUndo1..Category
+#: frmMainU.dfm:410
+#: ecfreporter.pas:1560
+msgid "Edit"
+msgstr ""
+
+#. ecfrptexplorer..ActionList1..actRename..Caption
+#: ecfreporter.dfm:235
+#: ecfreporter.pas:1541
+msgid "Rename..."
+msgstr ""
+
+#. ecfrptexplorer..ActionList1..actRefresh..Caption
+#: ecfreporter.dfm:240
+#: ecfreporter.pas:1542
+msgid "Refresh"
+msgstr ""
+
+#. ecfrptexplorer..ActionList1..actFolderTree..Caption
+#: ecfreporter.dfm:246
+msgid "View folder tree "
+msgstr ""
+
+#. ecfrptexplorer..ActionList1..actEmptyRecycleBin..Caption
+#: ecfreporter.dfm:251
+msgid "Empty Recycle bin..."
+msgstr ""
+
+#. ecfrptexplorer..ActionList1..actRestore..Caption
+#: ecfreporter.dfm:255
+#: ecfreporter.pas:1545
+msgid "Restore"
+msgstr ""
+
+#. ecfrptexplorer..ActionList1..actProperties..Caption
+#: ecfreporter.dfm:259
+#: ecfreporter.pas:1546
+msgid "Properties..."
+msgstr ""
+
+#. ecfrptexplorer..ActionList1..actShowOrigFile..Caption
+#: ecfreporter.dfm:263
+msgid "Browse File..."
+msgstr ""
+
+#. ecfrptexplorer..ActionList1..actCut..Caption
+#: ecfreporter.dfm:268
+#. frmMain..STDActions..actEditCut1..Caption
+#: frmMainU.dfm:380
+#: ecfreporter.pas:1548
+msgid "Cut"
+msgstr ""
+
+#. ecfrptexplorer..ActionList1..actCopy..Caption
+#: ecfreporter.dfm:275
+#. frmMain..STDActions..actEditCopy1..Caption
+#: frmMainU.dfm:388
+#: ecfreporter.pas:1549
+msgid "Copy"
+msgstr ""
+
+#. ecfrptexplorer..ActionList1..actPaste..Caption
+#: ecfreporter.dfm:282
+#. frmMain..STDActions..actEditPaste1..Caption
+#: frmMainU.dfm:396
+#: ecfreporter.pas:1550
+msgid "Paste"
+msgstr ""
+
+#. ecfrptexplorer..ActionList1..actImport..Caption
+#: ecfreporter.dfm:289
+msgid "Import Files..."
+msgstr ""
+
+#. ecfrptexplorer..ActionList1..actExport..Caption
+#: ecfreporter.dfm:294
+msgid "Export Files..."
+msgstr ""
+
+#. ecfrptexplorer..ActionList1..actSecureRpt..Caption
+#: ecfreporter.dfm:299
+msgid "Encrypt Report File..."
+msgstr ""
+
+#. ecfrptexplorer..ActionList1..actSaveRpts..Caption
+#: ecfreporter.dfm:304
+msgid "Save report files"
+msgstr ""
+
+#. ecfrptexplorer..BarManager....Categories.Strings
+#: ecfreporter.dfm:2695
+#. frmMain..BarManager....Categories.Strings
+#: frmMainU.dfm:585
+msgid "Menus"
+msgstr ""
+
+#. ecfrptexplorer..BarManager..BarManagerBar1..Caption
+#: ecfreporter.dfm:2721
+#. ecfrptexplorer..BarManager..BarManagerBar1..OldName
+#: ecfreporter.dfm:2750
+#. frmMain..BarManager..stdBarMain..Caption
+#: frmMainU.dfm:637
+msgid "Main Menu"
+msgstr ""
+
+#. ecfrptexplorer..BarManager..BarManagerBar1......ItemName
+#: ecfreporter.dfm:2735
+msgid "File1"
+msgstr ""
+
+#. ecfrptexplorer..BarManager..BarManagerBar1......ItemName
+#: ecfreporter.dfm:2739
+msgid "dxBarSubItem1"
+msgstr ""
+
+#. ecfrptexplorer..BarManager..BarManagerBar1......ItemName
+#: ecfreporter.dfm:2743
+#. frmMain..BarManager..stdBarMain......ItemName
+#: frmMainU.dfm:663
+msgid "View1"
+msgstr ""
+
+#. ecfrptexplorer..BarManager..BarManagerBar1......ItemName
+#: ecfreporter.dfm:2747
+#. frmMain..BarManager..stdBarMain......ItemName
+#: frmMainU.dfm:671
+msgid "Help1"
+msgstr ""
+
+#. ecfrptexplorer..BarManager..BarManagerBar2..Caption
+#: ecfreporter.dfm:2758
+#. ecfrptexplorer..BarManager..BarManagerBar2..OldName
+#: ecfreporter.dfm:2815
+#. frmLog..LogBarManager..LogBarManagerBar1..Caption
+#: frmLogU.dfm:198
+msgid "Toolbar"
+msgstr ""
+
+#. ecfrptexplorer..BarManager..BarManagerBar2......ItemName
+#: ecfreporter.dfm:2771
+#. ecfrptexplorer..BarManager..View1......ItemName
+#: ecfreporter.dfm:3009
+msgid "Uponelevel1"
+msgstr ""
+
+#. ecfrptexplorer..BarManager..BarManagerBar2......ItemName
+#: ecfreporter.dfm:2776
+#. ecfrptexplorer..BarManager..New1......ItemName
+#: ecfreporter.dfm:2829
+msgid "Folder1"
+msgstr ""
+
+#. ecfrptexplorer..BarManager..BarManagerBar2......ItemName
+#: ecfreporter.dfm:2780
+#. ecfrptexplorer..BarManager..New1......ItemName
+#: ecfreporter.dfm:2833
+msgid "Report1"
+msgstr ""
+
+#. ecfrptexplorer..BarManager..BarManagerBar2......ItemName
+#: ecfreporter.dfm:2785
+#. ecfrptexplorer..BarManager..File1......ItemName
+#: ecfreporter.dfm:2985
+msgid "Print1"
+msgstr ""
+
+#. ecfrptexplorer..BarManager..BarManagerBar2......ItemName
+#: ecfreporter.dfm:2790
+#. ecfrptexplorer..BarManager..File1......ItemName
+#: ecfreporter.dfm:2958
+msgid "OpenReport1"
+msgstr ""
+
+#. ecfrptexplorer..BarManager..BarManagerBar2......ItemName
+#: ecfreporter.dfm:2794
+#. ecfrptexplorer..BarManager..File1......ItemName
+#: ecfreporter.dfm:2967
+#. ecfrptexplorer..BarManager..dxBarSubItem1......ItemName
+#: ecfreporter.dfm:3056
+msgid "DeleteReport1"
+msgstr ""
+
+#. ecfrptexplorer..BarManager..BarManagerBar2......ItemName
+#: ecfreporter.dfm:2799
+#. ecfrptexplorer..BarManager..View1......ItemName
+#: ecfreporter.dfm:3014
+msgid "List1"
+msgstr ""
+
+#. ecfrptexplorer..BarManager..BarManagerBar2......ItemName
+#: ecfreporter.dfm:2803
+#. ecfrptexplorer..BarManager..View1......ItemName
+#: ecfreporter.dfm:3018
+msgid "Detail1"
+msgstr ""
+
+#. ecfrptexplorer..BarManager..BarManagerBar2......ItemName
+#: ecfreporter.dfm:2808
+#. ecfrptexplorer..BarManager..View1......ItemName
+#: ecfreporter.dfm:3023
+msgid "dxBarButton2"
+msgstr ""
+
+#. ecfrptexplorer..BarManager..BarManagerBar2......ItemName
+#: ecfreporter.dfm:2813
+#. ecfrptexplorer..BarManager..Help1......ItemName
+#: ecfreporter.dfm:3033
+#. frmMain..BarManager..Help1......ItemName
+#: frmMainU.dfm:1301
+msgid "About1"
+msgstr ""
+
+#. ecfrptexplorer..BarManager..New1..Caption
+#: ecfreporter.dfm:2823
+#: ecfreporter.pas:1555
+msgid "New"
+msgstr ""
+
+#. ecfrptexplorer..BarManager..AdmOptionList..Caption
+#: ecfreporter.dfm:2870
+msgid "Admin Option"
+msgstr ""
+
+#. ecfrptexplorer..BarManager..AdmOptionList......ItemName
+#: ecfreporter.dfm:2876
+msgid "dxBarButton16"
+msgstr ""
+
+#. ecfrptexplorer..BarManager..AdmOptionList......ItemName
+#: ecfreporter.dfm:2880
+msgid "dxBarButton15"
+msgstr ""
+
+#. ecfrptexplorer..BarManager..itmShowHidden..Caption
+#: ecfreporter.dfm:2914
+#. ecfrptexplorer..BarManager..itmShowHidden..Hint
+#: ecfreporter.dfm:2916
+msgid "Show Hidden Files"
+msgstr ""
+
+#. ecfrptexplorer..BarManager..File1......ItemName
+#: ecfreporter.dfm:2954
+msgid "New1"
+msgstr ""
+
+#. ecfrptexplorer..BarManager..File1......ItemName
+#: ecfreporter.dfm:2962
+#. frmLog..LogBarManager..LogBarManagerBar1......ItemName
+#: frmLogU.dfm:211
+#. frmMain..BarManager..Tools1......ItemName
+#: frmMainU.dfm:1273
+#. frmMain..BarManager..rbnBtnTools......ItemName
+#: frmMainU.dfm:1415
+msgid "dxBarButton1"
+msgstr ""
+
+#. ecfrptexplorer..BarManager..File1......ItemName
+#: ecfreporter.dfm:2972
+#. frmMain..BarManager..stdBarStandard......ItemName
+#: frmMainU.dfm:747
+#. frmMain..BarManager..Help1......ItemName
+#: frmMainU.dfm:1283
+msgid "dxBarButton3"
+msgstr ""
+
+#. ecfrptexplorer..BarManager..File1......ItemName
+#: ecfreporter.dfm:2976
+#. frmMain..BarManager..Help1......ItemName
+#: frmMainU.dfm:1288
+msgid "dxBarButton4"
+msgstr ""
+
+#. ecfrptexplorer..BarManager..File1......ItemName
+#: ecfreporter.dfm:2980
+msgid "AdmOptionList"
+msgstr ""
+
+#. ecfrptexplorer..BarManager..File1......ItemName
+#: ecfreporter.dfm:2990
+msgid "Exit1"
+msgstr ""
+
+#. ecfrptexplorer..BarManager..View1......ItemName
+#: ecfreporter.dfm:3000
+msgid "itmViewFolderTree"
+msgstr ""
+
+#. ecfrptexplorer..BarManager..View1......ItemName
+#: ecfreporter.dfm:3004
+msgid "itmShowHidden"
+msgstr ""
+
+#. ecfrptexplorer..BarManager..dxBarSubItem1......ItemName
+#: ecfreporter.dfm:3043
+#. frmMain..BarManager..Help1......ItemName
+#: frmMainU.dfm:1292
+msgid "dxBarButton5"
+msgstr ""
+
+#. ecfrptexplorer..BarManager..dxBarSubItem1......ItemName
+#: ecfreporter.dfm:3047
+#. frmMain..BarManager..Help1......ItemName
+#: frmMainU.dfm:1296
+msgid "dxBarButton6"
+msgstr ""
+
+#. ecfrptexplorer..BarManager..dxBarSubItem1......ItemName
+#: ecfreporter.dfm:3051
+msgid "dxBarButton7"
+msgstr ""
+
+#. ecfrptexplorer..PopupMenu1..N5..Caption
+#: ecfreporter.dfm:3671
+#. ecfrptexplorer..PopupMenu1..N2..Caption
+#: ecfreporter.dfm:3683
+#. ecfrptexplorer..PopupMenu1..N1..Caption
+#: ecfreporter.dfm:3695
+#. ecfrptexplorer..PopupMenu1..N3..Caption
+#: ecfreporter.dfm:3713
+#. ecfrptexplorer..PopupMenu1..N4..Caption
+#: ecfreporter.dfm:3722
+#. frmMain..MainPopupMenu..N1..Caption
+#: frmMainU.dfm:1501
+#. frmMain..MainPopupMenu..N2..Caption
+#: frmMainU.dfm:1507
+#. frmMain..MainPopupMenu..N3..Caption
+#: frmMainU.dfm:1519
+#. frmMain..MainPopupMenu..References2..N4..Caption
+#: frmMainU.dfm:1527
+#. frmMain..MainPopupMenu..References2..N5..Caption
+#: frmMainU.dfm:1545
+#. frmMain..MainPopupMenu..N6..Caption
+#: frmMainU.dfm:1552
+#. frmMain..MainPopupMenu..N7..Caption
+#: frmMainU.dfm:1561
+#. frmMarkerOptimizer..DistPopupMenu..N1..Caption
+#: frmMarkerOptimizerU.dfm:548
+#. frmMarkerOptimizer..DistPopupMenu..N2..Caption
+#: frmMarkerOptimizerU.dfm:557
+#. frmMarkerOptimizer..DistPopupMenu..N3..Caption
+#: frmMarkerOptimizerU.dfm:566
+#. frmMarkerOptimizer..DistPopupMenu..N4..Caption
+#: frmMarkerOptimizerU.dfm:575
+#. frmMarkerOptimizer..DistPopupMenu..N5..Caption
+#: frmMarkerOptimizerU.dfm:584
+#. frmItmCreation..PopupMenu1..N1..Caption
+#: packages/frmItmCreationU.dfm:215
+#. frmItmCreation..PopupMenu1..N2..Caption
+#: packages/frmItmCreationU.dfm:233
+#. frmItmCreation..PopupMenu1..N3..Caption
+#: packages/frmItmCreationU.dfm:239
+#. frmOrderItmCreation..PopupMenu1..N1..Caption
+#: packages/frmOrderItmCreationU.dfm:260
+#. frmOrderItmCreation..PopupMenu1..N2..Caption
+#: packages/frmOrderItmCreationU.dfm:278
+#. frmOrderItmCreation..PopupMenu1..N3..Caption
+#: packages/frmOrderItmCreationU.dfm:284
+msgid "-"
+msgstr ""
+
+#. ecfrptexplorer..PopupMenu1..ImportExport1..Caption
+#: ecfreporter.dfm:3698
+#: ecfreporter.pas:1563
+msgid "Import/Export"
+msgstr ""
+
+#. frmAbout..Label4....Caption
+#: frmAboutU.dfm:36
+msgid "Perhatian: Aplikasi ini dilindungi oleh undang-undang hak cipta dan "
+"kesepakatan \n"
+"internasional. Segala bentuk reproduksi, atau distribusi dari "
+"aplikasi ini, atau\n"
+"bagian dari aplikasi ini tanpa ijin tertulis adalah melanggar hukum "
+"dan akan \n"
+"dituntut ke meja hijau."
+msgstr ""
+
+#. frmAbout..Label4..Font.Name
+#: frmAboutU.dfm:40
+#. frmAbout..Label2..Font.Name
+#: frmAboutU.dfm:88
+msgid "Arial"
+msgstr ""
+
+#. frmAbout..Label3..Caption
+#: frmAboutU.dfm:66
+msgid "Portions of copyright informations"
+msgstr ""
+
+#. frmAbout..Button2..Caption
+#: frmAboutU.dfm:937
+#. frmExtrnToolsEdit..btnOK..Caption
+#: frmExtrnToolsEditU.dfm:79
+#. frmFind..btnOK..Caption
+#: frmFindU.dfm:72
+#. frmInputPassword..btnOK..Caption
+#: frmInputPasswdU.dfm:31
+#. frmOptions..btnOK..Caption
+#: frmOptionsU.dfm:258
+#. frmProperties..btnOK..Caption
+#: frmPropU.dfm:23
+#. xfrAboutForm..Button1..Caption
+#: xfrAboutFrm.dfm:278
+msgid "OK"
+msgstr ""
+
+#. frmBanner..Label1..Caption
+#: frmBannerU.dfm:9942
+msgid "sdf"
+msgstr ""
+
+#. frmBanner..Label2..Caption
+#: frmBannerU.dfm:9950
+msgid "Version: "
+msgstr ""
+
+#. frmBrowser..Caption
+#: frmBrowserU.dfm:4
+msgid "Browser"
+msgstr ""
+
+#. frmBrowser..cxTabControl1..cxPageControl1..cxTabSheet1..Caption
+#: frmBrowserU.dfm:47
+msgid "Browse"
+msgstr ""
+
+#. frmBrowser..StatusBar......PanelStyleClassName
+#: frmBrowserU.dfm:90
+#. frmMain..StatusBar......PanelStyleClassName
+#: frmMainU.dfm:29
+#. frmMarkerOptimizer..StatusBar......PanelStyleClassName
+#: frmMarkerOptimizerU.dfm:30
+#. frmCustomer..StatusBar......PanelStyleClassName
+#: modules/frmCustomerU.dfm:29
+#. frmFeatureItems..StatusBar......PanelStyleClassName
+#: modules/frmFeatureItemsU.dfm:29
+#. frmFeature..StatusBar......PanelStyleClassName
+#: modules/frmFeatureU.dfm:29
+#. frmLayingRuleItems..StatusBar......PanelStyleClassName
+#: modules/frmLayingRuleItemsU.dfm:29
+#. frmLayingRule..StatusBar......PanelStyleClassName
+#: modules/frmLayingRuleU.dfm:29
+#. frmMaterial..StatusBar......PanelStyleClassName
+#: modules/frmMaterialU.dfm:29
+#. frmStyleType..StatusBar......PanelStyleClassName
+#: modules/frmStyleTypeU.dfm:29
+#. frmUoMConv..StatusBar......PanelStyleClassName
+#: modules/frmUoMConvU.dfm:29
+#. frmUoM..StatusBar......PanelStyleClassName
+#: modules/frmUoMU.dfm:29
+#. frmItem..StatusBar......PanelStyleClassName
+#: packages/frmItemU.dfm:29
+#. frmItmCreation..StatusBar......PanelStyleClassName
+#: packages/frmItmCreationU.dfm:82
+#. frmItmLayingRuleItems..StatusBar......PanelStyleClassName
+#: packages/frmItmLayingRuleItemsU.dfm:29
+#. frmItmMaterial..StatusBar......PanelStyleClassName
+#: packages/frmItmMaterialU.dfm:29
+#. frmOrderItmCreation..StatusBar......PanelStyleClassName
+#: packages/frmOrderItmCreationU.dfm:127
+#. frmOrder..StatusBar......PanelStyleClassName
+#: packages/frmOrderU.dfm:29
+#. frmOrdItem..StatusBar......PanelStyleClassName
+#: packages/frmOrdItemU.dfm:29
+#. frmOrdLayingRuleItems..StatusBar......PanelStyleClassName
+#: packages/frmOrdLayingRuleItemsU.dfm:29
+#. frmOrdMaterial..StatusBar......PanelStyleClassName
+#: packages/frmOrdMaterialU.dfm:29
+#. frmStFeatureItems..StatusBar......PanelStyleClassName
+#: packages/frmStFeatureItemsU.dfm:29
+#. frmStFeature..StatusBar......PanelStyleClassName
+#: packages/frmStFeatureU.dfm:29
+#. frmStLayingRuleItems..StatusBar......PanelStyleClassName
+#: packages/frmStLayingRuleItemsU.dfm:29
+#. frmStMaterial..StatusBar......PanelStyleClassName
+#: packages/frmStMaterialU.dfm:29
+#. frmStyle..StatusBar......PanelStyleClassName
+#: packages/frmStylesU.dfm:29
+msgid "TdxStatusBarKeyboardStatePanelStyle"
+msgstr ""
+
+#. frmBrowser..StatusBar......PanelStyle.CapsLockKeyAppearance.ActiveCaption
+#: frmBrowserU.dfm:91
+#. frmBrowser..StatusBar......PanelStyle.CapsLockKeyAppearance.InactiveCaption
+#: frmBrowserU.dfm:92
+#. frmMain..StatusBar......PanelStyle.CapsLockKeyAppearance.ActiveCaption
+#: frmMainU.dfm:30
+#. frmMain..StatusBar......PanelStyle.CapsLockKeyAppearance.InactiveCaption
+#: frmMainU.dfm:31
+#. frmMarkerOptimizer..StatusBar......PanelStyle.CapsLockKeyAppearance.ActiveCaption
+#: frmMarkerOptimizerU.dfm:31
+#. frmMarkerOptimizer..StatusBar......PanelStyle.CapsLockKeyAppearance.InactiveCaption
+#: frmMarkerOptimizerU.dfm:32
+#. frmCustomer..StatusBar......PanelStyle.CapsLockKeyAppearance.ActiveCaption
+#: modules/frmCustomerU.dfm:30
+#. frmCustomer..StatusBar......PanelStyle.CapsLockKeyAppearance.InactiveCaption
+#: modules/frmCustomerU.dfm:31
+#. frmFeatureItems..StatusBar......PanelStyle.CapsLockKeyAppearance.ActiveCaption
+#: modules/frmFeatureItemsU.dfm:30
+#. frmFeatureItems..StatusBar......PanelStyle.CapsLockKeyAppearance.InactiveCaption
+#: modules/frmFeatureItemsU.dfm:31
+#. frmFeature..StatusBar......PanelStyle.CapsLockKeyAppearance.ActiveCaption
+#: modules/frmFeatureU.dfm:30
+#. frmFeature..StatusBar......PanelStyle.CapsLockKeyAppearance.InactiveCaption
+#: modules/frmFeatureU.dfm:31
+#. frmLayingRuleItems..StatusBar......PanelStyle.CapsLockKeyAppearance.ActiveCaption
+#: modules/frmLayingRuleItemsU.dfm:30
+#. frmLayingRuleItems..StatusBar......PanelStyle.CapsLockKeyAppearance.InactiveCaption
+#: modules/frmLayingRuleItemsU.dfm:31
+#. frmLayingRule..StatusBar......PanelStyle.CapsLockKeyAppearance.ActiveCaption
+#: modules/frmLayingRuleU.dfm:30
+#. frmLayingRule..StatusBar......PanelStyle.CapsLockKeyAppearance.InactiveCaption
+#: modules/frmLayingRuleU.dfm:31
+#. frmMaterial..StatusBar......PanelStyle.CapsLockKeyAppearance.ActiveCaption
+#: modules/frmMaterialU.dfm:30
+#. frmMaterial..StatusBar......PanelStyle.CapsLockKeyAppearance.InactiveCaption
+#: modules/frmMaterialU.dfm:31
+#. frmStyleType..StatusBar......PanelStyle.CapsLockKeyAppearance.ActiveCaption
+#: modules/frmStyleTypeU.dfm:30
+#. frmStyleType..StatusBar......PanelStyle.CapsLockKeyAppearance.InactiveCaption
+#: modules/frmStyleTypeU.dfm:31
+#. frmUoMConv..StatusBar......PanelStyle.CapsLockKeyAppearance.ActiveCaption
+#: modules/frmUoMConvU.dfm:30
+#. frmUoMConv..StatusBar......PanelStyle.CapsLockKeyAppearance.InactiveCaption
+#: modules/frmUoMConvU.dfm:31
+#. frmUoM..StatusBar......PanelStyle.CapsLockKeyAppearance.ActiveCaption
+#: modules/frmUoMU.dfm:30
+#. frmUoM..StatusBar......PanelStyle.CapsLockKeyAppearance.InactiveCaption
+#: modules/frmUoMU.dfm:31
+#. frmItem..StatusBar......PanelStyle.CapsLockKeyAppearance.ActiveCaption
+#: packages/frmItemU.dfm:30
+#. frmItem..StatusBar......PanelStyle.CapsLockKeyAppearance.InactiveCaption
+#: packages/frmItemU.dfm:31
+#. frmItmCreation..StatusBar......PanelStyle.CapsLockKeyAppearance.ActiveCaption
+#: packages/frmItmCreationU.dfm:83
+#. frmItmCreation..StatusBar......PanelStyle.CapsLockKeyAppearance.InactiveCaption
+#: packages/frmItmCreationU.dfm:84
+#. frmItmLayingRuleItems..StatusBar......PanelStyle.CapsLockKeyAppearance.ActiveCaption
+#: packages/frmItmLayingRuleItemsU.dfm:30
+#. frmItmLayingRuleItems..StatusBar......PanelStyle.CapsLockKeyAppearance.InactiveCaption
+#: packages/frmItmLayingRuleItemsU.dfm:31
+#. frmItmMaterial..StatusBar......PanelStyle.CapsLockKeyAppearance.ActiveCaption
+#: packages/frmItmMaterialU.dfm:30
+#. frmItmMaterial..StatusBar......PanelStyle.CapsLockKeyAppearance.InactiveCaption
+#: packages/frmItmMaterialU.dfm:31
+#. frmOrderItmCreation..StatusBar......PanelStyle.CapsLockKeyAppearance.ActiveCaption
+#: packages/frmOrderItmCreationU.dfm:128
+#. frmOrderItmCreation..StatusBar......PanelStyle.CapsLockKeyAppearance.InactiveCaption
+#: packages/frmOrderItmCreationU.dfm:129
+#. frmOrder..StatusBar......PanelStyle.CapsLockKeyAppearance.ActiveCaption
+#: packages/frmOrderU.dfm:30
+#. frmOrder..StatusBar......PanelStyle.CapsLockKeyAppearance.InactiveCaption
+#: packages/frmOrderU.dfm:31
+#. frmOrdItem..StatusBar......PanelStyle.CapsLockKeyAppearance.ActiveCaption
+#: packages/frmOrdItemU.dfm:30
+#. frmOrdItem..StatusBar......PanelStyle.CapsLockKeyAppearance.InactiveCaption
+#: packages/frmOrdItemU.dfm:31
+#. frmOrdLayingRuleItems..StatusBar......PanelStyle.CapsLockKeyAppearance.ActiveCaption
+#: packages/frmOrdLayingRuleItemsU.dfm:30
+#. frmOrdLayingRuleItems..StatusBar......PanelStyle.CapsLockKeyAppearance.InactiveCaption
+#: packages/frmOrdLayingRuleItemsU.dfm:31
+#. frmOrdMaterial..StatusBar......PanelStyle.CapsLockKeyAppearance.ActiveCaption
+#: packages/frmOrdMaterialU.dfm:30
+#. frmOrdMaterial..StatusBar......PanelStyle.CapsLockKeyAppearance.InactiveCaption
+#: packages/frmOrdMaterialU.dfm:31
+#. frmStFeatureItems..StatusBar......PanelStyle.CapsLockKeyAppearance.ActiveCaption
+#: packages/frmStFeatureItemsU.dfm:30
+#. frmStFeatureItems..StatusBar......PanelStyle.CapsLockKeyAppearance.InactiveCaption
+#: packages/frmStFeatureItemsU.dfm:31
+#. frmStFeature..StatusBar......PanelStyle.CapsLockKeyAppearance.ActiveCaption
+#: packages/frmStFeatureU.dfm:30
+#. frmStFeature..StatusBar......PanelStyle.CapsLockKeyAppearance.InactiveCaption
+#: packages/frmStFeatureU.dfm:31
+#. frmStLayingRuleItems..StatusBar......PanelStyle.CapsLockKeyAppearance.ActiveCaption
+#: packages/frmStLayingRuleItemsU.dfm:30
+#. frmStLayingRuleItems..StatusBar......PanelStyle.CapsLockKeyAppearance.InactiveCaption
+#: packages/frmStLayingRuleItemsU.dfm:31
+#. frmStMaterial..StatusBar......PanelStyle.CapsLockKeyAppearance.ActiveCaption
+#: packages/frmStMaterialU.dfm:30
+#. frmStMaterial..StatusBar......PanelStyle.CapsLockKeyAppearance.InactiveCaption
+#: packages/frmStMaterialU.dfm:31
+#. frmStyle..StatusBar......PanelStyle.CapsLockKeyAppearance.ActiveCaption
+#: packages/frmStylesU.dfm:30
+#. frmStyle..StatusBar......PanelStyle.CapsLockKeyAppearance.InactiveCaption
+#: packages/frmStylesU.dfm:31
+msgid "CAPS"
+msgstr ""
+
+#. frmBrowser..StatusBar......PanelStyle.NumLockKeyAppearance.ActiveCaption
+#: frmBrowserU.dfm:93
+#. frmBrowser..StatusBar......PanelStyle.NumLockKeyAppearance.InactiveCaption
+#: frmBrowserU.dfm:94
+#. frmMain..StatusBar......PanelStyle.NumLockKeyAppearance.ActiveCaption
+#: frmMainU.dfm:32
+#. frmMain..StatusBar......PanelStyle.NumLockKeyAppearance.InactiveCaption
+#: frmMainU.dfm:33
+#. frmMarkerOptimizer..StatusBar......PanelStyle.NumLockKeyAppearance.ActiveCaption
+#: frmMarkerOptimizerU.dfm:33
+#. frmMarkerOptimizer..StatusBar......PanelStyle.NumLockKeyAppearance.InactiveCaption
+#: frmMarkerOptimizerU.dfm:34
+#. frmCustomer..StatusBar......PanelStyle.NumLockKeyAppearance.ActiveCaption
+#: modules/frmCustomerU.dfm:32
+#. frmCustomer..StatusBar......PanelStyle.NumLockKeyAppearance.InactiveCaption
+#: modules/frmCustomerU.dfm:33
+#. frmFeatureItems..StatusBar......PanelStyle.NumLockKeyAppearance.ActiveCaption
+#: modules/frmFeatureItemsU.dfm:32
+#. frmFeatureItems..StatusBar......PanelStyle.NumLockKeyAppearance.InactiveCaption
+#: modules/frmFeatureItemsU.dfm:33
+#. frmFeature..StatusBar......PanelStyle.NumLockKeyAppearance.ActiveCaption
+#: modules/frmFeatureU.dfm:32
+#. frmFeature..StatusBar......PanelStyle.NumLockKeyAppearance.InactiveCaption
+#: modules/frmFeatureU.dfm:33
+#. frmLayingRuleItems..StatusBar......PanelStyle.NumLockKeyAppearance.ActiveCaption
+#: modules/frmLayingRuleItemsU.dfm:32
+#. frmLayingRuleItems..StatusBar......PanelStyle.NumLockKeyAppearance.InactiveCaption
+#: modules/frmLayingRuleItemsU.dfm:33
+#. frmLayingRule..StatusBar......PanelStyle.NumLockKeyAppearance.ActiveCaption
+#: modules/frmLayingRuleU.dfm:32
+#. frmLayingRule..StatusBar......PanelStyle.NumLockKeyAppearance.InactiveCaption
+#: modules/frmLayingRuleU.dfm:33
+#. frmMaterial..StatusBar......PanelStyle.NumLockKeyAppearance.ActiveCaption
+#: modules/frmMaterialU.dfm:32
+#. frmMaterial..StatusBar......PanelStyle.NumLockKeyAppearance.InactiveCaption
+#: modules/frmMaterialU.dfm:33
+#. frmStyleType..StatusBar......PanelStyle.NumLockKeyAppearance.ActiveCaption
+#: modules/frmStyleTypeU.dfm:32
+#. frmStyleType..StatusBar......PanelStyle.NumLockKeyAppearance.InactiveCaption
+#: modules/frmStyleTypeU.dfm:33
+#. frmUoMConv..StatusBar......PanelStyle.NumLockKeyAppearance.ActiveCaption
+#: modules/frmUoMConvU.dfm:32
+#. frmUoMConv..StatusBar......PanelStyle.NumLockKeyAppearance.InactiveCaption
+#: modules/frmUoMConvU.dfm:33
+#. frmUoM..StatusBar......PanelStyle.NumLockKeyAppearance.ActiveCaption
+#: modules/frmUoMU.dfm:32
+#. frmUoM..StatusBar......PanelStyle.NumLockKeyAppearance.InactiveCaption
+#: modules/frmUoMU.dfm:33
+#. frmItem..StatusBar......PanelStyle.NumLockKeyAppearance.ActiveCaption
+#: packages/frmItemU.dfm:32
+#. frmItem..StatusBar......PanelStyle.NumLockKeyAppearance.InactiveCaption
+#: packages/frmItemU.dfm:33
+#. frmItmCreation..StatusBar......PanelStyle.NumLockKeyAppearance.ActiveCaption
+#: packages/frmItmCreationU.dfm:85
+#. frmItmCreation..StatusBar......PanelStyle.NumLockKeyAppearance.InactiveCaption
+#: packages/frmItmCreationU.dfm:86
+#. frmItmLayingRuleItems..StatusBar......PanelStyle.NumLockKeyAppearance.ActiveCaption
+#: packages/frmItmLayingRuleItemsU.dfm:32
+#. frmItmLayingRuleItems..StatusBar......PanelStyle.NumLockKeyAppearance.InactiveCaption
+#: packages/frmItmLayingRuleItemsU.dfm:33
+#. frmItmMaterial..StatusBar......PanelStyle.NumLockKeyAppearance.ActiveCaption
+#: packages/frmItmMaterialU.dfm:32
+#. frmItmMaterial..StatusBar......PanelStyle.NumLockKeyAppearance.InactiveCaption
+#: packages/frmItmMaterialU.dfm:33
+#. frmOrderItmCreation..StatusBar......PanelStyle.NumLockKeyAppearance.ActiveCaption
+#: packages/frmOrderItmCreationU.dfm:130
+#. frmOrderItmCreation..StatusBar......PanelStyle.NumLockKeyAppearance.InactiveCaption
+#: packages/frmOrderItmCreationU.dfm:131
+#. frmOrder..StatusBar......PanelStyle.NumLockKeyAppearance.ActiveCaption
+#: packages/frmOrderU.dfm:32
+#. frmOrder..StatusBar......PanelStyle.NumLockKeyAppearance.InactiveCaption
+#: packages/frmOrderU.dfm:33
+#. frmOrdItem..StatusBar......PanelStyle.NumLockKeyAppearance.ActiveCaption
+#: packages/frmOrdItemU.dfm:32
+#. frmOrdItem..StatusBar......PanelStyle.NumLockKeyAppearance.InactiveCaption
+#: packages/frmOrdItemU.dfm:33
+#. frmOrdLayingRuleItems..StatusBar......PanelStyle.NumLockKeyAppearance.ActiveCaption
+#: packages/frmOrdLayingRuleItemsU.dfm:32
+#. frmOrdLayingRuleItems..StatusBar......PanelStyle.NumLockKeyAppearance.InactiveCaption
+#: packages/frmOrdLayingRuleItemsU.dfm:33
+#. frmOrdMaterial..StatusBar......PanelStyle.NumLockKeyAppearance.ActiveCaption
+#: packages/frmOrdMaterialU.dfm:32
+#. frmOrdMaterial..StatusBar......PanelStyle.NumLockKeyAppearance.InactiveCaption
+#: packages/frmOrdMaterialU.dfm:33
+#. frmStFeatureItems..StatusBar......PanelStyle.NumLockKeyAppearance.ActiveCaption
+#: packages/frmStFeatureItemsU.dfm:32
+#. frmStFeatureItems..StatusBar......PanelStyle.NumLockKeyAppearance.InactiveCaption
+#: packages/frmStFeatureItemsU.dfm:33
+#. frmStFeature..StatusBar......PanelStyle.NumLockKeyAppearance.ActiveCaption
+#: packages/frmStFeatureU.dfm:32
+#. frmStFeature..StatusBar......PanelStyle.NumLockKeyAppearance.InactiveCaption
+#: packages/frmStFeatureU.dfm:33
+#. frmStLayingRuleItems..StatusBar......PanelStyle.NumLockKeyAppearance.ActiveCaption
+#: packages/frmStLayingRuleItemsU.dfm:32
+#. frmStLayingRuleItems..StatusBar......PanelStyle.NumLockKeyAppearance.InactiveCaption
+#: packages/frmStLayingRuleItemsU.dfm:33
+#. frmStMaterial..StatusBar......PanelStyle.NumLockKeyAppearance.ActiveCaption
+#: packages/frmStMaterialU.dfm:32
+#. frmStMaterial..StatusBar......PanelStyle.NumLockKeyAppearance.InactiveCaption
+#: packages/frmStMaterialU.dfm:33
+#. frmStyle..StatusBar......PanelStyle.NumLockKeyAppearance.ActiveCaption
+#: packages/frmStylesU.dfm:32
+#. frmStyle..StatusBar......PanelStyle.NumLockKeyAppearance.InactiveCaption
+#: packages/frmStylesU.dfm:33
+msgid "NUM"
+msgstr ""
+
+#. frmBrowser..StatusBar......PanelStyle.ScrollLockKeyAppearance.ActiveCaption
+#: frmBrowserU.dfm:95
+#. frmBrowser..StatusBar......PanelStyle.ScrollLockKeyAppearance.InactiveCaption
+#: frmBrowserU.dfm:96
+#. frmMain..StatusBar......PanelStyle.ScrollLockKeyAppearance.ActiveCaption
+#: frmMainU.dfm:34
+#. frmMain..StatusBar......PanelStyle.ScrollLockKeyAppearance.InactiveCaption
+#: frmMainU.dfm:35
+#. frmMarkerOptimizer..StatusBar......PanelStyle.ScrollLockKeyAppearance.ActiveCaption
+#: frmMarkerOptimizerU.dfm:35
+#. frmMarkerOptimizer..StatusBar......PanelStyle.ScrollLockKeyAppearance.InactiveCaption
+#: frmMarkerOptimizerU.dfm:36
+#. frmCustomer..StatusBar......PanelStyle.ScrollLockKeyAppearance.ActiveCaption
+#: modules/frmCustomerU.dfm:34
+#. frmCustomer..StatusBar......PanelStyle.ScrollLockKeyAppearance.InactiveCaption
+#: modules/frmCustomerU.dfm:35
+#. frmFeatureItems..StatusBar......PanelStyle.ScrollLockKeyAppearance.ActiveCaption
+#: modules/frmFeatureItemsU.dfm:34
+#. frmFeatureItems..StatusBar......PanelStyle.ScrollLockKeyAppearance.InactiveCaption
+#: modules/frmFeatureItemsU.dfm:35
+#. frmFeature..StatusBar......PanelStyle.ScrollLockKeyAppearance.ActiveCaption
+#: modules/frmFeatureU.dfm:34
+#. frmFeature..StatusBar......PanelStyle.ScrollLockKeyAppearance.InactiveCaption
+#: modules/frmFeatureU.dfm:35
+#. frmLayingRuleItems..StatusBar......PanelStyle.ScrollLockKeyAppearance.ActiveCaption
+#: modules/frmLayingRuleItemsU.dfm:34
+#. frmLayingRuleItems..StatusBar......PanelStyle.ScrollLockKeyAppearance.InactiveCaption
+#: modules/frmLayingRuleItemsU.dfm:35
+#. frmLayingRule..StatusBar......PanelStyle.ScrollLockKeyAppearance.ActiveCaption
+#: modules/frmLayingRuleU.dfm:34
+#. frmLayingRule..StatusBar......PanelStyle.ScrollLockKeyAppearance.InactiveCaption
+#: modules/frmLayingRuleU.dfm:35
+#. frmMaterial..StatusBar......PanelStyle.ScrollLockKeyAppearance.ActiveCaption
+#: modules/frmMaterialU.dfm:34
+#. frmMaterial..StatusBar......PanelStyle.ScrollLockKeyAppearance.InactiveCaption
+#: modules/frmMaterialU.dfm:35
+#. frmStyleType..StatusBar......PanelStyle.ScrollLockKeyAppearance.ActiveCaption
+#: modules/frmStyleTypeU.dfm:34
+#. frmStyleType..StatusBar......PanelStyle.ScrollLockKeyAppearance.InactiveCaption
+#: modules/frmStyleTypeU.dfm:35
+#. frmUoMConv..StatusBar......PanelStyle.ScrollLockKeyAppearance.ActiveCaption
+#: modules/frmUoMConvU.dfm:34
+#. frmUoMConv..StatusBar......PanelStyle.ScrollLockKeyAppearance.InactiveCaption
+#: modules/frmUoMConvU.dfm:35
+#. frmUoM..StatusBar......PanelStyle.ScrollLockKeyAppearance.ActiveCaption
+#: modules/frmUoMU.dfm:34
+#. frmUoM..StatusBar......PanelStyle.ScrollLockKeyAppearance.InactiveCaption
+#: modules/frmUoMU.dfm:35
+#. frmItem..StatusBar......PanelStyle.ScrollLockKeyAppearance.ActiveCaption
+#: packages/frmItemU.dfm:34
+#. frmItem..StatusBar......PanelStyle.ScrollLockKeyAppearance.InactiveCaption
+#: packages/frmItemU.dfm:35
+#. frmItmCreation..StatusBar......PanelStyle.ScrollLockKeyAppearance.ActiveCaption
+#: packages/frmItmCreationU.dfm:87
+#. frmItmCreation..StatusBar......PanelStyle.ScrollLockKeyAppearance.InactiveCaption
+#: packages/frmItmCreationU.dfm:88
+#. frmItmLayingRuleItems..StatusBar......PanelStyle.ScrollLockKeyAppearance.ActiveCaption
+#: packages/frmItmLayingRuleItemsU.dfm:34
+#. frmItmLayingRuleItems..StatusBar......PanelStyle.ScrollLockKeyAppearance.InactiveCaption
+#: packages/frmItmLayingRuleItemsU.dfm:35
+#. frmItmMaterial..StatusBar......PanelStyle.ScrollLockKeyAppearance.ActiveCaption
+#: packages/frmItmMaterialU.dfm:34
+#. frmItmMaterial..StatusBar......PanelStyle.ScrollLockKeyAppearance.InactiveCaption
+#: packages/frmItmMaterialU.dfm:35
+#. frmOrderItmCreation..StatusBar......PanelStyle.ScrollLockKeyAppearance.ActiveCaption
+#: packages/frmOrderItmCreationU.dfm:132
+#. frmOrderItmCreation..StatusBar......PanelStyle.ScrollLockKeyAppearance.InactiveCaption
+#: packages/frmOrderItmCreationU.dfm:133
+#. frmOrder..StatusBar......PanelStyle.ScrollLockKeyAppearance.ActiveCaption
+#: packages/frmOrderU.dfm:34
+#. frmOrder..StatusBar......PanelStyle.ScrollLockKeyAppearance.InactiveCaption
+#: packages/frmOrderU.dfm:35
+#. frmOrdItem..StatusBar......PanelStyle.ScrollLockKeyAppearance.ActiveCaption
+#: packages/frmOrdItemU.dfm:34
+#. frmOrdItem..StatusBar......PanelStyle.ScrollLockKeyAppearance.InactiveCaption
+#: packages/frmOrdItemU.dfm:35
+#. frmOrdLayingRuleItems..StatusBar......PanelStyle.ScrollLockKeyAppearance.ActiveCaption
+#: packages/frmOrdLayingRuleItemsU.dfm:34
+#. frmOrdLayingRuleItems..StatusBar......PanelStyle.ScrollLockKeyAppearance.InactiveCaption
+#: packages/frmOrdLayingRuleItemsU.dfm:35
+#. frmOrdMaterial..StatusBar......PanelStyle.ScrollLockKeyAppearance.ActiveCaption
+#: packages/frmOrdMaterialU.dfm:34
+#. frmOrdMaterial..StatusBar......PanelStyle.ScrollLockKeyAppearance.InactiveCaption
+#: packages/frmOrdMaterialU.dfm:35
+#. frmStFeatureItems..StatusBar......PanelStyle.ScrollLockKeyAppearance.ActiveCaption
+#: packages/frmStFeatureItemsU.dfm:34
+#. frmStFeatureItems..StatusBar......PanelStyle.ScrollLockKeyAppearance.InactiveCaption
+#: packages/frmStFeatureItemsU.dfm:35
+#. frmStFeature..StatusBar......PanelStyle.ScrollLockKeyAppearance.ActiveCaption
+#: packages/frmStFeatureU.dfm:34
+#. frmStFeature..StatusBar......PanelStyle.ScrollLockKeyAppearance.InactiveCaption
+#: packages/frmStFeatureU.dfm:35
+#. frmStLayingRuleItems..StatusBar......PanelStyle.ScrollLockKeyAppearance.ActiveCaption
+#: packages/frmStLayingRuleItemsU.dfm:34
+#. frmStLayingRuleItems..StatusBar......PanelStyle.ScrollLockKeyAppearance.InactiveCaption
+#: packages/frmStLayingRuleItemsU.dfm:35
+#. frmStMaterial..StatusBar......PanelStyle.ScrollLockKeyAppearance.ActiveCaption
+#: packages/frmStMaterialU.dfm:34
+#. frmStMaterial..StatusBar......PanelStyle.ScrollLockKeyAppearance.InactiveCaption
+#: packages/frmStMaterialU.dfm:35
+#. frmStyle..StatusBar......PanelStyle.ScrollLockKeyAppearance.ActiveCaption
+#: packages/frmStylesU.dfm:34
+#. frmStyle..StatusBar......PanelStyle.ScrollLockKeyAppearance.InactiveCaption
+#: packages/frmStylesU.dfm:35
+msgid "SCRL"
+msgstr ""
+
+#. frmBrowser..StatusBar......PanelStyle.InsertKeyAppearance.ActiveCaption
+#: frmBrowserU.dfm:97
+#. frmMain..StatusBar......PanelStyle.InsertKeyAppearance.ActiveCaption
+#: frmMainU.dfm:36
+#. frmMarkerOptimizer..StatusBar......PanelStyle.InsertKeyAppearance.ActiveCaption
+#: frmMarkerOptimizerU.dfm:37
+#. frmCustomer..StatusBar......PanelStyle.InsertKeyAppearance.ActiveCaption
+#: modules/frmCustomerU.dfm:36
+#. frmFeatureItems..StatusBar......PanelStyle.InsertKeyAppearance.ActiveCaption
+#: modules/frmFeatureItemsU.dfm:36
+#. frmFeature..StatusBar......PanelStyle.InsertKeyAppearance.ActiveCaption
+#: modules/frmFeatureU.dfm:36
+#. frmLayingRuleItems..StatusBar......PanelStyle.InsertKeyAppearance.ActiveCaption
+#: modules/frmLayingRuleItemsU.dfm:36
+#. frmLayingRule..StatusBar......PanelStyle.InsertKeyAppearance.ActiveCaption
+#: modules/frmLayingRuleU.dfm:36
+#. frmMaterial..StatusBar......PanelStyle.InsertKeyAppearance.ActiveCaption
+#: modules/frmMaterialU.dfm:36
+#. frmStyleType..StatusBar......PanelStyle.InsertKeyAppearance.ActiveCaption
+#: modules/frmStyleTypeU.dfm:36
+#. frmUoMConv..StatusBar......PanelStyle.InsertKeyAppearance.ActiveCaption
+#: modules/frmUoMConvU.dfm:36
+#. frmUoM..StatusBar......PanelStyle.InsertKeyAppearance.ActiveCaption
+#: modules/frmUoMU.dfm:36
+#. frmItem..StatusBar......PanelStyle.InsertKeyAppearance.ActiveCaption
+#: packages/frmItemU.dfm:36
+#. frmItmCreation..StatusBar......PanelStyle.InsertKeyAppearance.ActiveCaption
+#: packages/frmItmCreationU.dfm:89
+#. frmItmLayingRuleItems..StatusBar......PanelStyle.InsertKeyAppearance.ActiveCaption
+#: packages/frmItmLayingRuleItemsU.dfm:36
+#. frmItmMaterial..StatusBar......PanelStyle.InsertKeyAppearance.ActiveCaption
+#: packages/frmItmMaterialU.dfm:36
+#. frmOrderItmCreation..StatusBar......PanelStyle.InsertKeyAppearance.ActiveCaption
+#: packages/frmOrderItmCreationU.dfm:134
+#. frmOrder..StatusBar......PanelStyle.InsertKeyAppearance.ActiveCaption
+#: packages/frmOrderU.dfm:36
+#. frmOrdItem..StatusBar......PanelStyle.InsertKeyAppearance.ActiveCaption
+#: packages/frmOrdItemU.dfm:36
+#. frmOrdLayingRuleItems..StatusBar......PanelStyle.InsertKeyAppearance.ActiveCaption
+#: packages/frmOrdLayingRuleItemsU.dfm:36
+#. frmOrdMaterial..StatusBar......PanelStyle.InsertKeyAppearance.ActiveCaption
+#: packages/frmOrdMaterialU.dfm:36
+#. frmStFeatureItems..StatusBar......PanelStyle.InsertKeyAppearance.ActiveCaption
+#: packages/frmStFeatureItemsU.dfm:36
+#. frmStFeature..StatusBar......PanelStyle.InsertKeyAppearance.ActiveCaption
+#: packages/frmStFeatureU.dfm:36
+#. frmStLayingRuleItems..StatusBar......PanelStyle.InsertKeyAppearance.ActiveCaption
+#: packages/frmStLayingRuleItemsU.dfm:36
+#. frmStMaterial..StatusBar......PanelStyle.InsertKeyAppearance.ActiveCaption
+#: packages/frmStMaterialU.dfm:36
+#. frmStyle..StatusBar......PanelStyle.InsertKeyAppearance.ActiveCaption
+#: packages/frmStylesU.dfm:36
+msgid "OVR"
+msgstr ""
+
+#. frmBrowser..StatusBar......PanelStyle.InsertKeyAppearance.InactiveCaption
+#: frmBrowserU.dfm:98
+#. frmMain..StatusBar......PanelStyle.InsertKeyAppearance.InactiveCaption
+#: frmMainU.dfm:37
+#. frmMarkerOptimizer..StatusBar......PanelStyle.InsertKeyAppearance.InactiveCaption
+#: frmMarkerOptimizerU.dfm:38
+#. frmCustomer..StatusBar......PanelStyle.InsertKeyAppearance.InactiveCaption
+#: modules/frmCustomerU.dfm:37
+#. frmFeatureItems..StatusBar......PanelStyle.InsertKeyAppearance.InactiveCaption
+#: modules/frmFeatureItemsU.dfm:37
+#. frmFeature..StatusBar......PanelStyle.InsertKeyAppearance.InactiveCaption
+#: modules/frmFeatureU.dfm:37
+#. frmLayingRuleItems..StatusBar......PanelStyle.InsertKeyAppearance.InactiveCaption
+#: modules/frmLayingRuleItemsU.dfm:37
+#. frmLayingRule..StatusBar......PanelStyle.InsertKeyAppearance.InactiveCaption
+#: modules/frmLayingRuleU.dfm:37
+#. frmMaterial..StatusBar......PanelStyle.InsertKeyAppearance.InactiveCaption
+#: modules/frmMaterialU.dfm:37
+#. frmStyleType..StatusBar......PanelStyle.InsertKeyAppearance.InactiveCaption
+#: modules/frmStyleTypeU.dfm:37
+#. frmUoMConv..StatusBar......PanelStyle.InsertKeyAppearance.InactiveCaption
+#: modules/frmUoMConvU.dfm:37
+#. frmUoM..StatusBar......PanelStyle.InsertKeyAppearance.InactiveCaption
+#: modules/frmUoMU.dfm:37
+#. frmItem..StatusBar......PanelStyle.InsertKeyAppearance.InactiveCaption
+#: packages/frmItemU.dfm:37
+#. frmItmCreation..StatusBar......PanelStyle.InsertKeyAppearance.InactiveCaption
+#: packages/frmItmCreationU.dfm:90
+#. frmItmLayingRuleItems..StatusBar......PanelStyle.InsertKeyAppearance.InactiveCaption
+#: packages/frmItmLayingRuleItemsU.dfm:37
+#. frmItmMaterial..StatusBar......PanelStyle.InsertKeyAppearance.InactiveCaption
+#: packages/frmItmMaterialU.dfm:37
+#. frmOrderItmCreation..StatusBar......PanelStyle.InsertKeyAppearance.InactiveCaption
+#: packages/frmOrderItmCreationU.dfm:135
+#. frmOrder..StatusBar......PanelStyle.InsertKeyAppearance.InactiveCaption
+#: packages/frmOrderU.dfm:37
+#. frmOrdItem..StatusBar......PanelStyle.InsertKeyAppearance.InactiveCaption
+#: packages/frmOrdItemU.dfm:37
+#. frmOrdLayingRuleItems..StatusBar......PanelStyle.InsertKeyAppearance.InactiveCaption
+#: packages/frmOrdLayingRuleItemsU.dfm:37
+#. frmOrdMaterial..StatusBar......PanelStyle.InsertKeyAppearance.InactiveCaption
+#: packages/frmOrdMaterialU.dfm:37
+#. frmStFeatureItems..StatusBar......PanelStyle.InsertKeyAppearance.InactiveCaption
+#: packages/frmStFeatureItemsU.dfm:37
+#. frmStFeature..StatusBar......PanelStyle.InsertKeyAppearance.InactiveCaption
+#: packages/frmStFeatureU.dfm:37
+#. frmStLayingRuleItems..StatusBar......PanelStyle.InsertKeyAppearance.InactiveCaption
+#: packages/frmStLayingRuleItemsU.dfm:37
+#. frmStMaterial..StatusBar......PanelStyle.InsertKeyAppearance.InactiveCaption
+#: packages/frmStMaterialU.dfm:37
+#. frmStyle..StatusBar......PanelStyle.InsertKeyAppearance.InactiveCaption
+#: packages/frmStylesU.dfm:37
+msgid "INS"
+msgstr ""
+
+#. frmBrowser..ActionList..actNew..Caption
+#: frmBrowserU.dfm:120
+#. frmCustomer..ActionList..actNew..Caption
+#: modules/frmCustomerU.dfm:217
+#. frmFeatureItems..ActionList..actNew..Caption
+#: modules/frmFeatureItemsU.dfm:178
+#. frmFeature..ActionList..actNew..Caption
+#: modules/frmFeatureU.dfm:147
+#. frmLayingRuleItems..ActionList..actNew..Caption
+#: modules/frmLayingRuleItemsU.dfm:129
+#. frmLayingRule..ActionList..actNew..Caption
+#: modules/frmLayingRuleU.dfm:127
+#. frmMaterial..ActionList..actNew..Caption
+#: modules/frmMaterialU.dfm:143
+#. frmStyleType..ActionList..actNew..Caption
+#: modules/frmStyleTypeU.dfm:127
+#. frmUoMConv..ActionList..actNew..Caption
+#: modules/frmUoMConvU.dfm:176
+#. frmUoM..ActionList..actNew..Caption
+#: modules/frmUoMU.dfm:159
+#. frmItem..ActionList..actNew..Caption
+#: packages/frmItemU.dfm:301
+#. frmItmLayingRuleItems..ActionList..actNew..Caption
+#: packages/frmItmLayingRuleItemsU.dfm:148
+#. frmItmMaterial..ActionList..actNew..Caption
+#: packages/frmItmMaterialU.dfm:305
+#. frmOrder..ActionList..actNew..Caption
+#: packages/frmOrderU.dfm:415
+#. frmOrdItem..ActionList..actNew..Caption
+#: packages/frmOrdItemU.dfm:564
+#. frmOrdLayingRuleItems..ActionList..actNew..Caption
+#: packages/frmOrdLayingRuleItemsU.dfm:159
+#. frmOrdMaterial..ActionList..actNew..Caption
+#: packages/frmOrdMaterialU.dfm:549
+#. frmStFeatureItems..ActionList..actNew..Caption
+#: packages/frmStFeatureItemsU.dfm:214
+#. frmStFeature..ActionList..actNew..Caption
+#: packages/frmStFeatureU.dfm:173
+#. frmStLayingRuleItems..ActionList..actNew..Caption
+#: packages/frmStLayingRuleItemsU.dfm:186
+#. frmStMaterial..ActionList..actNew..Caption
+#: packages/frmStMaterialU.dfm:332
+#. frmStyle..ActionList..actNew..Caption
+#: packages/frmStylesU.dfm:207
+msgid "&New"
+msgstr ""
+
+#. frmBrowser..ActionList..actOpen..Caption
+#: frmBrowserU.dfm:126
+msgid "&Open"
+msgstr ""
+
+#. frmBrowser..ActionList..actDelete..Caption
+#: frmBrowserU.dfm:132
+#. frmCustomer..ActionList..actDelete..Caption
+#: modules/frmCustomerU.dfm:228
+#. frmFeatureItems..ActionList..actDelete..Caption
+#: modules/frmFeatureItemsU.dfm:194
+#. frmFeature..ActionList..actDelete..Caption
+#: modules/frmFeatureU.dfm:163
+#. frmLayingRuleItems..ActionList..actDelete..Caption
+#: modules/frmLayingRuleItemsU.dfm:145
+#. frmLayingRule..ActionList..actDelete..Caption
+#: modules/frmLayingRuleU.dfm:143
+#. frmMaterial..ActionList..actDelete..Caption
+#: modules/frmMaterialU.dfm:159
+#. frmStyleType..ActionList..actDelete..Caption
+#: modules/frmStyleTypeU.dfm:138
+#. frmUoMConv..ActionList..actDelete..Caption
+#: modules/frmUoMConvU.dfm:192
+#. frmUoM..ActionList..actDelete..Caption
+#: modules/frmUoMU.dfm:175
+#. frmItem..ActionList..actDelete..Caption
+#: packages/frmItemU.dfm:312
+#. frmItmLayingRuleItems..ActionList..actDelete..Caption
+#: packages/frmItmLayingRuleItemsU.dfm:164
+#. frmItmMaterial..ActionList..actDelete..Caption
+#: packages/frmItmMaterialU.dfm:321
+#. frmOrder..ActionList..actDelete..Caption
+#: packages/frmOrderU.dfm:426
+#. frmOrdItem..ActionList..actDelete..Caption
+#: packages/frmOrdItemU.dfm:576
+#. frmOrdLayingRuleItems..ActionList..actDelete..Caption
+#: packages/frmOrdLayingRuleItemsU.dfm:175
+#. frmOrdMaterial..ActionList..actDelete..Caption
+#: packages/frmOrdMaterialU.dfm:560
+#. frmStFeatureItems..ActionList..actDelete..Caption
+#: packages/frmStFeatureItemsU.dfm:225
+#. frmStFeature..ActionList..actDelete..Caption
+#: packages/frmStFeatureU.dfm:184
+#. frmStLayingRuleItems..ActionList..actDelete..Caption
+#: packages/frmStLayingRuleItemsU.dfm:202
+#. frmStMaterial..ActionList..actDelete..Caption
+#: packages/frmStMaterialU.dfm:343
+#. frmStyle..ActionList..actDelete..Caption
+#: packages/frmStylesU.dfm:218
+msgid "&Delete"
+msgstr ""
+
+#. frmBrowser..ActionList..actClose..Caption
+#: frmBrowserU.dfm:137
+#. frmMarkerOptimizer..ActionList..actClose..Caption
+#: frmMarkerOptimizerU.dfm:318
+#. frmCustomer..ActionList..actClose..Caption
+#: modules/frmCustomerU.dfm:233
+#. frmFeatureItems..ActionList..actClose..Caption
+#: modules/frmFeatureItemsU.dfm:199
+#. frmFeature..ActionList..actClose..Caption
+#: modules/frmFeatureU.dfm:168
+#. frmLayingRuleItems..ActionList..actClose..Caption
+#: modules/frmLayingRuleItemsU.dfm:150
+#. frmLayingRule..ActionList..actClose..Caption
+#: modules/frmLayingRuleU.dfm:148
+#. frmMaterial..ActionList..actClose..Caption
+#: modules/frmMaterialU.dfm:164
+#. frmStyleType..ActionList..actClose..Caption
+#: modules/frmStyleTypeU.dfm:143
+#. frmUoMConv..ActionList..actClose..Caption
+#: modules/frmUoMConvU.dfm:197
+#. frmUoM..ActionList..actClose..Caption
+#: modules/frmUoMU.dfm:180
+#. frmItem..ActionList..actClose..Caption
+#: packages/frmItemU.dfm:317
+#. frmItmCreation..ActionList..actClose..Caption
+#: packages/frmItmCreationU.dfm:111
+#. frmItmLayingRuleItems..ActionList..actClose..Caption
+#: packages/frmItmLayingRuleItemsU.dfm:169
+#. frmItmMaterial..ActionList..actClose..Caption
+#: packages/frmItmMaterialU.dfm:326
+#. frmOrderItmCreation..ActionList..actClose..Caption
+#: packages/frmOrderItmCreationU.dfm:156
+#. frmOrder..ActionList..actClose..Caption
+#: packages/frmOrderU.dfm:436
+#. frmOrdItem..ActionList..actClose..Caption
+#: packages/frmOrdItemU.dfm:581
+#. frmOrdLayingRuleItems..ActionList..actClose..Caption
+#: packages/frmOrdLayingRuleItemsU.dfm:180
+#. frmOrdMaterial..ActionList..actClose..Caption
+#: packages/frmOrdMaterialU.dfm:565
+#. frmStFeatureItems..ActionList..actClose..Caption
+#: packages/frmStFeatureItemsU.dfm:230
+#. frmStFeature..ActionList..actClose..Caption
+#: packages/frmStFeatureU.dfm:189
+#. frmStLayingRuleItems..ActionList..actClose..Caption
+#: packages/frmStLayingRuleItemsU.dfm:207
+#. frmStMaterial..ActionList..actClose..Caption
+#: packages/frmStMaterialU.dfm:348
+#. frmStyle..ActionList..actClose..Caption
+#: packages/frmStylesU.dfm:223
+msgid "&Close window"
+msgstr ""
+
+#. frmBrowser..ActionList..actFind..Caption
+#: frmBrowserU.dfm:143
+msgid "Find record"
+msgstr ""
+
+#. frmBrowser..ActionList..actPrint..Caption
+#: frmBrowserU.dfm:149
+#. frmMain..STDActions..actOrderPrint..Caption
+#: frmMainU.dfm:511
+#. frmMarkerOptimizer..ActionList..actPrint..Caption
+#: frmMarkerOptimizerU.dfm:357
+#. frmCustomer..ActionList..actPrint..Caption
+#: modules/frmCustomerU.dfm:244
+#. frmFeatureItems..ActionList..actPrint..Caption
+#: modules/frmFeatureItemsU.dfm:189
+#. frmFeature..ActionList..actPrint..Caption
+#: modules/frmFeatureU.dfm:158
+#. frmLayingRuleItems..ActionList..actPrint..Caption
+#: modules/frmLayingRuleItemsU.dfm:140
+#. frmLayingRule..ActionList..actPrint..Caption
+#: modules/frmLayingRuleU.dfm:138
+#. frmMaterial..ActionList..actPrint..Caption
+#: modules/frmMaterialU.dfm:154
+#. frmStyleType..ActionList..actPrint..Caption
+#: modules/frmStyleTypeU.dfm:153
+#. frmUoMConv..ActionList..actPrint..Caption
+#: modules/frmUoMConvU.dfm:187
+#. frmUoM..ActionList..actPrint..Caption
+#: modules/frmUoMU.dfm:170
+#. frmItem..ActionList..actPrint..Caption
+#: packages/frmItemU.dfm:328
+#. frmItmLayingRuleItems..ActionList..actPrint..Caption
+#: packages/frmItmLayingRuleItemsU.dfm:159
+#. frmItmMaterial..ActionList..actPrint..Caption
+#: packages/frmItmMaterialU.dfm:316
+#. frmOrder..ActionList..actPrint..Caption
+#: packages/frmOrderU.dfm:447
+#. frmOrdItem..ActionList..actPrint..Caption
+#: packages/frmOrdItemU.dfm:592
+#. frmOrdLayingRuleItems..ActionList..actPrint..Caption
+#: packages/frmOrdLayingRuleItemsU.dfm:170
+#. frmOrdMaterial..ActionList..actPrint..Caption
+#: packages/frmOrdMaterialU.dfm:578
+#. frmStFeatureItems..ActionList..actPrint..Caption
+#: packages/frmStFeatureItemsU.dfm:241
+#. frmStFeature..ActionList..actPrint..Caption
+#: packages/frmStFeatureU.dfm:200
+#. frmStLayingRuleItems..ActionList..actPrint..Caption
+#: packages/frmStLayingRuleItemsU.dfm:197
+#. frmStMaterial..ActionList..actPrint..Caption
+#: packages/frmStMaterialU.dfm:361
+#. frmStyle..ActionList..actPrint..Caption
+#: packages/frmStylesU.dfm:244
+msgid "Print"
+msgstr ""
+
+#. frmBrowser..BarManager..dxBarManager1Bar1..Caption
+#: frmBrowserU.dfm:180
+#. frmMain..BarManager..stdBarStandard..Caption
+#: frmMainU.dfm:681
+#. frmMarkerOptimizer..BarManager..dxBarManager1Bar1..Caption
+#: frmMarkerOptimizerU.dfm:396
+#. frmCustomer..BarManager..dxBarManager1Bar1..Caption
+#: modules/frmCustomerU.dfm:274
+#. frmFeatureItems..BarManager..dxBarManager1Bar1..Caption
+#: modules/frmFeatureItemsU.dfm:235
+#. frmFeature..BarManager..dxBarManager1Bar1..Caption
+#: modules/frmFeatureU.dfm:204
+#. frmLayingRuleItems..BarManager..dxBarManager1Bar1..Caption
+#: modules/frmLayingRuleItemsU.dfm:186
+#. frmLayingRule..BarManager..dxBarManager1Bar1..Caption
+#: modules/frmLayingRuleU.dfm:184
+#. frmMaterial..BarManager..dxBarManager1Bar1..Caption
+#: modules/frmMaterialU.dfm:199
+#. frmStyleType..BarManager..dxBarManager1Bar1..Caption
+#: modules/frmStyleTypeU.dfm:183
+#. frmUoMConv..BarManager..dxBarManager1Bar1..Caption
+#: modules/frmUoMConvU.dfm:233
+#. frmUoM..BarManager..dxBarManager1Bar1..Caption
+#: modules/frmUoMU.dfm:216
+#. frmItem..BarManager..dxBarManager1Bar1..Caption
+#: packages/frmItemU.dfm:358
+#. frmItmCreation..BarManager..dxBarManager1Bar1..Caption
+#: packages/frmItmCreationU.dfm:147
+#. frmItmLayingRuleItems..BarManager..dxBarManager1Bar1..Caption
+#: packages/frmItmLayingRuleItemsU.dfm:205
+#. frmItmMaterial..BarManager..dxBarManager1Bar1..Caption
+#: packages/frmItmMaterialU.dfm:364
+#. frmOrderItmCreation..BarManager..dxBarManager1Bar1..Caption
+#: packages/frmOrderItmCreationU.dfm:192
+#. frmOrder..BarManager..dxBarManager1Bar1..Caption
+#: packages/frmOrderU.dfm:483
+#. frmOrdItem..BarManager..dxBarManager1Bar1..Caption
+#: packages/frmOrdItemU.dfm:622
+#. frmOrdLayingRuleItems..BarManager..dxBarManager1Bar1..Caption
+#: packages/frmOrdLayingRuleItemsU.dfm:216
+#. frmOrdMaterial..BarManager..dxBarManager1Bar1..Caption
+#: packages/frmOrdMaterialU.dfm:608
+#. frmStFeatureItems..BarManager..dxBarManager1Bar1..Caption
+#: packages/frmStFeatureItemsU.dfm:272
+#. frmStFeature..BarManager..dxBarManager1Bar1..Caption
+#: packages/frmStFeatureU.dfm:231
+#. frmStLayingRuleItems..BarManager..dxBarManager1Bar1..Caption
+#: packages/frmStLayingRuleItemsU.dfm:243
+#. frmStMaterial..BarManager..dxBarManager1Bar1..Caption
+#: packages/frmStMaterialU.dfm:391
+#. frmStyle..BarManager..dxBarManager1Bar1..Caption
+#: packages/frmStylesU.dfm:274
+msgid "Standard"
+msgstr ""
+
+#. frmBrowser..BarManager..dxBarManager1Bar1......ItemName
+#: frmBrowserU.dfm:193
+#. frmCustomer..BarManager..dxBarManager1Bar1......ItemName
+#: modules/frmCustomerU.dfm:287
+#. frmFeatureItems..BarManager..dxBarManager1Bar1......ItemName
+#: modules/frmFeatureItemsU.dfm:248
+#. frmFeature..BarManager..dxBarManager1Bar1......ItemName
+#: modules/frmFeatureU.dfm:217
+#. frmLayingRuleItems..BarManager..dxBarManager1Bar1......ItemName
+#: modules/frmLayingRuleItemsU.dfm:199
+#. frmLayingRule..BarManager..dxBarManager1Bar1......ItemName
+#: modules/frmLayingRuleU.dfm:197
+#. frmMaterial..BarManager..dxBarManager1Bar1......ItemName
+#: modules/frmMaterialU.dfm:212
+#. frmStyleType..BarManager..dxBarManager1Bar1......ItemName
+#: modules/frmStyleTypeU.dfm:196
+#. frmUoMConv..BarManager..dxBarManager1Bar1......ItemName
+#: modules/frmUoMConvU.dfm:246
+#. frmUoM..BarManager..dxBarManager1Bar1......ItemName
+#: modules/frmUoMU.dfm:229
+#. frmItem..BarManager..dxBarManager1Bar1......ItemName
+#: packages/frmItemU.dfm:371
+#. frmItmLayingRuleItems..BarManager..dxBarManager1Bar1......ItemName
+#: packages/frmItmLayingRuleItemsU.dfm:218
+#. frmItmMaterial..BarManager..dxBarManager1Bar1......ItemName
+#: packages/frmItmMaterialU.dfm:377
+#. frmOrdItem..BarManager..dxBarManager1Bar1......ItemName
+#: packages/frmOrdItemU.dfm:635
+#. frmOrdLayingRuleItems..BarManager..dxBarManager1Bar1......ItemName
+#: packages/frmOrdLayingRuleItemsU.dfm:229
+#. frmOrdMaterial..BarManager..dxBarManager1Bar1......ItemName
+#: packages/frmOrdMaterialU.dfm:621
+#. frmStFeatureItems..BarManager..dxBarManager1Bar1......ItemName
+#: packages/frmStFeatureItemsU.dfm:285
+#. frmStFeature..BarManager..dxBarManager1Bar1......ItemName
+#: packages/frmStFeatureU.dfm:244
+#. frmStLayingRuleItems..BarManager..dxBarManager1Bar1......ItemName
+#: packages/frmStLayingRuleItemsU.dfm:256
+#. frmStMaterial..BarManager..dxBarManager1Bar1......ItemName
+#: packages/frmStMaterialU.dfm:404
+#. frmStyle..BarManager..dxBarManager1Bar1......ItemName
+#: packages/frmStylesU.dfm:287
+msgid "stdBtnNew"
+msgstr ""
+
+#. frmBrowser..BarManager..dxBarManager1Bar1......ItemName
+#: frmBrowserU.dfm:197
+#. frmCustomer..BarManager..dxBarManager1Bar1......ItemName
+#: modules/frmCustomerU.dfm:291
+#. frmFeatureItems..BarManager..dxBarManager1Bar1......ItemName
+#: modules/frmFeatureItemsU.dfm:252
+#. frmFeature..BarManager..dxBarManager1Bar1......ItemName
+#: modules/frmFeatureU.dfm:221
+#. frmLayingRuleItems..BarManager..dxBarManager1Bar1......ItemName
+#: modules/frmLayingRuleItemsU.dfm:203
+#. frmLayingRule..BarManager..dxBarManager1Bar1......ItemName
+#: modules/frmLayingRuleU.dfm:201
+#. frmMaterial..BarManager..dxBarManager1Bar1......ItemName
+#: modules/frmMaterialU.dfm:216
+#. frmStyleType..BarManager..dxBarManager1Bar1......ItemName
+#: modules/frmStyleTypeU.dfm:200
+#. frmUoMConv..BarManager..dxBarManager1Bar1......ItemName
+#: modules/frmUoMConvU.dfm:250
+#. frmUoM..BarManager..dxBarManager1Bar1......ItemName
+#: modules/frmUoMU.dfm:233
+#. frmItem..BarManager..dxBarManager1Bar1......ItemName
+#: packages/frmItemU.dfm:375
+#. frmItmLayingRuleItems..BarManager..dxBarManager1Bar1......ItemName
+#: packages/frmItmLayingRuleItemsU.dfm:222
+#. frmItmMaterial..BarManager..dxBarManager1Bar1......ItemName
+#: packages/frmItmMaterialU.dfm:381
+#. frmOrder..BarManager..dxBarManager1Bar1......ItemName
+#: packages/frmOrderU.dfm:496
+#. frmOrdItem..BarManager..dxBarManager1Bar1......ItemName
+#: packages/frmOrdItemU.dfm:639
+#. frmOrdLayingRuleItems..BarManager..dxBarManager1Bar1......ItemName
+#: packages/frmOrdLayingRuleItemsU.dfm:233
+#. frmOrdMaterial..BarManager..dxBarManager1Bar1......ItemName
+#: packages/frmOrdMaterialU.dfm:625
+#. frmStFeatureItems..BarManager..dxBarManager1Bar1......ItemName
+#: packages/frmStFeatureItemsU.dfm:289
+#. frmStFeature..BarManager..dxBarManager1Bar1......ItemName
+#: packages/frmStFeatureU.dfm:248
+#. frmStLayingRuleItems..BarManager..dxBarManager1Bar1......ItemName
+#: packages/frmStLayingRuleItemsU.dfm:260
+#. frmStMaterial..BarManager..dxBarManager1Bar1......ItemName
+#: packages/frmStMaterialU.dfm:408
+#. frmStyle..BarManager..dxBarManager1Bar1......ItemName
+#: packages/frmStylesU.dfm:291
+msgid "stdBtnOpen"
+msgstr ""
+
+#. frmBrowser..BarManager..dxBarManager1Bar1......ItemName
+#: frmBrowserU.dfm:202
+#. frmMarkerOptimizer..BarManager..BarManagerBar1......ItemName
+#: frmMarkerOptimizerU.dfm:475
+#. frmCustomer..BarManager..dxBarManager1Bar1......ItemName
+#: modules/frmCustomerU.dfm:295
+#. frmFeatureItems..BarManager..dxBarManager1Bar1......ItemName
+#: modules/frmFeatureItemsU.dfm:256
+#. frmFeature..BarManager..dxBarManager1Bar1......ItemName
+#: modules/frmFeatureU.dfm:225
+#. frmLayingRuleItems..BarManager..dxBarManager1Bar1......ItemName
+#: modules/frmLayingRuleItemsU.dfm:207
+#. frmLayingRule..BarManager..dxBarManager1Bar1......ItemName
+#: modules/frmLayingRuleU.dfm:205
+#. frmMaterial..BarManager..dxBarManager1Bar1......ItemName
+#: modules/frmMaterialU.dfm:220
+#. frmStyleType..BarManager..dxBarManager1Bar1......ItemName
+#: modules/frmStyleTypeU.dfm:204
+#. frmUoMConv..BarManager..dxBarManager1Bar1......ItemName
+#: modules/frmUoMConvU.dfm:254
+#. frmUoM..BarManager..dxBarManager1Bar1......ItemName
+#: modules/frmUoMU.dfm:237
+#. frmItem..BarManager..dxBarManager1Bar1......ItemName
+#: packages/frmItemU.dfm:379
+#. frmItmLayingRuleItems..BarManager..dxBarManager1Bar1......ItemName
+#: packages/frmItmLayingRuleItemsU.dfm:226
+#. frmItmMaterial..BarManager..dxBarManager1Bar1......ItemName
+#: packages/frmItmMaterialU.dfm:385
+#. frmOrder..BarManager..dxBarManager1Bar1......ItemName
+#: packages/frmOrderU.dfm:500
+#. frmOrdItem..BarManager..dxBarManager1Bar1......ItemName
+#: packages/frmOrdItemU.dfm:643
+#. frmOrdMaterial..BarManager..dxBarManager1Bar1......ItemName
+#: packages/frmOrdMaterialU.dfm:629
+#. frmStFeatureItems..BarManager..dxBarManager1Bar1......ItemName
+#: packages/frmStFeatureItemsU.dfm:293
+#. frmStFeature..BarManager..dxBarManager1Bar1......ItemName
+#: packages/frmStFeatureU.dfm:252
+#. frmStMaterial..BarManager..dxBarManager1Bar1......ItemName
+#: packages/frmStMaterialU.dfm:412
+#. frmStyle..BarManager..dxBarManager1Bar1......ItemName
+#: packages/frmStylesU.dfm:295
+msgid "stdBtnPrint"
+msgstr ""
+
+#. frmBrowser..BarManager..dxBarManager1Bar1......ItemName
+#: frmBrowserU.dfm:207
+msgid "stdBtnFind"
+msgstr ""
+
+#. frmBrowser..BarManager..dxBarManager1Bar1......ItemName
+#: frmBrowserU.dfm:211
+#. frmCustomer..BarManager..dxBarManager1Bar1......ItemName
+#: modules/frmCustomerU.dfm:300
+#. frmFeatureItems..BarManager..dxBarManager1Bar1......ItemName
+#: modules/frmFeatureItemsU.dfm:261
+#. frmFeature..BarManager..dxBarManager1Bar1......ItemName
+#: modules/frmFeatureU.dfm:230
+#. frmLayingRuleItems..BarManager..dxBarManager1Bar1......ItemName
+#: modules/frmLayingRuleItemsU.dfm:212
+#. frmLayingRule..BarManager..dxBarManager1Bar1......ItemName
+#: modules/frmLayingRuleU.dfm:210
+#. frmMaterial..BarManager..dxBarManager1Bar1......ItemName
+#: modules/frmMaterialU.dfm:225
+#. frmStyleType..BarManager..dxBarManager1Bar1......ItemName
+#: modules/frmStyleTypeU.dfm:209
+#. frmUoMConv..BarManager..dxBarManager1Bar1......ItemName
+#: modules/frmUoMConvU.dfm:259
+#. frmUoM..BarManager..dxBarManager1Bar1......ItemName
+#: modules/frmUoMU.dfm:242
+#. frmItem..BarManager..dxBarManager1Bar1......ItemName
+#: packages/frmItemU.dfm:384
+#. frmItmLayingRuleItems..BarManager..dxBarManager1Bar1......ItemName
+#: packages/frmItmLayingRuleItemsU.dfm:231
+#. frmItmMaterial..BarManager..dxBarManager1Bar1......ItemName
+#: packages/frmItmMaterialU.dfm:390
+#. frmOrder..BarManager..dxBarManager1Bar1......ItemName
+#: packages/frmOrderU.dfm:505
+#. frmOrdItem..BarManager..dxBarManager1Bar1......ItemName
+#: packages/frmOrdItemU.dfm:648
+#. frmOrdLayingRuleItems..BarManager..dxBarManager1Bar1......ItemName
+#: packages/frmOrdLayingRuleItemsU.dfm:242
+#. frmOrdMaterial..BarManager..dxBarManager1Bar1......ItemName
+#: packages/frmOrdMaterialU.dfm:634
+#. frmStFeatureItems..BarManager..dxBarManager1Bar1......ItemName
+#: packages/frmStFeatureItemsU.dfm:298
+#. frmStFeature..BarManager..dxBarManager1Bar1......ItemName
+#: packages/frmStFeatureU.dfm:257
+#. frmStLayingRuleItems..BarManager..dxBarManager1Bar1......ItemName
+#: packages/frmStLayingRuleItemsU.dfm:264
+#. frmStMaterial..BarManager..dxBarManager1Bar1......ItemName
+#: packages/frmStMaterialU.dfm:417
+#. frmStyle..BarManager..dxBarManager1Bar1......ItemName
+#: packages/frmStylesU.dfm:300
+msgid "stdBtnDelete"
+msgstr ""
+
+#. frmBrowser..BarManager..dxBarManager1Bar1......ItemName
+#: frmBrowserU.dfm:216
+#. frmMarkerOptimizer..BarManager..dxBarManager1Bar1......ItemName
+#: frmMarkerOptimizerU.dfm:423
+#. frmCustomer..BarManager..dxBarManager1Bar1......ItemName
+#: modules/frmCustomerU.dfm:305
+#. frmFeatureItems..BarManager..dxBarManager1Bar1......ItemName
+#: modules/frmFeatureItemsU.dfm:266
+#. frmFeature..BarManager..dxBarManager1Bar1......ItemName
+#: modules/frmFeatureU.dfm:235
+#. frmLayingRuleItems..BarManager..dxBarManager1Bar1......ItemName
+#: modules/frmLayingRuleItemsU.dfm:217
+#. frmLayingRule..BarManager..dxBarManager1Bar1......ItemName
+#: modules/frmLayingRuleU.dfm:215
+#. frmMaterial..BarManager..dxBarManager1Bar1......ItemName
+#: modules/frmMaterialU.dfm:230
+#. frmStyleType..BarManager..dxBarManager1Bar1......ItemName
+#: modules/frmStyleTypeU.dfm:214
+#. frmUoMConv..BarManager..dxBarManager1Bar1......ItemName
+#: modules/frmUoMConvU.dfm:264
+#. frmUoM..BarManager..dxBarManager1Bar1......ItemName
+#: modules/frmUoMU.dfm:247
+#. frmItem..BarManager..dxBarManager1Bar1......ItemName
+#: packages/frmItemU.dfm:389
+#. frmItmCreation..BarManager..dxBarManager1Bar1......ItemName
+#: packages/frmItmCreationU.dfm:165
+#. frmItmLayingRuleItems..BarManager..dxBarManager1Bar1......ItemName
+#: packages/frmItmLayingRuleItemsU.dfm:236
+#. frmItmMaterial..BarManager..dxBarManager1Bar1......ItemName
+#: packages/frmItmMaterialU.dfm:395
+#. frmOrderItmCreation..BarManager..dxBarManager1Bar1......ItemName
+#: packages/frmOrderItmCreationU.dfm:210
+#. frmOrder..BarManager..dxBarManager1Bar1......ItemName
+#: packages/frmOrderU.dfm:510
+#. frmOrdItem..BarManager..dxBarManager1Bar1......ItemName
+#: packages/frmOrdItemU.dfm:653
+#. frmOrdLayingRuleItems..BarManager..dxBarManager1Bar1......ItemName
+#: packages/frmOrdLayingRuleItemsU.dfm:247
+#. frmOrdMaterial..BarManager..dxBarManager1Bar1......ItemName
+#: packages/frmOrdMaterialU.dfm:639
+#. frmStFeatureItems..BarManager..dxBarManager1Bar1......ItemName
+#: packages/frmStFeatureItemsU.dfm:303
+#. frmStFeature..BarManager..dxBarManager1Bar1......ItemName
+#: packages/frmStFeatureU.dfm:262
+#. frmStLayingRuleItems..BarManager..dxBarManager1Bar1......ItemName
+#: packages/frmStLayingRuleItemsU.dfm:269
+#. frmStMaterial..BarManager..dxBarManager1Bar1......ItemName
+#: packages/frmStMaterialU.dfm:422
+#. frmStyle..BarManager..dxBarManager1Bar1......ItemName
+#: packages/frmStylesU.dfm:305
+msgid "stdBtnClose"
+msgstr ""
+
+#. frmExtrnToolsEdit..Caption
+#: frmExtrnToolsEditU.dfm:5
+msgid "External Tools Editor"
+msgstr ""
+
+#. frmExtrnToolsEdit..cxLabel1..Caption
+#: frmExtrnToolsEditU.dfm:23
+#. frmProperties..cxPageControl1..cxTabSheet1..Label1..Caption
+#: frmPropU.dfm:63
+msgid "Title:"
+msgstr ""
+
+#. frmExtrnToolsEdit..cxLabel2..Caption
+#: frmExtrnToolsEditU.dfm:47
+msgid "Program:"
+msgstr ""
+
+#. frmExtrnToolsEdit..cxLabel3..Caption
+#: frmExtrnToolsEditU.dfm:53
+msgid "Working Dir:"
+msgstr ""
+
+#. frmExtrnToolsEdit..cxLabel4..Caption
+#: frmExtrnToolsEditU.dfm:65
+msgid "Parameters:"
+msgstr ""
+
+#. frmExtrnToolsEdit..btnCancel..Caption
+#: frmExtrnToolsEditU.dfm:88
+#. frmFind..btnCancel..Caption
+#: frmFindU.dfm:83
+#. frmInputPassword..btnCancel..Caption
+#: frmInputPasswdU.dfm:42
+#. frmOptions..btnCancel..Caption
+#: frmOptionsU.dfm:268
+#. frmProperties..btnCancel..Caption
+#: frmPropU.dfm:34
+msgid "Cancel"
+msgstr ""
+
+#. frmExtrnToolsEdit..OpenDialog1..DefaultExt
+#: frmExtrnToolsEditU.dfm:93
+msgid ".exe"
+msgstr ""
+
+#. frmExtrnToolsEdit..OpenDialog1..Filter
+#: frmExtrnToolsEditU.dfm:94
+msgid "Executable Program (*.exe)|*.exe|All Files "
+"(*.*)|*.*"
+msgstr ""
+
+#. frmExtrnToolsEdit..OpenDialog1..Title
+#: frmExtrnToolsEditU.dfm:95
+msgid "Open Tool"
+msgstr ""
+
+#. frmExtrnTools..Caption
+#: frmExtrnToolsU.dfm:5
+#. frmMain..BarManager..itmExternalTools..Caption
+#: frmMainU.dfm:1103
+msgid "External Tools"
+msgstr ""
+
+#. frmExtrnTools..cxLabel1..Caption
+#: frmExtrnToolsU.dfm:33
+msgid "List of available tools:"
+msgstr ""
+
+#. frmExtrnTools..btnAdd..Caption
+#: frmExtrnToolsU.dfm:41
+msgid "Add"
+msgstr ""
+
+#. frmExtrnTools..btnDown..Caption
+#: frmExtrnToolsU.dfm:68
+msgid "Move Down"
+msgstr ""
+
+#. frmExtrnTools..btnUp..Caption
+#: frmExtrnToolsU.dfm:77
+msgid "Move Up"
+msgstr ""
+
+#. frmExtrnTools..btnCLose..Caption
+#: frmExtrnToolsU.dfm:86
+#. frmMain..STDActions..actPackageClose..Caption
+#: frmMainU.dfm:361
+msgid "Close"
+msgstr ""
+
+#. frmFind..Caption
+#: frmFindU.dfm:5
+#. frmMain..STDActions..actOrderFind..Caption
+#: frmMainU.dfm:495
+msgid "Find"
+msgstr ""
+
+#. frmFind..cxPageControl1..cxTabSheet1..Caption
+#: frmFindU.dfm:34
+msgid "Find what"
+msgstr ""
+
+#. frmFind..cxPageControl1..cxTabSheet1..Label1..Caption
+#: frmFindU.dfm:41
+msgid "Text to find:"
+msgstr ""
+
+#. frmFind..cxPageControl1..cxTabSheet1..Label2..Caption
+#: frmFindU.dfm:49
+msgid "Field:"
+msgstr ""
+
+#. frmInputPassword..Caption
+#: frmInputPasswdU.dfm:5
+msgid "Password"
+msgstr ""
+
+#. frmInputPassword..Label2..Caption
+#: frmInputPasswdU.dfm:24
+msgid "Password:"
+msgstr ""
+
+#. frmInputPassword..Panel1..Label1....Caption
+#: frmInputPasswdU.dfm:366
+msgid "The package is currently protected by password, you have to provide "
+"the right password to be able to open it.Please specify the password "
+"below."
+msgstr ""
+
+#. frmInputPassword..edPassword..Properties.PasswordChar
+#: frmInputPasswdU.dfm:372
+msgid "*"
+msgstr ""
+
+#. frmLog..Caption
+#: frmLogU.dfm:6
+msgid "Log View"
+msgstr ""
+
+#. frmLog..LogAction..actClear..Caption
+#: frmLogU.dfm:164
+#. frmMarkerOptimizer..ActionList..actCancel..Caption
+#: frmMarkerOptimizerU.dfm:307
+#. frmOrder..cxTabControl1..cxPageControl1..cxTabSheet1..cxDBButtonEdit2......Caption
+#: packages/frmOrderU.dfm:299
+#. frmOrder..cxTabControl1..cxPageControl1..cxTabSheet1..cxDBButtonEdit2......Hint
+#: packages/frmOrderU.dfm:343
+#. frmOrdItem..cxTabControl1..cxPageControl1..cxTabSheet1..cxDBButtonEdit3......Caption
+#: packages/frmOrdItemU.dfm:457
+#. frmOrdItem..cxTabControl1..cxPageControl1..cxTabSheet1..cxDBButtonEdit3......Hint
+#: packages/frmOrdItemU.dfm:501
+#. frmOrdMaterial..cxTabControl1..cxPageControl1..cxTabSheet1..cxDBButtonEdit4......Caption
+#: packages/frmOrdMaterialU.dfm:438
+#. frmOrdMaterial..cxTabControl1..cxPageControl1..cxTabSheet1..cxDBButtonEdit4......Hint
+#: packages/frmOrdMaterialU.dfm:482
+#: frmLogU.pas:45
+msgid "Clear"
+msgstr ""
+
+#. frmMain..DockSite..dxLayoutDockSite3..DockMainPanel..Caption
+#: frmMainU.dfm:90
+#. frmMain..STDActions..actOrderNew..Category
+#: frmMainU.dfm:470
+#. frmMain..STDActions..actOrderEdit..Category
+#: frmMainU.dfm:478
+#. frmMain..STDActions..actOrderDelete..Category
+#: frmMainU.dfm:486
+#. frmMain..STDActions..actOrderFind..Category
+#: frmMainU.dfm:494
+#. frmMain..STDActions..actOrderOptimize..Category
+#: frmMainU.dfm:502
+#. frmMain..STDActions..actOrderPrint..Category
+#: frmMainU.dfm:510
+#. frmMain..STDActions..actRefresh..Category
+#: frmMainU.dfm:518
+#. frmMain..BarManager....Categories.Strings
+#: frmMainU.dfm:587
+#. frmMain..BarManager..Order1..Caption
+#: frmMainU.dfm:1157
+msgid "Orders"
+msgstr ""
+
+#. frmMain..DockSite..dxLayoutDockSite3..DockMainPanel..OrderNavBar..OrderNavBarOrderGroup..Caption
+#: frmMainU.dfm:108
+msgid "Order list"
+msgstr ""
+
+#. frmMain..DockSite..dxLayoutDockSite3..DockMainPanel..OrderNavBar..OrderNavBarOrderGroupControl..Caption
+#: frmMainU.dfm:120
+msgid "OrderNavBarOrderGroupControl"
+msgstr ""
+
+#. frmMain..DockSite..DockLogPanel..Caption
+#: frmMainU.dfm:166
+#. frmMain..BarManager..ViewLogPanel..Caption
+#: frmMainU.dfm:1062
+#. frmMain..BarManager..ViewLogPanel..Hint
+#: frmMainU.dfm:1064
+msgid "Log Panel"
+msgstr ""
+
+#. frmMain..Ribbon..ColorSchemeName
+#: frmMainU.dfm:311
+msgid "Black"
+msgstr ""
+
+#. frmMain..Ribbon..RibbonTabPackage..Caption
+#: frmMainU.dfm:318
+#. frmMain..BarManager....Categories.Strings
+#: frmMainU.dfm:586
+#. frmMain..BarManager..rbnBarPackage..Caption
+#: frmMainU.dfm:821
+#. frmMain..BarManager..Package1..Caption
+#: frmMainU.dfm:1129
+msgid "Package"
+msgstr ""
+
+#. frmMain..Ribbon..RibbonTabPackage......ToolbarName
+#: frmMainU.dfm:321
+msgid "rbnBarPackage"
+msgstr ""
+
+#. frmMain..Ribbon..RibbonTabPackage......ToolbarName
+#: frmMainU.dfm:324
+msgid "rbnBarOrders"
+msgstr ""
+
+#. frmMain..Ribbon..RibbonTabPackage......ToolbarName
+#: frmMainU.dfm:327
+msgid "rbnBarReferences"
+msgstr ""
+
+#. frmMain..Ribbon..RibbonTabPackage......ToolbarName
+#: frmMainU.dfm:330
+msgid "rbnBarMisceleanous"
+msgstr ""
+
+#. frmMain..Ribbon..RibbonTabHelp......ToolbarName
+#: frmMainU.dfm:337
+msgid "rbnBarOnlineGuide"
+msgstr ""
+
+#. frmMain..STDActions..actPackageNew..Caption
+#: frmMainU.dfm:348
+msgid "New package"
+msgstr ""
+
+#. frmMain..STDActions..actPackageProperties..Caption
+#: frmMainU.dfm:368
+#. frmProperties..Caption
+#: frmPropU.dfm:5
+msgid "Properties"
+msgstr ""
+
+#. frmMain..STDActions..actEditCut1..Hint
+#: frmMainU.dfm:381
+msgid "Cut|Cuts the selection and puts it on the "
+"Clipboard"
+msgstr ""
+
+#. frmMain..STDActions..actEditCopy1..Hint
+#: frmMainU.dfm:389
+msgid "Copy|Copies the selection and puts it on the "
+"Clipboard"
+msgstr ""
+
+#. frmMain..STDActions..actEditPaste1..Hint
+#: frmMainU.dfm:397
+msgid "Paste|Inserts Clipboard contents"
+msgstr ""
+
+#. frmMain..STDActions..actEditSelectAll1..Caption
+#: frmMainU.dfm:404
+msgid "Select All"
+msgstr ""
+
+#. frmMain..STDActions..actEditSelectAll1..Hint
+#: frmMainU.dfm:405
+msgid "Select All|Selects the entire document"
+msgstr ""
+
+#. frmMain..STDActions..actEditUndo1..Caption
+#: frmMainU.dfm:411
+msgid "Undo"
+msgstr ""
+
+#. frmMain..STDActions..actEditUndo1..Hint
+#: frmMainU.dfm:412
+msgid "Undo|Reverts the last action"
+msgstr ""
+
+#. frmMain..STDActions..HelpContent..Caption
+#: frmMainU.dfm:419
+msgid "Contents"
+msgstr ""
+
+#. frmMain..STDActions..HelpSearch..Caption
+#: frmMainU.dfm:425
+msgid "Search for Help"
+msgstr ""
+
+#. frmMain..STDActions..HelpOnHelp..Caption
+#: frmMainU.dfm:431
+msgid "How to Use Help"
+msgstr ""
+
+#. frmMain..STDActions..HelpReadme..Caption
+#: frmMainU.dfm:436
+msgid "Readme"
+msgstr ""
+
+#. frmMain..STDActions..HelpAbout..Caption
+#: frmMainU.dfm:442
+msgid "About..."
+msgstr ""
+
+#. frmMain..STDActions..actWelcome..Caption
+#: frmMainU.dfm:448
+msgid "Welcome"
+msgstr ""
+
+#. frmMain..STDActions..actOptions..Category
+#: frmMainU.dfm:453
+#. frmMain..STDActions..actRptExplorer..Category
+#: frmMainU.dfm:458
+#. frmMain..STDActions..actExternTools..Category
+#: frmMainU.dfm:464
+#. frmMain..BarManager..Tools1..Caption
+#: frmMainU.dfm:1253
+#. frmMain..BarManager..rbnBtnTools..Caption
+#: frmMainU.dfm:1375
+msgid "Tools"
+msgstr ""
+
+#. frmMain..STDActions..actOptions..Caption
+#: frmMainU.dfm:454
+msgid "Options..."
+msgstr ""
+
+#. frmMain..STDActions..actRptExplorer..Caption
+#: frmMainU.dfm:459
+msgid "Report Explorer..."
+msgstr ""
+
+#. frmMain..STDActions..actExternTools..Caption
+#: frmMainU.dfm:465
+msgid "Manage external tools..."
+msgstr ""
+
+#. frmMain..STDActions..actOrderNew..Caption
+#: frmMainU.dfm:471
+msgid "New order"
+msgstr ""
+
+#. frmMain..STDActions..actOrderEdit..Caption
+#: frmMainU.dfm:479
+msgid "Edit order"
+msgstr ""
+
+#. frmMain..STDActions..actOrderDelete..Caption
+#: frmMainU.dfm:487
+msgid "Delete order"
+msgstr ""
+
+#. frmMain..STDActions..actOrderOptimize..Caption
+#: frmMainU.dfm:503
+msgid "Optimize"
+msgstr ""
+
+#. frmMain..STDActions..actRefresh..Caption
+#: frmMainU.dfm:519
+msgid "Refresh View"
+msgstr ""
+
+#. frmMain..STDActions..actRefUoM..Category
+#: frmMainU.dfm:525
+#. frmMain..STDActions..actRefFeatures..Category
+#: frmMainU.dfm:531
+#. frmMain..STDActions..actRefLayingRule..Category
+#: frmMainU.dfm:537
+#. frmMain..STDActions..actRefItems..Category
+#: frmMainU.dfm:546
+#. frmMain..STDActions..actRefCustomers..Category
+#: frmMainU.dfm:552
+#. frmMain..STDActions..actRefStyles..Category
+#: frmMainU.dfm:559
+#. frmMain..STDActions..actRefMaterials..Category
+#: frmMainU.dfm:565
+#. frmMain..BarManager....Categories.Strings
+#: frmMainU.dfm:590
+#. frmMain..BarManager..References1..Caption
+#: frmMainU.dfm:1194
+#. frmMain..MainPopupMenu..References2..Caption
+#: frmMainU.dfm:1522
+msgid "References"
+msgstr ""
+
+#. frmMain..STDActions..actRefUoM..Caption
+#: frmMainU.dfm:526
+#. frmUoM..Caption
+#: modules/frmUoMU.dfm:4
+msgid "Unit of Measurement"
+msgstr ""
+
+#. frmMain..STDActions..actRefFeatures..Caption
+#: frmMainU.dfm:532
+#. frmStyle..ActionList..actReff_2..Caption
+#: packages/frmStylesU.dfm:234
+msgid "Features"
+msgstr ""
+
+#. frmMain..STDActions..actRefLayingRule..Caption
+#: frmMainU.dfm:538
+#. frmLayingRule..Caption
+#: modules/frmLayingRuleU.dfm:4
+#. frmLayingRule..cxTabControl1..cxPageControl1..cxTabSheet1..Caption
+#: modules/frmLayingRuleU.dfm:83
+msgid "Laying Rule"
+msgstr ""
+
+#. frmMain..STDActions..actRefItems..Caption
+#: frmMainU.dfm:547
+#. frmItem..Caption
+#: packages/frmItemU.dfm:4
+#. frmItem..cxTabControl1..cxPageControl1..cxTabSheet1..Caption
+#: packages/frmItemU.dfm:83
+msgid "Items"
+msgstr ""
+
+#. frmMain..STDActions..actRefCustomers..Caption
+#: frmMainU.dfm:553
+#. frmCustomer..cxTabControl1..cxPageControl1..cxTabSheet1..Caption
+#: modules/frmCustomerU.dfm:83
+msgid "Customers"
+msgstr ""
+
+#. frmMain..STDActions..actRefStyles..Caption
+#: frmMainU.dfm:560
+#. frmStyle..Caption
+#: packages/frmStylesU.dfm:4
+#. frmStyle..cxTabControl1..cxPageControl1..cxTabSheet1..Caption
+#: packages/frmStylesU.dfm:83
+msgid "Styles"
+msgstr ""
+
+#. frmMain..STDActions..actRefMaterials..Caption
+#: frmMainU.dfm:566
+#. frmMaterial..Caption
+#: modules/frmMaterialU.dfm:4
+#. frmMaterial..cxTabControl1..cxPageControl1..cxTabSheet1..Caption
+#: modules/frmMaterialU.dfm:83
+#. frmItem..ActionList..actReff_1..Caption
+#: packages/frmItemU.dfm:323
+#. frmOrdItem..ActionList..actReff_1..Caption
+#: packages/frmOrdItemU.dfm:587
+#. frmStFeatureItems..ActionList..actReff_1..Caption
+#: packages/frmStFeatureItemsU.dfm:236
+msgid "Materials"
+msgstr ""
+
+#. frmMain..BarManager....Categories.Strings
+#: frmMainU.dfm:579
+msgid "Package Menu"
+msgstr ""
+
+#. frmMain..BarManager....Categories.Strings
+#: frmMainU.dfm:580
+msgid "Order Menu"
+msgstr ""
+
+#. frmMain..BarManager....Categories.Strings
+#: frmMainU.dfm:581
+msgid "References Menu"
+msgstr ""
+
+#. frmMain..BarManager....Categories.Strings
+#: frmMainU.dfm:582
+msgid "View Menu"
+msgstr ""
+
+#. frmMain..BarManager....Categories.Strings
+#: frmMainU.dfm:583
+msgid "Tools Menu"
+msgstr ""
+
+#. frmMain..BarManager....Categories.Strings
+#: frmMainU.dfm:584
+msgid "Help Menu"
+msgstr ""
+
+#. frmMain..BarManager....Categories.Strings
+#: frmMainU.dfm:588
+msgid "Miscelanous"
+msgstr ""
+
+#. frmMain..BarManager..stdBarMain......ItemName
+#: frmMainU.dfm:651
+msgid "Package1"
+msgstr ""
+
+#. frmMain..BarManager..stdBarMain......ItemName
+#: frmMainU.dfm:655
+msgid "Order1"
+msgstr ""
+
+#. frmMain..BarManager..stdBarMain......ItemName
+#: frmMainU.dfm:659
+msgid "References1"
+msgstr ""
+
+#. frmMain..BarManager..stdBarMain......ItemName
+#: frmMainU.dfm:667
+msgid "Tools1"
+msgstr ""
+
+#. frmMain..BarManager..stdBarStandard......ItemName
+#: frmMainU.dfm:694
+#. frmMain..BarManager..rbnBarQuickAccess......ItemName
+#: frmMainU.dfm:767
+#. frmMain..BarManager..Package1......ItemName
+#: frmMainU.dfm:1135
+msgid "stdBtnPackageNew"
+msgstr ""
+
+#. frmMain..BarManager..stdBarStandard......ItemName
+#: frmMainU.dfm:698
+#. frmMain..BarManager..rbnBarQuickAccess......ItemName
+#: frmMainU.dfm:771
+#. frmMain..BarManager..Package1......ItemName
+#: frmMainU.dfm:1139
+msgid "stdBtnPackageOpen"
+msgstr ""
+
+#. frmMain..BarManager..stdBarStandard......ItemName
+#: frmMainU.dfm:702
+#. frmMain..BarManager..rbnBarQuickAccess......ItemName
+#: frmMainU.dfm:779
+#. frmMain..BarManager..Package1......ItemName
+#: frmMainU.dfm:1143
+msgid "stdBtnPackageClose"
+msgstr ""
+
+#. frmMain..BarManager..stdBarStandard......ItemName
+#: frmMainU.dfm:707
+#. frmMain..BarManager..rbnBarQuickAccess......ItemName
+#: frmMainU.dfm:775
+#. frmMain..BarManager..Package1......ItemName
+#: frmMainU.dfm:1148
+msgid "stdBtnPackageProperties"
+msgstr ""
+
+#. frmMain..BarManager..stdBarStandard......ItemName
+#: frmMainU.dfm:712
+#. frmMain..BarManager..Order1......ItemName
+#: frmMainU.dfm:1163
+msgid "stdBtnOrderNew"
+msgstr ""
+
+#. frmMain..BarManager..stdBarStandard......ItemName
+#: frmMainU.dfm:716
+#. frmMain..BarManager..Order1......ItemName
+#: frmMainU.dfm:1176
+msgid "stdBtnOrderFind"
+msgstr ""
+
+#. frmMain..BarManager..stdBarStandard......ItemName
+#: frmMainU.dfm:720
+#. frmMain..BarManager..Order1......ItemName
+#: frmMainU.dfm:1167
+msgid "stdBtnOrderEdit"
+msgstr ""
+
+#. frmMain..BarManager..stdBarStandard......ItemName
+#: frmMainU.dfm:724
+#. frmMain..BarManager..Order1......ItemName
+#: frmMainU.dfm:1171
+msgid "stdBtnOrderDelete"
+msgstr ""
+
+#. frmMain..BarManager..stdBarStandard......ItemName
+#: frmMainU.dfm:729
+#. frmMain..BarManager..Order1......ItemName
+#: frmMainU.dfm:1181
+msgid "stdBtnOrderOptimize"
+msgstr ""
+
+#. frmMain..BarManager..stdBarStandard......ItemName
+#: frmMainU.dfm:733
+#. frmMain..BarManager..Order1......ItemName
+#: frmMainU.dfm:1185
+msgid "stdBtnOrderPrint"
+msgstr ""
+
+#. frmMain..BarManager..stdBarStandard......ItemName
+#: frmMainU.dfm:738
+#. frmMain..BarManager..Order1......ItemName
+#: frmMainU.dfm:1190
+msgid "stdBtnOrderRefresh"
+msgstr ""
+
+#. frmMain..BarManager..stdBarStandard......ItemName
+#: frmMainU.dfm:743
+#. frmMain..BarManager..Tools1......ItemName
+#: frmMainU.dfm:1259
+#. frmMain..BarManager..rbnBtnTools......ItemName
+#: frmMainU.dfm:1383
+msgid "dxBarButton9"
+msgstr ""
+
+#. frmMain..BarManager..rbnBarQuickAccess..Caption
+#: frmMainU.dfm:756
+msgid "Quick Access"
+msgstr ""
+
+#. frmMain..BarManager..rbnBarOnlineGuide..Caption
+#: frmMainU.dfm:788
+msgid "Online Guide"
+msgstr ""
+
+#. frmMain..BarManager..rbnBarOnlineGuide......ItemName
+#: frmMainU.dfm:799
+msgid "rbnBtnHelpContent"
+msgstr ""
+
+#. frmMain..BarManager..rbnBarOnlineGuide......ItemName
+#: frmMainU.dfm:803
+msgid "rbnBtnReadme"
+msgstr ""
+
+#. frmMain..BarManager..rbnBarOnlineGuide......ItemName
+#: frmMainU.dfm:807
+msgid "rbnBtnHelpSearch"
+msgstr ""
+
+#. frmMain..BarManager..rbnBarOnlineGuide......ItemName
+#: frmMainU.dfm:812
+msgid "rbnBtnAbout"
+msgstr ""
+
+#. frmMain..BarManager..rbnBarPackage......ItemName
+#: frmMainU.dfm:832
+#. frmMain..BarAppMenu......ItemName
+#: frmMainU.dfm:1578
+msgid "rbnBtnNewPackage"
+msgstr ""
+
+#. frmMain..BarManager..rbnBarPackage......ItemName
+#: frmMainU.dfm:836
+#. frmMain..BarAppMenu......ItemName
+#: frmMainU.dfm:1582
+msgid "rbnBtnOpenPackage"
+msgstr ""
+
+#. frmMain..BarManager..rbnBarPackage......ItemName
+#: frmMainU.dfm:840
+#. frmMain..BarAppMenu......ItemName
+#: frmMainU.dfm:1587
+msgid "rbnBtnPackageProps"
+msgstr ""
+
+#. frmMain..BarManager..rbnBarPackage......ItemName
+#: frmMainU.dfm:844
+#. frmMain..BarAppMenu......ItemName
+#: frmMainU.dfm:1592
+msgid "rbnBtnClosePackage"
+msgstr ""
+
+#. frmMain..BarManager..rbnBarOrders..Caption
+#: frmMainU.dfm:853
+msgid "Manage Orders"
+msgstr ""
+
+#. frmMain..BarManager..rbnBarOrders......ItemName
+#: frmMainU.dfm:864
+msgid "rbnBtnOrderNew"
+msgstr ""
+
+#. frmMain..BarManager..rbnBarOrders......ItemName
+#: frmMainU.dfm:868
+msgid "rbnBtnOrderEdit"
+msgstr ""
+
+#. frmMain..BarManager..rbnBarOrders......ItemName
+#: frmMainU.dfm:872
+msgid "rbnBtnOrderDelete"
+msgstr ""
+
+#. frmMain..BarManager..rbnBarOrders......ItemName
+#: frmMainU.dfm:876
+msgid "rbnBtnOrderFind"
+msgstr ""
+
+#. frmMain..BarManager..rbnBarOrders......ItemName
+#: frmMainU.dfm:881
+msgid "rbnBtnOrderOptimize"
+msgstr ""
+
+#. frmMain..BarManager..rbnBarOrders......ItemName
+#: frmMainU.dfm:885
+msgid "rbnBtnOrderPrint"
+msgstr ""
+
+#. frmMain..BarManager..rbnBarMisceleanous..Caption
+#: frmMainU.dfm:894
+msgid "Misceleanous"
+msgstr ""
+
+#. frmMain..BarManager..rbnBarMisceleanous......ItemName
+#: frmMainU.dfm:905
+msgid "rbnBtnRefresh"
+msgstr ""
+
+#. frmMain..BarManager..rbnBarMisceleanous......ItemName
+#: frmMainU.dfm:909
+msgid "rbnBtnTools"
+msgstr ""
+
+#. frmMain..BarManager..rbnBarMisceleanous......ItemName
+#: frmMainU.dfm:913
+msgid "rbnBtnReport"
+msgstr ""
+
+#. frmMain..BarManager..rbnBarReferences..Caption
+#: frmMainU.dfm:922
+msgid "Manage References"
+msgstr ""
+
+#. frmMain..BarManager..rbnBarReferences......ItemName
+#: frmMainU.dfm:933
+msgid "rbnBtnStyles"
+msgstr ""
+
+#. frmMain..BarManager..rbnBarReferences......ItemName
+#: frmMainU.dfm:939
+msgid "rbnBtnRefUoM"
+msgstr ""
+
+#. frmMain..BarManager..rbnBarReferences......ItemName
+#: frmMainU.dfm:944
+msgid "rbnBtnFeatures"
+msgstr ""
+
+#. frmMain..BarManager..rbnBarReferences......ItemName
+#: frmMainU.dfm:949
+msgid "rbnBtnLayingRule"
+msgstr ""
+
+#. frmMain..BarManager..rbnBarReferences......ItemName
+#: frmMainU.dfm:954
+msgid "rbnBtnMaterials"
+msgstr ""
+
+#. frmMain..BarManager..rbnBarReferences......ItemName
+#: frmMainU.dfm:959
+msgid "rbnBtnCustomers"
+msgstr ""
+
+#. frmMain..BarManager..rbnBarReferences......ItemName
+#: frmMainU.dfm:964
+msgid "rbnBtnItems"
+msgstr ""
+
+#. frmMain..BarManager..itmToolbar..Caption
+#: frmMainU.dfm:973
+msgid "Tool Bars"
+msgstr ""
+
+#. frmMain..BarManager..itmTheme..Caption
+#: frmMainU.dfm:1071
+#. frmOptions..cxPageControl1..PreferenceSheet..cxLabel5..Caption
+#: frmOptionsU.dfm:201
+msgid "Themes"
+msgstr ""
+
+#. frmMain..BarManager..itmLanguage..Caption
+#: frmMainU.dfm:1078
+msgid "Languages"
+msgstr ""
+
+#. frmMain..BarManager..itmShowDesigner..Caption
+#: frmMainU.dfm:1092
+#. frmMain..BarManager..itmShowDesigner..Hint
+#: frmMainU.dfm:1094
+msgid "Show Designer"
+msgstr ""
+
+#. frmMain..BarManager..Package1......ItemName
+#: frmMainU.dfm:1153
+msgid "stdBtnExit"
+msgstr ""
+
+#. frmMain..BarManager..References1......ItemName
+#: frmMainU.dfm:1200
+msgid "stdBtnRefUoM"
+msgstr ""
+
+#. frmMain..BarManager..References1......ItemName
+#: frmMainU.dfm:1204
+msgid "stdBtnRefFeatures"
+msgstr ""
+
+#. frmMain..BarManager..References1......ItemName
+#: frmMainU.dfm:1208
+msgid "stdBtnRefLayingRule"
+msgstr ""
+
+#. frmMain..BarManager..References1......ItemName
+#: frmMainU.dfm:1213
+msgid "stdBtnRefItems"
+msgstr ""
+
+#. frmMain..BarManager..References1......ItemName
+#: frmMainU.dfm:1217
+msgid "stdBtnRefCustomers"
+msgstr ""
+
+#. frmMain..BarManager..References1......ItemName
+#: frmMainU.dfm:1222
+msgid "stdBtnRefStyle"
+msgstr ""
+
+#. frmMain..BarManager..View1......ItemName
+#: frmMainU.dfm:1232
+#. frmMain..BarManager..rbnBtnView......ItemName
+#: frmMainU.dfm:1353
+#. frmMain..BarManager..rbnBtnTools......ItemName
+#: frmMainU.dfm:1388
+msgid "itmShowDesigner"
+msgstr ""
+
+#. frmMain..BarManager..View1......ItemName
+#: frmMainU.dfm:1236
+#. frmMain..BarManager..rbnBtnView......ItemName
+#: frmMainU.dfm:1357
+#. frmMain..BarManager..rbnBtnTools......ItemName
+#: frmMainU.dfm:1392
+msgid "ViewLogPanel"
+msgstr ""
+
+#. frmMain..BarManager..View1......ItemName
+#: frmMainU.dfm:1240
+#. frmMain..BarManager..rbnBtnView......ItemName
+#: frmMainU.dfm:1366
+#. frmMain..BarManager..rbnBtnTools......ItemName
+#: frmMainU.dfm:1397
+msgid "itmLanguage"
+msgstr ""
+
+#. frmMain..BarManager..View1......ItemName
+#: frmMainU.dfm:1244
+#. frmMain..BarManager..rbnBtnView......ItemName
+#: frmMainU.dfm:1362
+#. frmMain..BarManager..rbnBtnTools......ItemName
+#: frmMainU.dfm:1401
+msgid "itmTheme"
+msgstr ""
+
+#. frmMain..BarManager..View1......ItemName
+#: frmMainU.dfm:1249
+#. frmMain..BarManager..rbnBtnView......ItemName
+#: frmMainU.dfm:1371
+msgid "itmToolbar"
+msgstr ""
+
+#. frmMain..BarManager..Tools1......ItemName
+#: frmMainU.dfm:1264
+#. frmMain..BarManager..rbnBtnTools......ItemName
+#: frmMainU.dfm:1406
+msgid "itmExternalTools"
+msgstr ""
+
+#. frmMain..BarManager..Tools1......ItemName
+#: frmMainU.dfm:1269
+#. frmMain..BarManager..rbnBtnTools......ItemName
+#: frmMainU.dfm:1411
+msgid "Options1"
+msgstr ""
+
+#. frmMarkerOptimizer..Caption
+#: frmMarkerOptimizerU.dfm:4
+msgid "Marker Optimizer"
+msgstr ""
+
+#. frmMarkerOptimizer..EngineTabControl....Tabs.Strings
+#: frmMarkerOptimizerU.dfm:66
+msgid "N-Top Optimisation"
+msgstr ""
+
+#. frmMarkerOptimizer..EngineTabControl..Panel1..Splitter..HotZoneClassName
+#: frmMarkerOptimizerU.dfm:106
+#. frmMarkerOptimizer..EngineTabControl..Panel1..Panel3..ErrorSplitter..HotZoneClassName
+#: frmMarkerOptimizerU.dfm:149
+msgid "TcxMediaPlayer9Style"
+msgstr ""
+
+#. frmMarkerOptimizer..EngineTabControl..Panel1..Panel3..DistributionGrid..DistributionGridLevel..Caption
+#: frmMarkerOptimizerU.dfm:187
+msgid "Distribution Plan"
+msgstr ""
+
+#. frmMarkerOptimizer..EngineTabControl..Panel1..Panel3..DistributionGrid..ConsumptionGridLevel..Caption
+#: frmMarkerOptimizerU.dfm:191
+msgid "Fabric Consumption"
+msgstr ""
+
+#. frmMarkerOptimizer..EngineTabControl..Panel1..TabProperties....Tabs.Strings
+#: frmMarkerOptimizerU.dfm:212
+#. frmMarkerOptimizer..BarManager....Categories.Strings
+#: frmMarkerOptimizerU.dfm:375
+msgid "Detail"
+msgstr ""
+
+#. frmMarkerOptimizer..EngineTabControl..Panel2..Label3..Caption
+#: frmMarkerOptimizerU.dfm:252
+msgid "Order Desc:"
+msgstr ""
+
+#. frmMarkerOptimizer..EngineTabControl..Panel2..Label2..Caption
+#: frmMarkerOptimizerU.dfm:260
+#. frmOrder..cxTabControl1..cxPageControl1..cxTabSheet1..Label1..Caption
+#: packages/frmOrderU.dfm:92
+msgid "Order No:"
+msgstr ""
+
+#. frmMarkerOptimizer..EngineTabControl..Panel2..Label1..Caption
+#: frmMarkerOptimizerU.dfm:268
+msgid "Order Date:"
+msgstr ""
+
+#. frmMarkerOptimizer..ActionList..actSave..Caption
+#: frmMarkerOptimizerU.dfm:301
+#. frmCustomer..ActionList..actSave..Caption
+#: modules/frmCustomerU.dfm:222
+#. frmFeatureItems..ActionList..actSave..Caption
+#: modules/frmFeatureItemsU.dfm:183
+#. frmFeature..ActionList..actSave..Caption
+#: modules/frmFeatureU.dfm:152
+#. frmLayingRuleItems..ActionList..actSave..Caption
+#: modules/frmLayingRuleItemsU.dfm:134
+#. frmLayingRule..ActionList..actSave..Caption
+#: modules/frmLayingRuleU.dfm:132
+#. frmMaterial..ActionList..actSave..Caption
+#: modules/frmMaterialU.dfm:148
+#. frmStyleType..ActionList..actSave..Caption
+#: modules/frmStyleTypeU.dfm:132
+#. frmUoMConv..ActionList..actSave..Caption
+#: modules/frmUoMConvU.dfm:181
+#. frmUoM..ActionList..actSave..Caption
+#: modules/frmUoMU.dfm:164
+#. frmItem..ActionList..actSave..Caption
+#: packages/frmItemU.dfm:306
+#. frmItmLayingRuleItems..ActionList..actSave..Caption
+#: packages/frmItmLayingRuleItemsU.dfm:153
+#. frmItmMaterial..ActionList..actSave..Caption
+#: packages/frmItmMaterialU.dfm:310
+#. frmOrder..ActionList..actSave..Caption
+#: packages/frmOrderU.dfm:420
+#. frmOrdItem..ActionList..actSave..Caption
+#: packages/frmOrdItemU.dfm:570
+#. frmOrdLayingRuleItems..ActionList..actSave..Caption
+#: packages/frmOrdLayingRuleItemsU.dfm:164
+#. frmOrdMaterial..ActionList..actSave..Caption
+#: packages/frmOrdMaterialU.dfm:554
+#. frmStFeatureItems..ActionList..actSave..Caption
+#: packages/frmStFeatureItemsU.dfm:219
+#. frmStFeature..ActionList..actSave..Caption
+#: packages/frmStFeatureU.dfm:178
+#. frmStLayingRuleItems..ActionList..actSave..Caption
+#: packages/frmStLayingRuleItemsU.dfm:191
+#. frmStMaterial..ActionList..actSave..Caption
+#: packages/frmStMaterialU.dfm:337
+#. frmStyle..ActionList..actSave..Caption
+#: packages/frmStylesU.dfm:212
+msgid "&Save"
+msgstr ""
+
+#. frmMarkerOptimizer..ActionList..actOptimize..Caption
+#: frmMarkerOptimizerU.dfm:312
+msgid "Optimize All"
+msgstr ""
+
+#. frmMarkerOptimizer..ActionList..actOptimizeItem..Caption
+#: frmMarkerOptimizerU.dfm:324
+msgid "Reoptimize Worksheet"
+msgstr ""
+
+#. frmMarkerOptimizer..ActionList..actExport..Caption
+#: frmMarkerOptimizerU.dfm:330
+msgid "Export Batch"
+msgstr ""
+
+#. frmMarkerOptimizer..ActionList..actLoad..Caption
+#: frmMarkerOptimizerU.dfm:335
+msgid "Load XML"
+msgstr ""
+
+#. frmMarkerOptimizer..ActionList..actReset..Caption
+#: frmMarkerOptimizerU.dfm:340
+msgid "Reset"
+msgstr ""
+
+#. frmMarkerOptimizer..ActionList..actLockUnlock..Caption
+#: frmMarkerOptimizerU.dfm:345
+msgid "Lock/Unlock value"
+msgstr ""
+
+#. frmMarkerOptimizer..ActionList..actLockRow..Caption
+#: frmMarkerOptimizerU.dfm:351
+msgid "Lock/unlock row"
+msgstr ""
+
+#. frmMarkerOptimizer..ActionList..actExportExcel..Caption
+#: frmMarkerOptimizerU.dfm:362
+msgid "Export to Excel"
+msgstr ""
+
+#. frmMarkerOptimizer..BarManager..dxBarManager1Bar1......ItemName
+#: frmMarkerOptimizerU.dfm:409
+msgid "stdBtnOptimize"
+msgstr ""
+
+#. frmMarkerOptimizer..BarManager..dxBarManager1Bar1......ItemName
+#: frmMarkerOptimizerU.dfm:414
+msgid "stdBtnSave"
+msgstr ""
+
+#. frmMarkerOptimizer..BarManager..dxBarManager1Bar1......ItemName
+#: frmMarkerOptimizerU.dfm:418
+msgid "stdBtnCancel"
+msgstr ""
+
+#. frmMarkerOptimizer..BarManager..BarManagerBar1..Caption
+#: frmMarkerOptimizerU.dfm:437
+msgid "Item Toolbar"
+msgstr ""
+
+#. frmMarkerOptimizer..BarManager..BarManagerBar1......ItemName
+#: frmMarkerOptimizerU.dfm:450
+msgid "lblDetail"
+msgstr ""
+
+#. frmMarkerOptimizer..BarManager..BarManagerBar1......ItemName
+#: frmMarkerOptimizerU.dfm:455
+msgid "stdBtnReset"
+msgstr ""
+
+#. frmMarkerOptimizer..BarManager..BarManagerBar1......ItemName
+#: frmMarkerOptimizerU.dfm:459
+msgid "btnReoptimize"
+msgstr ""
+
+#. frmMarkerOptimizer..BarManager..BarManagerBar1......ItemName
+#: frmMarkerOptimizerU.dfm:464
+msgid "stdBtnExportBatch"
+msgstr ""
+
+#. frmMarkerOptimizer..BarManager..BarManagerBar1......ItemName
+#: frmMarkerOptimizerU.dfm:468
+msgid "stdBtnLoadXML"
+msgstr ""
+
+#. frmMarkerOptimizer..BarManager..BarManagerBar1......ItemName
+#: frmMarkerOptimizerU.dfm:481
+msgid "stdBtnExportExcel"
+msgstr ""
+
+#. frmMarkerOptimizer..BarManager..lblDetail..Caption
+#: frmMarkerOptimizerU.dfm:506
+#. frmMarkerOptimizer..BarManager..lblDetail..Hint
+#: frmMarkerOptimizerU.dfm:508
+msgid "Detail functions:"
+msgstr ""
+
+#. frmOptions..Caption
+#: frmOptionsU.dfm:5
+#. frmOptions..cxPageControl1..PreferenceSheet..cxLabel1..Caption
+#: frmOptionsU.dfm:178
+msgid "Options"
+msgstr ""
+
+#. frmOptions..cxPageControl1..GeneralSheet..Caption
+#: frmOptionsU.dfm:37
+msgid "General"
+msgstr ""
+
+#. frmOptions..cxPageControl1..GeneralSheet..cxLabel2..Caption
+#: frmOptionsU.dfm:57
+msgid "File extensions"
+msgstr ""
+
+#. frmOptions..cxPageControl1..GeneralSheet..cxLabel3..Caption
+#: frmOptionsU.dfm:63
+msgid "DSN Extension:"
+msgstr ""
+
+#. frmOptions..cxPageControl1..GeneralSheet..cxLabel4..Caption
+#: frmOptionsU.dfm:75
+msgid "DSP Extension:"
+msgstr ""
+
+#. frmOptions..cxPageControl1..GeneralSheet..cxLabel9..Caption
+#: frmOptionsU.dfm:87
+msgid "BTF Extension:"
+msgstr ""
+
+#. frmOptions..cxPageControl1..GeneralSheet..cxLabel10..Caption
+#: frmOptionsU.dfm:99
+msgid "XML Extension:"
+msgstr ""
+
+#. frmOptions..cxPageControl1..GeneralSheet..cxLabel11..Caption
+#: frmOptionsU.dfm:111
+msgid "Nest application"
+msgstr ""
+
+#. frmOptions..cxPageControl1..GeneralSheet..cxLabel12..Caption
+#: frmOptionsU.dfm:117
+msgid "Nest file application:"
+msgstr ""
+
+#. frmOptions..cxPageControl1..PreferenceSheet..Caption
+#: frmOptionsU.dfm:135
+msgid "Preferences"
+msgstr ""
+
+#. frmOptions..cxPageControl1..PreferenceSheet..ckSplash..Caption
+#: frmOptionsU.dfm:161
+msgid "Show splash screen at startup"
+msgstr ""
+
+#. frmOptions..cxPageControl1..PreferenceSheet..ckMultiInstance..Caption
+#: frmOptionsU.dfm:184
+msgid "Enable multiple instances"
+msgstr ""
+
+#. frmOptions..cxPageControl1..PreferenceSheet..cxLabel6..Caption
+#: frmOptionsU.dfm:207
+msgid "Setup the default theme to be used"
+msgstr ""
+
+#. frmOptions..cxPageControl1..PreferenceSheet..cxLabel7..Caption
+#: frmOptionsU.dfm:213
+msgid "Internationalisation"
+msgstr ""
+
+#. frmOptions..cxPageControl1..PreferenceSheet..cxLabel8..Caption
+#: frmOptionsU.dfm:219
+msgid "Setup default language for this application"
+msgstr ""
+
+#. frmOptions..cxPageControl1..PreferenceSheet..ckRibbon..Caption
+#: frmOptionsU.dfm:237
+msgid "Use ribbon bar"
+msgstr ""
+
+#. frmProgress..Caption
+#: frmProgressU.dfm:5
+msgid "Progress"
+msgstr ""
+
+#. frmProperties..cxPageControl1..cxTabSheet1..Caption
+#: frmPropU.dfm:52
+msgid "Summary"
+msgstr ""
+
+#. frmProperties..cxPageControl1..cxTabSheet1..Label2..Caption
+#: frmPropU.dfm:71
+msgid "Subject:"
+msgstr ""
+
+#. frmProperties..cxPageControl1..cxTabSheet1..Label3..Caption
+#: frmPropU.dfm:79
+msgid "Author:"
+msgstr ""
+
+#. frmProperties..cxPageControl1..cxTabSheet1..Label4..Caption
+#: frmPropU.dfm:87
+msgid "Manager:"
+msgstr ""
+
+#. frmProperties..cxPageControl1..cxTabSheet1..Label5..Caption
+#: frmPropU.dfm:95
+msgid "Company:"
+msgstr ""
+
+#. frmProperties..cxPageControl1..cxTabSheet1..Label6..Caption
+#: frmPropU.dfm:103
+msgid "Category:"
+msgstr ""
+
+#. frmProperties..cxPageControl1..cxTabSheet1..Label7..Caption
+#: frmPropU.dfm:111
+msgid "Comment:"
+msgstr ""
+
+#. xfrAboutForm..Caption
+#: xfrAboutFrm.dfm:5
+msgid "About FastReport"
+msgstr ""
+
+#. xfrAboutForm..Label2..Caption
+#: xfrAboutFrm.dfm:35
+msgid "Version 1.00"
+msgstr ""
+
+#. xfrAboutForm..Label1..Font.Name
+#: xfrAboutFrm.dfm:72
+#. xfrAboutForm..Label11..Font.Name
+#: xfrAboutFrm.dfm:268
+msgid "Verdana"
+msgstr ""
+
+#. xfrAboutForm..Label11..Caption
+#: xfrAboutFrm.dfm:264
+msgid "Explorer"
+msgstr ""
+
+#. frmCustomer..Caption
+#: modules/frmCustomerU.dfm:4
+msgid "Customer"
+msgstr ""
+
+#. frmCustomer..cxTabControl1..cxPageControl1..cxTabSheet1..Label1..Caption
+#: modules/frmCustomerU.dfm:90
+msgid "Code:"
+msgstr ""
+
+#. frmCustomer..cxTabControl1..cxPageControl1..cxTabSheet1..Label2..Caption
+#: modules/frmCustomerU.dfm:98
+#. frmMaterial..cxTabControl1..cxPageControl1..cxTabSheet1..Label2..Caption
+#: modules/frmMaterialU.dfm:98
+#. frmUoM..cxTabControl1..cxPageControl1..cxTabSheet1..Label2..Caption
+#: modules/frmUoMU.dfm:98
+#. frmItmMaterial..cxTabControl1..cxPageControl1..cxTabSheet1..Label2..Caption
+#: packages/frmItmMaterialU.dfm:98
+#. frmOrdMaterial..cxTabControl1..cxPageControl1..cxTabSheet1..Label2..Caption
+#: packages/frmOrdMaterialU.dfm:98
+#. frmStMaterial..cxTabControl1..cxPageControl1..cxTabSheet1..Label2..Caption
+#: packages/frmStMaterialU.dfm:106
+#. frmStyle..cxTabControl1..cxPageControl1..cxTabSheet1..Label1..Caption
+#: packages/frmStylesU.dfm:90
+msgid "Name:"
+msgstr ""
+
+#. frmCustomer..cxTabControl1..cxPageControl1..cxTabSheet1..Label3..Caption
+#: modules/frmCustomerU.dfm:106
+#. frmFeatureItems..cxTabControl1..cxPageControl1..cxTabSheet1..Label4..Caption
+#: modules/frmFeatureItemsU.dfm:114
+#. frmFeature..cxTabControl1..cxPageControl1..cxTabSheet1..Label3..Caption
+#: modules/frmFeatureU.dfm:98
+#. frmMaterial..cxTabControl1..cxPageControl1..cxTabSheet1..Label3..Caption
+#: modules/frmMaterialU.dfm:106
+#. frmStyleType..cxTabControl1..cxPageControl1..cxTabSheet1..Label2..Caption
+#: modules/frmStyleTypeU.dfm:98
+#. frmUoM..cxTabControl1..cxPageControl1..cxTabSheet1..Label3..Caption
+#: modules/frmUoMU.dfm:106
+#. frmItmMaterial..cxTabControl1..cxPageControl1..cxTabSheet1..Label3..Caption
+#: packages/frmItmMaterialU.dfm:106
+#. frmOrder..cxTabControl1..cxPageControl1..cxTabSheet1..Label4..Caption
+#: packages/frmOrderU.dfm:100
+#. frmOrdMaterial..cxTabControl1..cxPageControl1..cxTabSheet1..Label3..Caption
+#: packages/frmOrdMaterialU.dfm:106
+#. frmStFeatureItems..cxTabControl1..cxPageControl1..cxTabSheet1..Label4..Caption
+#: packages/frmStFeatureItemsU.dfm:114
+#. frmStFeature..cxTabControl1..cxPageControl1..cxTabSheet1..Label3..Caption
+#: packages/frmStFeatureU.dfm:98
+#. frmStMaterial..cxTabControl1..cxPageControl1..cxTabSheet1..Label3..Caption
+#: packages/frmStMaterialU.dfm:114
+msgid "Description:"
+msgstr ""
+
+#. frmCustomer..cxTabControl1..cxPageControl1..cxTabSheet1..Label4..Caption
+#: modules/frmCustomerU.dfm:114
+msgid "Address:"
+msgstr ""
+
+#. frmCustomer..cxTabControl1..cxPageControl1..cxTabSheet1..Label7..Caption
+#: modules/frmCustomerU.dfm:122
+msgid "Phone 1:"
+msgstr ""
+
+#. frmCustomer..cxTabControl1..cxPageControl1..cxTabSheet1..Label8..Caption
+#: modules/frmCustomerU.dfm:130
+msgid "Phone 2:"
+msgstr ""
+
+#. frmCustomer..cxTabControl1..cxPageControl1..cxTabSheet1..cxDBTextEdit1..DataBinding.DataField
+#: modules/frmCustomerU.dfm:136
+msgid "crdid"
+msgstr ""
+
+#. frmCustomer..cxTabControl1..cxPageControl1..cxTabSheet1..cxDBTextEdit2..DataBinding.DataField
+#: modules/frmCustomerU.dfm:145
+msgid "crdname"
+msgstr ""
+
+#. frmCustomer..cxTabControl1..cxPageControl1..cxTabSheet1..cxDBTextEdit3..DataBinding.DataField
+#: modules/frmCustomerU.dfm:153
+msgid "crddesc"
+msgstr ""
+
+#. frmCustomer..cxTabControl1..cxPageControl1..cxTabSheet1..cxDBTextEdit4..DataBinding.DataField
+#: modules/frmCustomerU.dfm:161
+msgid "crdadr1"
+msgstr ""
+
+#. frmCustomer..cxTabControl1..cxPageControl1..cxTabSheet1..cxDBTextEdit5..DataBinding.DataField
+#: modules/frmCustomerU.dfm:169
+msgid "crdadr2"
+msgstr ""
+
+#. frmCustomer..cxTabControl1..cxPageControl1..cxTabSheet1..cxDBTextEdit6..DataBinding.DataField
+#: modules/frmCustomerU.dfm:177
+msgid "crdadr3"
+msgstr ""
+
+#. frmCustomer..cxTabControl1..cxPageControl1..cxTabSheet1..cxDBTextEdit7..DataBinding.DataField
+#: modules/frmCustomerU.dfm:185
+msgid "crdphn1"
+msgstr ""
+
+#. frmCustomer..cxTabControl1..cxPageControl1..cxTabSheet1..cxDBTextEdit8..DataBinding.DataField
+#: modules/frmCustomerU.dfm:193
+msgid "crdphn2"
+msgstr ""
+
+#. frmCustomer..cxTabControl1..cxPageControl1..cxTabSheet1..cxDBCheckBox1..Caption
+#: modules/frmCustomerU.dfm:201
+msgid "Active"
+msgstr ""
+
+#. frmCustomer..cxTabControl1..cxPageControl1..cxTabSheet1..cxDBCheckBox1..DataBinding.DataField
+#: modules/frmCustomerU.dfm:202
+msgid "crdstat"
+msgstr ""
+
+#. frmCustomer..ActionList..actReff_1..Caption
+#: modules/frmCustomerU.dfm:239
+#. frmFeatureItems..ActionList..actReff_1..Caption
+#: modules/frmFeatureItemsU.dfm:205
+#. frmLayingRuleItems..ActionList..actReff_1..Caption
+#: modules/frmLayingRuleItemsU.dfm:156
+#. frmMaterial..ActionList..actReff_1..Caption
+#: modules/frmMaterialU.dfm:170
+#. frmUoMConv..ActionList..actReff_1..Caption
+#: modules/frmUoMConvU.dfm:203
+#. frmUoM..ActionList..actReff_1..Caption
+#: modules/frmUoMU.dfm:186
+#. frmItmLayingRuleItems..ActionList..actReff_1..Caption
+#: packages/frmItmLayingRuleItemsU.dfm:175
+#. frmOrdLayingRuleItems..ActionList..actReff_1..Caption
+#: packages/frmOrdLayingRuleItemsU.dfm:186
+#. frmStLayingRuleItems..ActionList..actReff_1..Caption
+#: packages/frmStLayingRuleItemsU.dfm:213
+msgid "UoM Conversion"
+msgstr ""
+
+#. frmFeatureItems..Caption
+#: modules/frmFeatureItemsU.dfm:4
+#. frmFeatureItems..cxTabControl1..cxPageControl1..cxTabSheet1..Caption
+#: modules/frmFeatureItemsU.dfm:83
+msgid "Feature Items"
+msgstr ""
+
+#. frmFeatureItems..cxTabControl1..cxPageControl1..cxTabSheet1..Label1..Caption
+#: modules/frmFeatureItemsU.dfm:90
+#. frmFeature..cxTabControl1..cxPageControl1..cxTabSheet1..Label1..Caption
+#: modules/frmFeatureU.dfm:90
+#. frmStFeatureItems..cxTabControl1..cxPageControl1..cxTabSheet1..Label5..Caption
+#: packages/frmStFeatureItemsU.dfm:122
+#. frmStFeature..cxTabControl1..cxPageControl1..cxTabSheet1..Label2..Caption
+#: packages/frmStFeatureU.dfm:106
+#. frmStLayingRuleItems..cxTabControl1..cxPageControl1..cxTabSheet1..Label3..Caption
+#: packages/frmStLayingRuleItemsU.dfm:106
+#. frmStMaterial..cxTabControl1..cxPageControl1..cxTabSheet1..Label4..Caption
+#: packages/frmStMaterialU.dfm:122
+msgid "Feature:"
+msgstr ""
+
+#. frmFeatureItems..cxTabControl1..cxPageControl1..cxTabSheet1..Label2..Caption
+#: modules/frmFeatureItemsU.dfm:98
+#. frmItmLayingRuleItems..cxTabControl1..cxPageControl1..cxTabSheet1..Label1..Caption
+#: packages/frmItmLayingRuleItemsU.dfm:90
+#. frmItmMaterial..cxTabControl1..cxPageControl1..cxTabSheet1..Label1..Caption
+#: packages/frmItmMaterialU.dfm:90
+#. frmOrdItem..cxTabControl1..cxPageControl1..cxTabSheet1..Label5..Caption
+#: packages/frmOrdItemU.dfm:104
+#. frmStFeatureItems..cxTabControl1..cxPageControl1..cxTabSheet1..Label2..Caption
+#: packages/frmStFeatureItemsU.dfm:98
+#. frmStMaterial..cxTabControl1..cxPageControl1..cxTabSheet1..Label5..Caption
+#: packages/frmStMaterialU.dfm:130
+msgid "Item:"
+msgstr ""
+
+#. frmFeatureItems..cxTabControl1..cxPageControl1..cxTabSheet1..Label3..Caption
+#: modules/frmFeatureItemsU.dfm:106
+msgid "Sequence:"
+msgstr ""
+
+#. frmFeatureItems..cxTabControl1..cxPageControl1..cxTabSheet1..Label5..Caption
+#: modules/frmFeatureItemsU.dfm:122
+#. frmStFeatureItems..cxTabControl1..cxPageControl1..cxTabSheet1..Label6..Caption
+#: packages/frmStFeatureItemsU.dfm:138
+msgid "Priority:"
+msgstr ""
+
+#. frmFeatureItems..cxTabControl1..cxPageControl1..cxTabSheet1..cxDBTextEdit1..DataBinding.DataField
+#: modules/frmFeatureItemsU.dfm:128
+#. frmFeature..cxTabControl1..cxPageControl1..cxTabSheet1..cxDBTextEdit1..DataBinding.DataField
+#: modules/frmFeatureU.dfm:104
+#. frmStFeatureItems..cxTabControl1..cxPageControl1..cxTabSheet1..cxDBTextEdit4..DataBinding.DataField
+#: packages/frmStFeatureItemsU.dfm:180
+#. frmStFeature..cxTabControl1..cxPageControl1..cxTabSheet1..cxDBButtonEdit1..DataBinding.DataField
+#: packages/frmStFeatureU.dfm:152
+#. frmStLayingRuleItems..cxTabControl1..cxPageControl1..cxTabSheet1..cxDBTextEdit2..DataBinding.DataField
+#: packages/frmStLayingRuleItemsU.dfm:147
+#. frmStMaterial..cxTabControl1..cxPageControl1..cxTabSheet1..cxDBTextEdit4..DataBinding.DataField
+#: packages/frmStMaterialU.dfm:206
+msgid "ftname"
+msgstr ""
+
+#. frmFeatureItems..cxTabControl1..cxPageControl1..cxTabSheet1..cxDBTextEdit2..DataBinding.DataField
+#: modules/frmFeatureItemsU.dfm:139
+#. frmStFeatureItems..cxTabControl1..cxPageControl1..cxTabSheet1..cxDBTextEdit2..DataBinding.DataField
+#: packages/frmStFeatureItemsU.dfm:155
+#. frmStLayingRuleItems..cxTabControl1..cxPageControl1..cxTabSheet1..cxDBTextEdit3..DataBinding.DataField
+#: packages/frmStLayingRuleItemsU.dfm:158
+#. frmStMaterial..cxTabControl1..cxPageControl1..cxTabSheet1..cxDBTextEdit5..DataBinding.DataField
+#: packages/frmStMaterialU.dfm:216
+msgid "fitname"
+msgstr ""
+
+#. frmFeatureItems..cxTabControl1..cxPageControl1..cxTabSheet1..cxDBSpinEdit1..DataBinding.DataField
+#: modules/frmFeatureItemsU.dfm:148
+#. frmStFeatureItems..cxTabControl1..cxPageControl1..cxTabSheet1..cxDBSpinEdit1..DataBinding.DataField
+#: packages/frmStFeatureItemsU.dfm:164
+msgid "fitprio"
+msgstr ""
+
+#. frmFeatureItems..cxTabControl1..cxPageControl1..cxTabSheet1..cxDBTextEdit3..DataBinding.DataField
+#: modules/frmFeatureItemsU.dfm:156
+#. frmStFeatureItems..cxTabControl1..cxPageControl1..cxTabSheet1..cxDBTextEdit3..DataBinding.DataField
+#: packages/frmStFeatureItemsU.dfm:172
+msgid "fitdesc"
+msgstr ""
+
+#. frmFeatureItems..cxTabControl1..cxPageControl1..cxTabSheet1..cxDBSpinEdit2..DataBinding.DataField
+#: modules/frmFeatureItemsU.dfm:164
+#. frmStFeatureItems..cxTabControl1..cxPageControl1..cxTabSheet1..cxDBSpinEdit2..DataBinding.DataField
+#: packages/frmStFeatureItemsU.dfm:200
+msgid "fitprio2"
+msgstr ""
+
+#. frmFeature..Caption
+#: modules/frmFeatureU.dfm:4
+#. frmFeature..cxTabControl1..cxPageControl1..cxTabSheet1..Caption
+#: modules/frmFeatureU.dfm:83
+msgid "Feature"
+msgstr ""
+
+#. frmFeature..cxTabControl1..cxPageControl1..cxTabSheet1..cxDBTextEdit3..DataBinding.DataField
+#: modules/frmFeatureU.dfm:113
+#. frmStFeature..cxTabControl1..cxPageControl1..cxTabSheet1..cxDBTextEdit3..DataBinding.DataField
+#: packages/frmStFeatureU.dfm:122
+msgid "ftdesc"
+msgstr ""
+
+#. frmFeature..cxTabControl1..cxPageControl1..cxTabSheet1..cxDBRadioGroup1..Caption
+#: modules/frmFeatureU.dfm:121
+#. frmStFeature..cxTabControl1..cxPageControl1..cxTabSheet1..cxDBRadioGroup1..Caption
+#: packages/frmStFeatureU.dfm:131
+msgid "Feature Group"
+msgstr ""
+
+#. frmFeature..cxTabControl1..cxPageControl1..cxTabSheet1..cxDBRadioGroup1..DataBinding.DataField
+#: modules/frmFeatureU.dfm:122
+#. frmStFeature..cxTabControl1..cxPageControl1..cxTabSheet1..cxDBRadioGroup1..DataBinding.DataField
+#: packages/frmStFeatureU.dfm:132
+msgid "ftgrp"
+msgstr ""
+
+#. frmFeature..cxTabControl1..cxPageControl1..cxTabSheet1..cxDBRadioGroup1......Caption
+#: modules/frmFeatureU.dfm:127
+#. frmStFeature..cxTabControl1..cxPageControl1..cxTabSheet1..cxDBRadioGroup1......Caption
+#: packages/frmStFeatureU.dfm:138
+msgid "X - Feature"
+msgstr ""
+
+#. frmFeature..cxTabControl1..cxPageControl1..cxTabSheet1..cxDBRadioGroup1......Caption
+#: modules/frmFeatureU.dfm:131
+#. frmStFeature..cxTabControl1..cxPageControl1..cxTabSheet1..cxDBRadioGroup1......Caption
+#: packages/frmStFeatureU.dfm:142
+msgid "Y - Feature"
+msgstr ""
+
+#. frmFeature..ActionList..actReff_1..Caption
+#: modules/frmFeatureU.dfm:174
+#. frmLayingRule..ActionList..actReff_1..Caption
+#: modules/frmLayingRuleU.dfm:154
+#. frmStFeature..ActionList..actReff_1..Caption
+#: packages/frmStFeatureU.dfm:195
+msgid "Show Details"
+msgstr ""
+
+#. frmFeature..BarManager..dxBarManager1Bar1......ItemName
+#: modules/frmFeatureU.dfm:240
+#. frmLayingRule..BarManager..dxBarManager1Bar1......ItemName
+#: modules/frmLayingRuleU.dfm:220
+#. frmUoM..BarManager..dxBarManager1Bar1......ItemName
+#: modules/frmUoMU.dfm:252
+#. frmItem..BarManager..dxBarManager1Bar1......ItemName
+#: packages/frmItemU.dfm:394
+#. frmItmMaterial..BarManager..dxBarManager1Bar1......ItemName
+#: packages/frmItmMaterialU.dfm:400
+#. frmOrder..BarManager..dxBarManager1Bar1......ItemName
+#: packages/frmOrderU.dfm:515
+#. frmOrdItem..BarManager..dxBarManager1Bar1......ItemName
+#: packages/frmOrdItemU.dfm:658
+#. frmOrdMaterial..BarManager..dxBarManager1Bar1......ItemName
+#: packages/frmOrdMaterialU.dfm:644
+#. frmStFeatureItems..BarManager..dxBarManager1Bar1......ItemName
+#: packages/frmStFeatureItemsU.dfm:308
+#. frmStFeature..BarManager..dxBarManager1Bar1......ItemName
+#: packages/frmStFeatureU.dfm:267
+#. frmStMaterial..BarManager..dxBarManager1Bar1......ItemName
+#: packages/frmStMaterialU.dfm:427
+#. frmStyle..BarManager..dxBarManager1Bar1......ItemName
+#: packages/frmStylesU.dfm:310
+msgid "stdBtnReff_1"
+msgstr ""
+
+#. frmLayingRuleItems..Caption
+#: modules/frmLayingRuleItemsU.dfm:4
+#. frmLayingRuleItems..cxTabControl1..cxPageControl1..cxTabSheet1..Caption
+#: modules/frmLayingRuleItemsU.dfm:83
+msgid "Laying Rule Items"
+msgstr ""
+
+#. frmLayingRuleItems..cxTabControl1..cxPageControl1..cxTabSheet1..Label1..Caption
+#: modules/frmLayingRuleItemsU.dfm:90
+#. frmLayingRule..cxTabControl1..cxPageControl1..cxTabSheet1..Label1..Caption
+#: modules/frmLayingRuleU.dfm:90
+#. frmItmMaterial..cxTabControl1..cxPageControl1..cxTabSheet1..Label7..Caption
+#: packages/frmItmMaterialU.dfm:122
+#. frmOrdMaterial..cxTabControl1..cxPageControl1..cxTabSheet1..Label7..Caption
+#: packages/frmOrdMaterialU.dfm:122
+#. frmStMaterial..cxTabControl1..cxPageControl1..cxTabSheet1..Label7..Caption
+#: packages/frmStMaterialU.dfm:146
+msgid "Laying Rule:"
+msgstr ""
+
+#. frmLayingRuleItems..cxTabControl1..cxPageControl1..cxTabSheet1..Label2..Caption
+#: modules/frmLayingRuleItemsU.dfm:98
+#. frmItmLayingRuleItems..cxTabControl1..cxPageControl1..cxTabSheet1..Label2..Caption
+#: packages/frmItmLayingRuleItemsU.dfm:98
+#. frmOrdLayingRuleItems..cxTabControl1..cxPageControl1..cxTabSheet1..Label2..Caption
+#: packages/frmOrdLayingRuleItemsU.dfm:98
+#. frmStLayingRuleItems..cxTabControl1..cxPageControl1..cxTabSheet1..Label2..Caption
+#: packages/frmStLayingRuleItemsU.dfm:98
+msgid "Min. Layer:"
+msgstr ""
+
+#. frmLayingRuleItems..cxTabControl1..cxPageControl1..cxTabSheet1..cxDBTextEdit1..DataBinding.DataField
+#: modules/frmLayingRuleItemsU.dfm:104
+#. frmLayingRule..cxTabControl1..cxPageControl1..cxTabSheet1..cxDBTextEdit1..DataBinding.DataField
+#: modules/frmLayingRuleU.dfm:104
+#. frmItmMaterial..cxTabControl1..cxPageControl1..cxTabSheet1..cxDBButtonEdit2..DataBinding.DataField
+#: packages/frmItmMaterialU.dfm:205
+#. frmOrdMaterial..cxTabControl1..cxPageControl1..cxTabSheet1..cxDBButtonEdit2..DataBinding.DataField
+#: packages/frmOrdMaterialU.dfm:238
+#. frmStMaterial..cxTabControl1..cxPageControl1..cxTabSheet1..cxDBButtonEdit2..DataBinding.DataField
+#: packages/frmStMaterialU.dfm:241
+msgid "lrname"
+msgstr ""
+
+#. frmLayingRuleItems..cxTabControl1..cxPageControl1..cxTabSheet1..cxDBSpinEdit1..DataBinding.DataField
+#: modules/frmLayingRuleItemsU.dfm:115
+#. frmItmLayingRuleItems..cxTabControl1..cxPageControl1..cxTabSheet1..cxDBSpinEdit1..DataBinding.DataField
+#: packages/frmItmLayingRuleItemsU.dfm:123
+#. frmOrdLayingRuleItems..cxTabControl1..cxPageControl1..cxTabSheet1..cxDBSpinEdit1..DataBinding.DataField
+#: packages/frmOrdLayingRuleItemsU.dfm:123
+#. frmStLayingRuleItems..cxTabControl1..cxPageControl1..cxTabSheet1..cxDBSpinEdit1..DataBinding.DataField
+#: packages/frmStLayingRuleItemsU.dfm:139
+msgid "minlyr"
+msgstr ""
+
+#. frmLayingRule..cxTabControl1..cxPageControl1..cxTabSheet1..Label2..Caption
+#: modules/frmLayingRuleU.dfm:98
+#. frmStyle..cxTabControl1..cxPageControl1..cxTabSheet1..Label2..Caption
+#: packages/frmStylesU.dfm:98
+msgid "Description"
+msgstr ""
+
+#. frmLayingRule..cxTabControl1..cxPageControl1..cxTabSheet1..cxDBTextEdit2..DataBinding.DataField
+#: modules/frmLayingRuleU.dfm:113
+#. frmItmMaterial..cxTabControl1..cxPageControl1..cxTabSheet1..cxDBTextEdit6..DataBinding.DataField
+#: packages/frmItmMaterialU.dfm:222
+#. frmOrdMaterial..cxTabControl1..cxPageControl1..cxTabSheet1..cxDBTextEdit6..DataBinding.DataField
+#: packages/frmOrdMaterialU.dfm:254
+#. frmStMaterial..cxTabControl1..cxPageControl1..cxTabSheet1..cxDBTextEdit6..DataBinding.DataField
+#: packages/frmStMaterialU.dfm:258
+msgid "lrdesc"
+msgstr ""
+
+#. frmMaterial..cxTabControl1..cxPageControl1..cxTabSheet1..Label1..Caption
+#: modules/frmMaterialU.dfm:90
+#. frmItmMaterial..cxTabControl1..cxPageControl1..cxTabSheet1..Label5..Caption
+#: packages/frmItmMaterialU.dfm:114
+#. frmOrdMaterial..cxTabControl1..cxPageControl1..cxTabSheet1..Label5..Caption
+#: packages/frmOrdMaterialU.dfm:114
+msgid "Material Code:"
+msgstr ""
+
+#. frmMaterial..cxTabControl1..cxPageControl1..cxTabSheet1..cxDBTextEdit1..DataBinding.DataField
+#: modules/frmMaterialU.dfm:112
+#. frmItmLayingRuleItems..cxTabControl1..cxPageControl1..cxTabSheet1..cxDBTextEdit4..DataBinding.DataField
+#: packages/frmItmLayingRuleItemsU.dfm:131
+#. frmItmMaterial..cxTabControl1..cxPageControl1..cxTabSheet1..cxDBButtonEdit1..DataBinding.DataField
+#: packages/frmItmMaterialU.dfm:190
+#. frmOrdLayingRuleItems..cxTabControl1..cxPageControl1..cxTabSheet1..cxDBTextEdit4..DataBinding.DataField
+#: packages/frmOrdLayingRuleItemsU.dfm:131
+#. frmOrdMaterial..cxTabControl1..cxPageControl1..cxTabSheet1..cxDBButtonEdit1..DataBinding.DataField
+#: packages/frmOrdMaterialU.dfm:224
+#. frmStLayingRuleItems..cxTabControl1..cxPageControl1..cxTabSheet1..cxDBTextEdit4..DataBinding.DataField
+#: packages/frmStLayingRuleItemsU.dfm:169
+#. frmStMaterial..cxTabControl1..cxPageControl1..cxTabSheet1..cxDBButtonEdit1..DataBinding.DataField
+#: packages/frmStMaterialU.dfm:226
+msgid "mtcd"
+msgstr ""
+
+#. frmMaterial..cxTabControl1..cxPageControl1..cxTabSheet1..cxDBTextEdit2..DataBinding.DataField
+#: modules/frmMaterialU.dfm:121
+#. frmItmMaterial..cxTabControl1..cxPageControl1..cxTabSheet1..cxDBTextEdit2..DataBinding.DataField
+#: packages/frmItmMaterialU.dfm:172
+#. frmOrdMaterial..cxTabControl1..cxPageControl1..cxTabSheet1..cxDBTextEdit2..DataBinding.DataField
+#: packages/frmOrdMaterialU.dfm:206
+#. frmStMaterial..cxTabControl1..cxPageControl1..cxTabSheet1..cxDBTextEdit2..DataBinding.DataField
+#: packages/frmStMaterialU.dfm:188
+msgid "mtname"
+msgstr ""
+
+#. frmMaterial..cxTabControl1..cxPageControl1..cxTabSheet1..cxDBTextEdit3..DataBinding.DataField
+#: modules/frmMaterialU.dfm:129
+#. frmItmMaterial..cxTabControl1..cxPageControl1..cxTabSheet1..cxDBTextEdit3..DataBinding.DataField
+#: packages/frmItmMaterialU.dfm:181
+#. frmOrdMaterial..cxTabControl1..cxPageControl1..cxTabSheet1..cxDBTextEdit3..DataBinding.DataField
+#: packages/frmOrdMaterialU.dfm:215
+#. frmStMaterial..cxTabControl1..cxPageControl1..cxTabSheet1..cxDBTextEdit3..DataBinding.DataField
+#: packages/frmStMaterialU.dfm:197
+msgid "mtdesc"
+msgstr ""
+
+#. frmStyleType..Caption
+#: modules/frmStyleTypeU.dfm:4
+msgid "Type of Style"
+msgstr ""
+
+#. frmStyleType..cxTabControl1..cxPageControl1..cxTabSheet1..Caption
+#: modules/frmStyleTypeU.dfm:83
+msgid "Type of style"
+msgstr ""
+
+#. frmStyleType..cxTabControl1..cxPageControl1..cxTabSheet1..Label1..Caption
+#: modules/frmStyleTypeU.dfm:90
+msgid "Type:"
+msgstr ""
+
+#. frmStyleType..cxTabControl1..cxPageControl1..cxTabSheet1..cxDBTextEdit1..DataBinding.DataField
+#: modules/frmStyleTypeU.dfm:104
+#. frmStyle..cxTabControl1..cxPageControl1..cxTabSheet1..cxDBButtonEdit1..DataBinding.DataField
+#: packages/frmStylesU.dfm:153
+msgid "sttname"
+msgstr ""
+
+#. frmStyleType..cxTabControl1..cxPageControl1..cxTabSheet1..cxDBTextEdit2..DataBinding.DataField
+#: modules/frmStyleTypeU.dfm:113
+msgid "sttdesc"
+msgstr ""
+
+#. frmStyleType..ActionList..actReff_1..Caption
+#: modules/frmStyleTypeU.dfm:149
+msgid "undefined"
+msgstr ""
+
+#. frmUoMConv..Caption
+#: modules/frmUoMConvU.dfm:4
+#. frmUoMConv..cxTabControl1..cxPageControl1..cxTabSheet1..Caption
+#: modules/frmUoMConvU.dfm:83
+msgid "U/M Conversion Table"
+msgstr ""
+
+#. frmUoMConv..cxTabControl1..cxPageControl1..cxTabSheet1..Label1..Caption
+#: modules/frmUoMConvU.dfm:94
+#. frmUoM..cxTabControl1..cxPageControl1..cxTabSheet1..Label1..Caption
+#: modules/frmUoMU.dfm:90
+msgid "UoM Code:"
+msgstr ""
+
+#. frmUoMConv..cxTabControl1..cxPageControl1..cxTabSheet1..Label2..Caption
+#: modules/frmUoMConvU.dfm:102
+msgid "Alt. U/M:"
+msgstr ""
+
+#. frmUoMConv..cxTabControl1..cxPageControl1..cxTabSheet1..Label3..Caption
+#: modules/frmUoMConvU.dfm:110
+msgid "Conv. Factor:"
+msgstr ""
+
+#. frmUoMConv..cxTabControl1..cxPageControl1..cxTabSheet1..cxDBTextEdit1..DataBinding.DataField
+#: modules/frmUoMConvU.dfm:116
+msgid "basumcode"
+msgstr ""
+
+#. frmUoMConv..cxTabControl1..cxPageControl1..cxTabSheet1..cxDBButtonEdit1..DataBinding.DataField
+#: modules/frmUoMConvU.dfm:127
+msgid "altumcode"
+msgstr ""
+
+#. frmUoMConv..cxTabControl1..cxPageControl1..cxTabSheet1..cxDBTextEdit2..DataBinding.DataField
+#: modules/frmUoMConvU.dfm:142
+msgid "umcvtfact"
+msgstr ""
+
+#. frmUoMConv..cxTabControl1..cxPageControl1..cxTabSheet1..cxDBRadioGroup1..Caption
+#: modules/frmUoMConvU.dfm:150
+msgid "Conversion Method"
+msgstr ""
+
+#. frmUoMConv..cxTabControl1..cxPageControl1..cxTabSheet1..cxDBRadioGroup1..DataBinding.DataField
+#: modules/frmUoMConvU.dfm:151
+msgid "umcvtmeth"
+msgstr ""
+
+#. frmUoMConv..cxTabControl1..cxPageControl1..cxTabSheet1..cxDBRadioGroup1......Caption
+#: modules/frmUoMConvU.dfm:156
+msgid "* - Multiplication"
+msgstr ""
+
+#. frmUoMConv..cxTabControl1..cxPageControl1..cxTabSheet1..cxDBRadioGroup1......Caption
+#: modules/frmUoMConvU.dfm:160
+msgid "/ - Division"
+msgstr ""
+
+#. frmUoM..cxTabControl1..cxPageControl1..cxTabSheet1..Caption
+#: modules/frmUoMU.dfm:83
+msgid "Unit of measurement"
+msgstr ""
+
+#. frmUoM..cxTabControl1..cxPageControl1..cxTabSheet1..Label4..Caption
+#: modules/frmUoMU.dfm:114
+msgid "U/M Optitex:"
+msgstr ""
+
+#. frmUoM..cxTabControl1..cxPageControl1..cxTabSheet1..cxDBTextEdit1..DataBinding.DataField
+#: modules/frmUoMU.dfm:120
+#. frmItem..cxTabControl1..cxPageControl1..cxTabSheet1..cxDBButtonEdit3..DataBinding.DataField
+#: packages/frmItemU.dfm:271
+#. frmItmMaterial..cxTabControl1..cxPageControl1..cxTabSheet1..cxDBButtonEdit3..DataBinding.DataField
+#: packages/frmItmMaterialU.dfm:233
+#. frmOrdItem..cxTabControl1..cxPageControl1..cxTabSheet1..cxDBButtonEdit8..DataBinding.DataField
+#: packages/frmOrdItemU.dfm:330
+#. frmOrdMaterial..cxTabControl1..cxPageControl1..cxTabSheet1..cxDBButtonEdit3..DataBinding.DataField
+#: packages/frmOrdMaterialU.dfm:265
+#. frmStMaterial..cxTabControl1..cxPageControl1..cxTabSheet1..cxDBButtonEdit3..DataBinding.DataField
+#: packages/frmStMaterialU.dfm:269
+#. frmStyle..cxTabControl1..cxPageControl1..cxTabSheet1..cxDBButtonEdit2..DataBinding.DataField
+#: packages/frmStylesU.dfm:168
+msgid "umcode"
+msgstr ""
+
+#. frmUoM..cxTabControl1..cxPageControl1..cxTabSheet1..cxDBTextEdit2..DataBinding.DataField
+#: modules/frmUoMU.dfm:129
+msgid "umname"
+msgstr ""
+
+#. frmUoM..cxTabControl1..cxPageControl1..cxTabSheet1..cxDBTextEdit3..DataBinding.DataField
+#: modules/frmUoMU.dfm:137
+msgid "umdesc"
+msgstr ""
+
+#. frmUoM..cxTabControl1..cxPageControl1..cxTabSheet1..cxDBTextEdit4..DataBinding.DataField
+#: modules/frmUoMU.dfm:145
+msgid "umoptx"
+msgstr ""
+
+#. frmItem..cxTabControl1..cxPageControl1..cxTabSheet1..Label1..Caption
+#: packages/frmItemU.dfm:92
+msgid "Item Name:"
+msgstr ""
+
+#. frmItem..cxTabControl1..cxPageControl1..cxTabSheet1..Label4..Caption
+#: packages/frmItemU.dfm:100
+msgid "Item Desc:"
+msgstr ""
+
+#. frmItem..cxTabControl1..cxPageControl1..cxTabSheet1..Label5..Caption
+#: packages/frmItemU.dfm:108
+#. frmOrderItmCreation..cxTabControl1..Panel1..Label1..Caption
+#: packages/frmOrderItmCreationU.dfm:82
+#. frmOrdItem..cxTabControl1..cxPageControl1..cxTabSheet1..Label2..Caption
+#: packages/frmOrdItemU.dfm:120
+#. frmStFeatureItems..cxTabControl1..cxPageControl1..cxTabSheet1..Label1..Caption
+#: packages/frmStFeatureItemsU.dfm:90
+#. frmStFeature..cxTabControl1..cxPageControl1..cxTabSheet1..Label1..Caption
+#: packages/frmStFeatureU.dfm:90
+#. frmStLayingRuleItems..cxTabControl1..cxPageControl1..cxTabSheet1..Label1..Caption
+#: packages/frmStLayingRuleItemsU.dfm:90
+#. frmStMaterial..cxTabControl1..cxPageControl1..cxTabSheet1..Label1..Caption
+#: packages/frmStMaterialU.dfm:98
+msgid "Style:"
+msgstr ""
+
+#. frmItem..cxTabControl1..cxPageControl1..cxTabSheet1..Label2..Caption
+#: packages/frmItemU.dfm:116
+#. frmOrdItem..cxTabControl1..cxPageControl1..cxTabSheet1..Label6..Caption
+#: packages/frmOrdItemU.dfm:128
+msgid "X Feature:"
+msgstr ""
+
+#. frmItem..cxTabControl1..cxPageControl1..cxTabSheet1..Label6..Caption
+#: packages/frmItemU.dfm:124
+msgid "Seq:"
+msgstr ""
+
+#. frmItem..cxTabControl1..cxPageControl1..cxTabSheet1..Label3..Caption
+#: packages/frmItemU.dfm:132
+msgid "X Feature Item:"
+msgstr ""
+
+#. frmItem..cxTabControl1..cxPageControl1..cxTabSheet1..Label9..Caption
+#: packages/frmItemU.dfm:140
+#. frmOrdItem..cxTabControl1..cxPageControl1..cxTabSheet1..Label10..Caption
+#: packages/frmOrdItemU.dfm:152
+msgid "Y Feature:"
+msgstr ""
+
+#. frmItem..cxTabControl1..cxPageControl1..cxTabSheet1..Label11..Caption
+#: packages/frmItemU.dfm:148
+msgid "Y Feature Item:"
+msgstr ""
+
+#. frmItem..cxTabControl1..cxPageControl1..cxTabSheet1..Label7..Caption
+#: packages/frmItemU.dfm:156
+#. frmOrdItem..cxTabControl1..cxPageControl1..cxTabSheet1..Label12..Caption
+#: packages/frmOrdItemU.dfm:168
+msgid "U/M:"
+msgstr ""
+
+#. frmItem..cxTabControl1..cxPageControl1..cxTabSheet1..Label8..Caption
+#: packages/frmItemU.dfm:164
+msgid "Prio:"
+msgstr ""
+
+#. frmItem..cxTabControl1..cxPageControl1..cxTabSheet1..cxDBTextEdit1..DataBinding.DataField
+#: packages/frmItemU.dfm:170
+#. frmItmLayingRuleItems..cxTabControl1..cxPageControl1..cxTabSheet1..cxDBTextEdit1..DataBinding.DataField
+#: packages/frmItmLayingRuleItemsU.dfm:112
+#. frmItmMaterial..cxTabControl1..cxPageControl1..cxTabSheet1..cxDBTextEdit1..DataBinding.DataField
+#: packages/frmItmMaterialU.dfm:162
+#. frmOrdItem..cxTabControl1..cxPageControl1..cxTabSheet1..cxDBButtonEdit1..DataBinding.DataField
+#: packages/frmOrdItemU.dfm:229
+#. frmOrdLayingRuleItems..cxTabControl1..cxPageControl1..cxTabSheet1..cxDBTextEdit2..DataBinding.DataField
+#: packages/frmOrdLayingRuleItemsU.dfm:142
+#. frmOrdMaterial..cxTabControl1..cxPageControl1..cxTabSheet1..cxDBTextEdit4..DataBinding.DataField
+#: packages/frmOrdMaterialU.dfm:317
+msgid "itmname"
+msgstr ""
+
+#. frmItem..cxTabControl1..cxPageControl1..cxTabSheet1..cxDBTextEdit4..DataBinding.DataField
+#: packages/frmItemU.dfm:179
+#. frmOrdItem..cxTabControl1..cxPageControl1..cxTabSheet1..cxDBTextEdit3..DataBinding.DataField
+#: packages/frmOrdItemU.dfm:220
+msgid "itmdesc"
+msgstr ""
+
+#. frmItem..cxTabControl1..cxPageControl1..cxTabSheet1..cxDBButtonEdit1..DataBinding.DataField
+#: packages/frmItemU.dfm:187
+#. frmOrdItem..cxTabControl1..cxPageControl1..cxTabSheet1..cxDBButtonEdit2..DataBinding.DataField
+#: packages/frmOrdItemU.dfm:251
+#. frmStFeatureItems..cxTabControl1..cxPageControl1..cxTabSheet1..cxDBTextEdit1..DataBinding.DataField
+#: packages/frmStFeatureItemsU.dfm:144
+#. frmStFeature..cxTabControl1..cxPageControl1..cxTabSheet1..cxDBTextEdit1..DataBinding.DataField
+#: packages/frmStFeatureU.dfm:112
+#. frmStLayingRuleItems..cxTabControl1..cxPageControl1..cxTabSheet1..cxDBTextEdit1..DataBinding.DataField
+#: packages/frmStLayingRuleItemsU.dfm:128
+#. frmStMaterial..cxTabControl1..cxPageControl1..cxTabSheet1..cxDBTextEdit1..DataBinding.DataField
+#: packages/frmStMaterialU.dfm:178
+#. frmStyle..cxTabControl1..cxPageControl1..cxTabSheet1..cxDBTextEdit1..DataBinding.DataField
+#: packages/frmStylesU.dfm:136
+msgid "stname"
+msgstr ""
+
+#. frmItem..cxTabControl1..cxPageControl1..cxTabSheet1..cxDBButtonEdit2..DataBinding.DataField
+#: packages/frmItemU.dfm:202
+#. frmOrdItem..cxTabControl1..cxPageControl1..cxTabSheet1..cxDBButtonEdit4..DataBinding.DataField
+#: packages/frmOrdItemU.dfm:265
+msgid "xftname"
+msgstr ""
+
+#. frmItem..cxTabControl1..cxPageControl1..cxTabSheet1..cxDBTextEdit2..DataBinding.DataField
+#: packages/frmItemU.dfm:217
+#. frmOrdItem..cxTabControl1..cxPageControl1..cxTabSheet1..cxDBTextEdit4..DataBinding.DataField
+#: packages/frmOrdItemU.dfm:293
+msgid "xfitprio"
+msgstr ""
+
+#. frmItem..cxTabControl1..cxPageControl1..cxTabSheet1..cxDBButtonEdit4..DataBinding.DataField
+#: packages/frmItemU.dfm:226
+#. frmOrdItem..cxTabControl1..cxPageControl1..cxTabSheet1..cxDBButtonEdit5..DataBinding.DataField
+#: packages/frmOrdItemU.dfm:279
+msgid "xfitname"
+msgstr ""
+
+#. frmItem..cxTabControl1..cxPageControl1..cxTabSheet1..cxDBButtonEdit5..DataBinding.DataField
+#: packages/frmItemU.dfm:241
+#. frmOrdItem..cxTabControl1..cxPageControl1..cxTabSheet1..cxDBButtonEdit6..DataBinding.DataField
+#: packages/frmOrdItemU.dfm:302
+msgid "yftname"
+msgstr ""
+
+#. frmItem..cxTabControl1..cxPageControl1..cxTabSheet1..cxDBButtonEdit6..DataBinding.DataField
+#: packages/frmItemU.dfm:256
+#. frmOrdItem..cxTabControl1..cxPageControl1..cxTabSheet1..cxDBButtonEdit7..DataBinding.DataField
+#: packages/frmOrdItemU.dfm:316
+msgid "yfitname"
+msgstr ""
+
+#. frmItem..cxTabControl1..cxPageControl1..cxTabSheet1..cxDBTextEdit3..DataBinding.DataField
+#: packages/frmItemU.dfm:286
+#. frmOrdItem..cxTabControl1..cxPageControl1..cxTabSheet1..cxDBTextEdit2..DataBinding.DataField
+#: packages/frmOrdItemU.dfm:549
+msgid "xfitprio2"
+msgstr ""
+
+#. frmItmCreation..Caption
+#: packages/frmItmCreationU.dfm:4
+#. frmItmCreation..cxTabControl1..cxPageControl1..cxTabSheet1..Caption
+#: packages/frmItmCreationU.dfm:47
+#. frmItmCreation..ActionList..actCreate..Caption
+#: packages/frmItmCreationU.dfm:117
+#. frmOrderItmCreation..ActionList..actCreate..Caption
+#: packages/frmOrderItmCreationU.dfm:162
+msgid "Create Items"
+msgstr ""
+
+#. frmItmCreation..BarManager..dxBarManager1Bar1......ItemName
+#: packages/frmItmCreationU.dfm:160
+#. frmOrderItmCreation..BarManager..dxBarManager1Bar1......ItemName
+#: packages/frmOrderItmCreationU.dfm:205
+msgid "stdBtnCreate"
+msgstr ""
+
+#. frmItmCreation..PopupMenu1..Setallforcurrentrow1..Caption
+#: packages/frmItmCreationU.dfm:201
+#. frmOrderItmCreation..PopupMenu1..Setallforcurrentrow1..Caption
+#: packages/frmOrderItmCreationU.dfm:246
+msgid "Set all for current row"
+msgstr ""
+
+#. frmItmCreation..PopupMenu1..Setallforcurentcolumn1..Caption
+#: packages/frmItmCreationU.dfm:206
+#. frmOrderItmCreation..PopupMenu1..Setallforcurentcolumn1..Caption
+#: packages/frmOrderItmCreationU.dfm:251
+msgid "Set all for curent column"
+msgstr ""
+
+#. frmItmCreation..PopupMenu1..Setall1..Caption
+#: packages/frmItmCreationU.dfm:211
+#. frmOrderItmCreation..PopupMenu1..Setall1..Caption
+#: packages/frmOrderItmCreationU.dfm:256
+msgid "Set all"
+msgstr ""
+
+#. frmItmCreation..PopupMenu1..Unsetallforcurrentrow1..Caption
+#: packages/frmItmCreationU.dfm:219
+#. frmOrderItmCreation..PopupMenu1..Unsetallforcurrentrow1..Caption
+#: packages/frmOrderItmCreationU.dfm:264
+msgid "Unset all for current row"
+msgstr ""
+
+#. frmItmCreation..PopupMenu1..Unsetallforcurrentcolumn1..Caption
+#: packages/frmItmCreationU.dfm:224
+#. frmOrderItmCreation..PopupMenu1..Unsetallforcurrentcolumn1..Caption
+#: packages/frmOrderItmCreationU.dfm:269
+msgid "Unset all for current column"
+msgstr ""
+
+#. frmItmCreation..PopupMenu1..UnsetAll1..Caption
+#: packages/frmItmCreationU.dfm:229
+#. frmOrderItmCreation..PopupMenu1..UnsetAll1..Caption
+#: packages/frmOrderItmCreationU.dfm:274
+msgid "Unset all"
+msgstr ""
+
+#. frmItmLayingRuleItems..Caption
+#: packages/frmItmLayingRuleItemsU.dfm:4
+#. frmItmLayingRuleItems..cxTabControl1..cxPageControl1..cxTabSheet1..Caption
+#: packages/frmItmLayingRuleItemsU.dfm:83
+msgid "Item Rule Items"
+msgstr ""
+
+#. frmItmLayingRuleItems..cxTabControl1..cxPageControl1..cxTabSheet1..Label5..Caption
+#: packages/frmItmLayingRuleItemsU.dfm:106
+#. frmOrdLayingRuleItems..cxTabControl1..cxPageControl1..cxTabSheet1..Label5..Caption
+#: packages/frmOrdLayingRuleItemsU.dfm:106
+#. frmStLayingRuleItems..cxTabControl1..cxPageControl1..cxTabSheet1..Label5..Caption
+#: packages/frmStLayingRuleItemsU.dfm:122
+#. frmStMaterial..cxTabControl1..cxPageControl1..cxTabSheet1..Label6..Caption
+#: packages/frmStMaterialU.dfm:138
+msgid "Material:"
+msgstr ""
+
+#. frmItmMaterial..Caption
+#: packages/frmItmMaterialU.dfm:4
+#. frmItmMaterial..cxTabControl1..cxPageControl1..cxTabSheet1..Caption
+#: packages/frmItmMaterialU.dfm:83
+msgid "Item Materials"
+msgstr ""
+
+#. frmItmMaterial..cxTabControl1..cxPageControl1..cxTabSheet1..Label9..Caption
+#: packages/frmItmMaterialU.dfm:132
+#. frmOrdMaterial..cxTabControl1..cxPageControl1..cxTabSheet1..Label9..Caption
+#: packages/frmOrdMaterialU.dfm:132
+#. frmStMaterial..cxTabControl1..cxPageControl1..cxTabSheet1..Label9..Caption
+#: packages/frmStMaterialU.dfm:156
+msgid "UM Code:"
+msgstr ""
+
+#. frmItmMaterial..cxTabControl1..cxPageControl1..cxTabSheet1..Label10..Caption
+#: packages/frmItmMaterialU.dfm:140
+#. frmOrdMaterial..cxTabControl1..cxPageControl1..cxTabSheet1..Label10..Caption
+#: packages/frmOrdMaterialU.dfm:140
+#. frmStMaterial..cxTabControl1..cxPageControl1..cxTabSheet1..Label10..Caption
+#: packages/frmStMaterialU.dfm:164
+msgid "FB Allowance:"
+msgstr ""
+
+#. frmItmMaterial..cxTabControl1..cxPageControl1..cxTabSheet1..Label8..Caption
+#: packages/frmItmMaterialU.dfm:148
+#. frmOrdMaterial..cxTabControl1..cxPageControl1..cxTabSheet1..Label8..Caption
+#: packages/frmOrdMaterialU.dfm:148
+#. frmStFeatureItems..cxTabControl1..cxPageControl1..cxTabSheet1..Label8..Caption
+#: packages/frmStFeatureItemsU.dfm:130
+#. frmStyle..cxTabControl1..cxPageControl1..cxTabSheet1..Label8..Caption
+#: packages/frmStylesU.dfm:122
+msgid "Avg. YY:"
+msgstr ""
+
+#. frmItmMaterial..cxTabControl1..cxPageControl1..cxTabSheet1..Label4..Caption
+#: packages/frmItmMaterialU.dfm:156
+#. frmOrdMaterial..cxTabControl1..cxPageControl1..cxTabSheet1..Label6..Caption
+#: packages/frmOrdMaterialU.dfm:190
+#. frmStMaterial..cxTabControl1..cxPageControl1..cxTabSheet1..Label8..Caption
+#: packages/frmStMaterialU.dfm:172
+msgid "Layout:"
+msgstr ""
+
+#. frmItmMaterial..cxTabControl1..cxPageControl1..cxTabSheet1..cxDBRadioGroup1..Caption
+#: packages/frmItmMaterialU.dfm:248
+#. frmOrdMaterial..cxTabControl1..cxPageControl1..cxTabSheet1..cxDBRadioGroup1..Caption
+#: packages/frmOrdMaterialU.dfm:279
+#. frmStMaterial..cxTabControl1..cxPageControl1..cxTabSheet1..cxDBRadioGroup1..Caption
+#: packages/frmStMaterialU.dfm:284
+msgid "Allowance Type "
+msgstr ""
+
+#. frmItmMaterial..cxTabControl1..cxPageControl1..cxTabSheet1..cxDBRadioGroup1..DataBinding.DataField
+#: packages/frmItmMaterialU.dfm:249
+#. frmOrdMaterial..cxTabControl1..cxPageControl1..cxTabSheet1..cxDBRadioGroup1..DataBinding.DataField
+#: packages/frmOrdMaterialU.dfm:280
+#. frmStMaterial..cxTabControl1..cxPageControl1..cxTabSheet1..cxDBRadioGroup1..DataBinding.DataField
+#: packages/frmStMaterialU.dfm:285
+msgid "fbaltype"
+msgstr ""
+
+#. frmItmMaterial..cxTabControl1..cxPageControl1..cxTabSheet1..cxDBRadioGroup1......Caption
+#: packages/frmItmMaterialU.dfm:254
+#. frmOrdMaterial..cxTabControl1..cxPageControl1..cxTabSheet1..cxDBRadioGroup1......Caption
+#: packages/frmOrdMaterialU.dfm:285
+#. frmStMaterial..cxTabControl1..cxPageControl1..cxTabSheet1..cxDBRadioGroup1......Caption
+#: packages/frmStMaterialU.dfm:290
+msgid "Percentage"
+msgstr ""
+
+#. frmItmMaterial..cxTabControl1..cxPageControl1..cxTabSheet1..cxDBRadioGroup1......Caption
+#: packages/frmItmMaterialU.dfm:258
+#. frmOrdMaterial..cxTabControl1..cxPageControl1..cxTabSheet1..cxDBRadioGroup1......Caption
+#: packages/frmOrdMaterialU.dfm:289
+#. frmStMaterial..cxTabControl1..cxPageControl1..cxTabSheet1..cxDBRadioGroup1......Caption
+#: packages/frmStMaterialU.dfm:294
+msgid "Value"
+msgstr ""
+
+#. frmItmMaterial..cxTabControl1..cxPageControl1..cxTabSheet1..cxDBTextEdit8..DataBinding.DataField
+#: packages/frmItmMaterialU.dfm:268
+#. frmOrdMaterial..cxTabControl1..cxPageControl1..cxTabSheet1..cxDBTextEdit8..DataBinding.DataField
+#: packages/frmOrdMaterialU.dfm:299
+#. frmStMaterial..cxTabControl1..cxPageControl1..cxTabSheet1..cxDBTextEdit8..DataBinding.DataField
+#: packages/frmStMaterialU.dfm:304
+msgid "fballowance"
+msgstr ""
+
+#. frmItmMaterial..cxTabControl1..cxPageControl1..cxTabSheet1..cxDBTextEdit7..DataBinding.DataField
+#: packages/frmItmMaterialU.dfm:277
+#. frmOrdMaterial..cxTabControl1..cxPageControl1..cxTabSheet1..cxDBTextEdit7..DataBinding.DataField
+#: packages/frmOrdMaterialU.dfm:308
+#. frmStFeatureItems..cxTabControl1..cxPageControl1..cxTabSheet1..cxDBTextEdit7..DataBinding.DataField
+#: packages/frmStFeatureItemsU.dfm:191
+#. frmStyle..cxTabControl1..cxPageControl1..cxTabSheet1..cxDBTextEdit7..DataBinding.DataField
+#: packages/frmStylesU.dfm:183
+msgid "avgyy"
+msgstr ""
+
+#. frmItmMaterial..cxTabControl1..cxPageControl1..cxTabSheet1..cxDBComboBox1..DataBinding.DataField
+#: packages/frmItmMaterialU.dfm:286
+#. frmOrdMaterial..cxTabControl1..cxPageControl1..cxTabSheet1..cxDBComboBox2..DataBinding.DataField
+#: packages/frmOrdMaterialU.dfm:530
+#. frmStMaterial..cxTabControl1..cxPageControl1..cxTabSheet1..cxDBComboBox1..DataBinding.DataField
+#: packages/frmStMaterialU.dfm:313
+msgid "mtlayout"
+msgstr ""
+
+#. frmItmMaterial..cxTabControl1..cxPageControl1..cxTabSheet1..cxDBComboBox1....Properties.Items.Strings
+#: packages/frmItmMaterialU.dfm:291
+#. frmOrdMaterial..cxTabControl1..cxPageControl1..cxTabSheet1..cxDBComboBox2....Properties.Items.Strings
+#: packages/frmOrdMaterialU.dfm:535
+#. frmStMaterial..cxTabControl1..cxPageControl1..cxTabSheet1..cxDBComboBox1....Properties.Items.Strings
+#: packages/frmStMaterialU.dfm:318
+msgid "SINGLE"
+msgstr ""
+
+#. frmItmMaterial..cxTabControl1..cxPageControl1..cxTabSheet1..cxDBComboBox1....Properties.Items.Strings
+#: packages/frmItmMaterialU.dfm:292
+#. frmOrdMaterial..cxTabControl1..cxPageControl1..cxTabSheet1..cxDBComboBox2....Properties.Items.Strings
+#: packages/frmOrdMaterialU.dfm:536
+#. frmStMaterial..cxTabControl1..cxPageControl1..cxTabSheet1..cxDBComboBox1....Properties.Items.Strings
+#: packages/frmStMaterialU.dfm:319
+msgid "TUBULAR"
+msgstr ""
+
+#. frmItmMaterial..ActionList..actReff_1..Caption
+#: packages/frmItmMaterialU.dfm:332
+#. frmOrdMaterial..ActionList..actReff_1..Caption
+#: packages/frmOrdMaterialU.dfm:571
+msgid "Laying Rule Item"
+msgstr ""
+
+#. frmOrderItmCreation..Caption
+#: packages/frmOrderItmCreationU.dfm:4
+#. frmOrderItmCreation..cxTabControl1..cxPageControl1..cxTabSheet1..Caption
+#: packages/frmOrderItmCreationU.dfm:47
+msgid "Create Order Items"
+msgstr ""
+
+#. frmOrderItmCreation..cxTabControl1..Panel1..btnPrepare..Caption
+#: packages/frmOrderItmCreationU.dfm:109
+msgid "Load"
+msgstr ""
+
+#. frmOrder..Caption
+#: packages/frmOrderU.dfm:4
+msgid "Order"
+msgstr ""
+
+#. frmOrder..cxTabControl1..cxPageControl1..cxTabSheet1..Caption
+#: packages/frmOrderU.dfm:83
+msgid "Order Header"
+msgstr ""
+
+#. frmOrder..cxTabControl1..cxPageControl1..cxTabSheet1..Label5..Caption
+#: packages/frmOrderU.dfm:108
+msgid "Customer:"
+msgstr ""
+
+#. frmOrder..cxTabControl1..cxPageControl1..cxTabSheet1..Label2..Caption
+#: packages/frmOrderU.dfm:116
+#. frmOrdItem..cxTabControl1..cxPageControl1..cxTabSheet1..Label9..Caption
+#: packages/frmOrdItemU.dfm:178
+#. frmOrdMaterial..cxTabControl1..cxPageControl1..cxTabSheet1..Label4..Caption
+#: packages/frmOrdMaterialU.dfm:156
+msgid "DSN File:"
+msgstr ""
+
+#. frmOrder..cxTabControl1..cxPageControl1..cxTabSheet1..Label3..Caption
+#: packages/frmOrderU.dfm:124
+#. frmOrdItem..cxTabControl1..cxPageControl1..cxTabSheet1..Label13..Caption
+#: packages/frmOrdItemU.dfm:186
+#. frmOrdMaterial..cxTabControl1..cxPageControl1..cxTabSheet1..Label13..Caption
+#: packages/frmOrdMaterialU.dfm:164
+msgid "Max. Length:"
+msgstr ""
+
+#. frmOrder..cxTabControl1..cxPageControl1..cxTabSheet1..Label8..Caption
+#: packages/frmOrderU.dfm:134
+msgid "Date:"
+msgstr ""
+
+#. frmOrder..cxTabControl1..cxPageControl1..cxTabSheet1..Label6..Caption
+#: packages/frmOrderU.dfm:142
+#. frmOrdItem..cxTabControl1..cxPageControl1..cxTabSheet1..Label14..Caption
+#: packages/frmOrdItemU.dfm:196
+#. frmOrdMaterial..cxTabControl1..cxPageControl1..cxTabSheet1..Label14..Caption
+#: packages/frmOrdMaterialU.dfm:174
+msgid "Marker Len/Width:"
+msgstr ""
+
+#. frmOrder..cxTabControl1..cxPageControl1..cxTabSheet1..Label10..Caption
+#: packages/frmOrderU.dfm:150
+#. frmOrdItem..cxTabControl1..cxPageControl1..cxTabSheet1..Label15..Caption
+#: packages/frmOrdItemU.dfm:204
+#. frmOrdMaterial..cxTabControl1..cxPageControl1..cxTabSheet1..Label15..Caption
+#: packages/frmOrdMaterialU.dfm:182
+msgid "Algorithm:"
+msgstr ""
+
+#. frmOrder..cxTabControl1..cxPageControl1..cxTabSheet1..cxDBTextEdit1..DataBinding.DataField
+#: packages/frmOrderU.dfm:156
+#. frmOrdItem..cxTabControl1..cxPageControl1..cxTabSheet1..cxDBTextEdit1..DataBinding.DataField
+#: packages/frmOrdItemU.dfm:210
+#. frmOrdLayingRuleItems..cxTabControl1..cxPageControl1..cxTabSheet1..cxDBTextEdit1..DataBinding.DataField
+#: packages/frmOrdLayingRuleItemsU.dfm:112
+#. frmOrdMaterial..cxTabControl1..cxPageControl1..cxTabSheet1..cxDBTextEdit1..DataBinding.DataField
+#: packages/frmOrdMaterialU.dfm:196
+msgid "ordno"
+msgstr ""
+
+#. frmOrder..cxTabControl1..cxPageControl1..cxTabSheet1..cxDBTextEdit4..DataBinding.DataField
+#: packages/frmOrderU.dfm:165
+msgid "orddesc"
+msgstr ""
+
+#. frmOrder..cxTabControl1..cxPageControl1..cxTabSheet1..cxDBButtonEdit1..DataBinding.DataField
+#: packages/frmOrderU.dfm:173
+msgid "cstcode"
+msgstr ""
+
+#. frmOrder..cxTabControl1..cxPageControl1..cxTabSheet1..cxDBButtonEdit2..DataBinding.DataField
+#: packages/frmOrderU.dfm:188
+#. frmOrdItem..cxTabControl1..cxPageControl1..cxTabSheet1..cxDBButtonEdit3..DataBinding.DataField
+#: packages/frmOrdItemU.dfm:346
+#. frmOrdMaterial..cxTabControl1..cxPageControl1..cxTabSheet1..cxDBButtonEdit4..DataBinding.DataField
+#: packages/frmOrdMaterialU.dfm:327
+msgid "dsnfile"
+msgstr ""
+
+#. frmOrder..cxTabControl1..cxPageControl1..cxTabSheet1..cxDBButtonEdit2......Caption
+#: packages/frmOrderU.dfm:192
+#. frmOrder..cxTabControl1..cxPageControl1..cxTabSheet1..cxDBButtonEdit2......Hint
+#: packages/frmOrderU.dfm:237
+#. frmOrdItem..cxTabControl1..cxPageControl1..cxTabSheet1..cxDBButtonEdit3......Caption
+#: packages/frmOrdItemU.dfm:350
+#. frmOrdItem..cxTabControl1..cxPageControl1..cxTabSheet1..cxDBButtonEdit3......Hint
+#: packages/frmOrdItemU.dfm:395
+#. frmOrdMaterial..cxTabControl1..cxPageControl1..cxTabSheet1..cxDBButtonEdit4......Caption
+#: packages/frmOrdMaterialU.dfm:331
+#. frmOrdMaterial..cxTabControl1..cxPageControl1..cxTabSheet1..cxDBButtonEdit4......Hint
+#: packages/frmOrdMaterialU.dfm:376
+msgid "Browse file"
+msgstr ""
+
+#. frmOrder..cxTabControl1..cxPageControl1..cxTabSheet1..cxDBButtonEdit2......Caption
+#: packages/frmOrderU.dfm:241
+#. frmOrdItem..cxTabControl1..cxPageControl1..cxTabSheet1..cxDBButtonEdit3......Caption
+#: packages/frmOrdItemU.dfm:399
+#. frmOrdMaterial..cxTabControl1..cxPageControl1..cxTabSheet1..cxDBButtonEdit4......Caption
+#: packages/frmOrdMaterialU.dfm:380
+msgid "Attach"
+msgstr ""
+
+#. frmOrder..cxTabControl1..cxPageControl1..cxTabSheet1..cxDBButtonEdit2......Hint
+#: packages/frmOrderU.dfm:266
+#. frmOrdItem..cxTabControl1..cxPageControl1..cxTabSheet1..cxDBButtonEdit3......Hint
+#: packages/frmOrdItemU.dfm:424
+#. frmOrdMaterial..cxTabControl1..cxPageControl1..cxTabSheet1..cxDBButtonEdit4......Hint
+#: packages/frmOrdMaterialU.dfm:405
+msgid "Attach file"
+msgstr ""
+
+#. frmOrder..cxTabControl1..cxPageControl1..cxTabSheet1..cxDBButtonEdit2......Caption
+#: packages/frmOrderU.dfm:270
+#. frmOrdItem..cxTabControl1..cxPageControl1..cxTabSheet1..cxDBButtonEdit3......Caption
+#: packages/frmOrdItemU.dfm:428
+#. frmOrdMaterial..cxTabControl1..cxPageControl1..cxTabSheet1..cxDBButtonEdit4......Caption
+#: packages/frmOrdMaterialU.dfm:409
+msgid "Download"
+msgstr ""
+
+#. frmOrder..cxTabControl1..cxPageControl1..cxTabSheet1..cxDBButtonEdit2......Hint
+#: packages/frmOrderU.dfm:295
+#. frmOrdItem..cxTabControl1..cxPageControl1..cxTabSheet1..cxDBButtonEdit3......Hint
+#: packages/frmOrdItemU.dfm:453
+#. frmOrdMaterial..cxTabControl1..cxPageControl1..cxTabSheet1..cxDBButtonEdit4......Hint
+#: packages/frmOrdMaterialU.dfm:434
+msgid "Download file"
+msgstr ""
+
+#. frmOrder..cxTabControl1..cxPageControl1..cxTabSheet1..cxDBTextEdit2..DataBinding.DataField
+#: packages/frmOrderU.dfm:354
+msgid "cstname"
+msgstr ""
+
+#. frmOrder..cxTabControl1..cxPageControl1..cxTabSheet1..cxDBDateEdit1..DataBinding.DataField
+#: packages/frmOrderU.dfm:364
+msgid "orddate"
+msgstr ""
+
+#. frmOrder..cxTabControl1..cxPageControl1..cxTabSheet1..cxDBSpinEdit1..DataBinding.DataField
+#: packages/frmOrderU.dfm:372
+#. frmOrdItem..cxTabControl1..cxPageControl1..cxTabSheet1..cxDBSpinEdit2..DataBinding.DataField
+#: packages/frmOrdItemU.dfm:512
+#. frmOrdMaterial..cxTabControl1..cxPageControl1..cxTabSheet1..cxDBSpinEdit2..DataBinding.DataField
+#: packages/frmOrdMaterialU.dfm:493
+msgid "maxlen"
+msgstr ""
+
+#. frmOrder..cxTabControl1..cxPageControl1..cxTabSheet1..cxDBSpinEdit2..DataBinding.DataField
+#: packages/frmOrderU.dfm:382
+#. frmOrdItem..cxTabControl1..cxPageControl1..cxTabSheet1..cxDBSpinEdit3..DataBinding.DataField
+#: packages/frmOrdItemU.dfm:522
+#. frmOrdMaterial..cxTabControl1..cxPageControl1..cxTabSheet1..cxDBSpinEdit3..DataBinding.DataField
+#: packages/frmOrdMaterialU.dfm:503
+msgid "mrklen"
+msgstr ""
+
+#. frmOrder..cxTabControl1..cxPageControl1..cxTabSheet1..cxDBSpinEdit3..DataBinding.DataField
+#: packages/frmOrderU.dfm:390
+#. frmOrdItem..cxTabControl1..cxPageControl1..cxTabSheet1..cxDBSpinEdit4..DataBinding.DataField
+#: packages/frmOrdItemU.dfm:530
+#. frmOrdMaterial..cxTabControl1..cxPageControl1..cxTabSheet1..cxDBSpinEdit4..DataBinding.DataField
+#: packages/frmOrdMaterialU.dfm:511
+msgid "mrkwidth"
+msgstr ""
+
+#. frmOrder..cxTabControl1..cxPageControl1..cxTabSheet1..cxDBComboBox1..DataBinding.DataField
+#: packages/frmOrderU.dfm:398
+#. frmOrdItem..cxTabControl1..cxPageControl1..cxTabSheet1..cxDBComboBox1..DataBinding.DataField
+#: packages/frmOrdItemU.dfm:538
+#. frmOrdMaterial..cxTabControl1..cxPageControl1..cxTabSheet1..cxDBComboBox1..DataBinding.DataField
+#: packages/frmOrdMaterialU.dfm:519
+msgid "algorithm"
+msgstr ""
+
+#. frmOrder..cxTabControl1..cxPageControl1..cxTabSheet1..cxDBComboBox1....Properties.Items.Strings
+#: packages/frmOrderU.dfm:401
+#. frmOrdItem..cxTabControl1..cxPageControl1..cxTabSheet1..cxDBComboBox1....Properties.Items.Strings
+#: packages/frmOrdItemU.dfm:541
+#. frmOrdMaterial..cxTabControl1..cxPageControl1..cxTabSheet1..cxDBComboBox1....Properties.Items.Strings
+#: packages/frmOrdMaterialU.dfm:522
+msgid "ANT"
+msgstr ""
+
+#. frmOrder..cxTabControl1..cxPageControl1..cxTabSheet1..cxDBComboBox1....Properties.Items.Strings
+#: packages/frmOrderU.dfm:402
+#. frmOrdItem..cxTabControl1..cxPageControl1..cxTabSheet1..cxDBComboBox1....Properties.Items.Strings
+#: packages/frmOrdItemU.dfm:542
+#. frmOrdMaterial..cxTabControl1..cxPageControl1..cxTabSheet1..cxDBComboBox1....Properties.Items.Strings
+#: packages/frmOrdMaterialU.dfm:523
+msgid "QUALITY"
+msgstr ""
+
+#. frmOrder..ActionList..actClear..Caption
+#: packages/frmOrderU.dfm:431
+msgid "Clear Calculation"
+msgstr ""
+
+#. frmOrder..ActionList..actReff_1..Caption
+#: packages/frmOrderU.dfm:442
+#. frmOrdItem..Caption
+#: packages/frmOrdItemU.dfm:4
+#. frmOrdItem..cxTabControl1..cxPageControl1..cxTabSheet1..Caption
+#: packages/frmOrdItemU.dfm:83
+msgid "Order Items"
+msgstr ""
+
+#. frmOrder..ActionList..actGenerateItems..Caption
+#: packages/frmOrderU.dfm:452
+#. frmStyle..ActionList..actReff_3..Caption
+#: packages/frmStylesU.dfm:239
+msgid "Generate Items"
+msgstr ""
+
+#. frmOrder..BarManager..dxBarManager1Bar1......ItemName
+#: packages/frmOrderU.dfm:520
+msgid "stdBtnGenerateItems"
+msgstr ""
+
+#. frmOrdItem..cxTabControl1..cxPageControl1..cxTabSheet1..Label1..Caption
+#: packages/frmOrdItemU.dfm:96
+msgid "Order:"
+msgstr ""
+
+#. frmOrdItem..cxTabControl1..cxPageControl1..cxTabSheet1..Label4..Caption
+#: packages/frmOrdItemU.dfm:112
+msgid "Quantity:"
+msgstr ""
+
+#. frmOrdItem..cxTabControl1..cxPageControl1..cxTabSheet1..Label7..Caption
+#: packages/frmOrdItemU.dfm:136
+msgid "X Ft. Item:"
+msgstr ""
+
+#. frmOrdItem..cxTabControl1..cxPageControl1..cxTabSheet1..Label8..Caption
+#: packages/frmOrdItemU.dfm:144
+msgid "Seq/Prio:"
+msgstr ""
+
+#. frmOrdItem..cxTabControl1..cxPageControl1..cxTabSheet1..Label11..Caption
+#: packages/frmOrdItemU.dfm:160
+msgid "Y Ft. Item:"
+msgstr ""
+
+#. frmOrdItem..cxTabControl1..cxPageControl1..cxTabSheet1..cxDBSpinEdit1..DataBinding.DataField
+#: packages/frmOrdItemU.dfm:243
+msgid "orqty"
+msgstr ""
+
+#. frmOrdLayingRuleItems..Caption
+#: packages/frmOrdLayingRuleItemsU.dfm:4
+#. frmOrdLayingRuleItems..cxTabControl1..cxPageControl1..cxTabSheet1..Caption
+#: packages/frmOrdLayingRuleItemsU.dfm:83
+msgid "Order Rule Items"
+msgstr ""
+
+#. frmOrdLayingRuleItems..cxTabControl1..cxPageControl1..cxTabSheet1..Label1..Caption
+#: packages/frmOrdLayingRuleItemsU.dfm:90
+#. frmOrdMaterial..cxTabControl1..cxPageControl1..cxTabSheet1..Label1..Caption
+#: packages/frmOrdMaterialU.dfm:90
+msgid "Order / Item:"
+msgstr ""
+
+#. frmOrdLayingRuleItems..BarManager..dxBarManager1Bar1......ItemName
+#: packages/frmOrdLayingRuleItemsU.dfm:237
+msgid "dxBarLargeButton1"
+msgstr ""
+
+#. frmOrdMaterial..Caption
+#: packages/frmOrdMaterialU.dfm:4
+#. frmOrdMaterial..cxTabControl1..cxPageControl1..cxTabSheet1..Caption
+#: packages/frmOrdMaterialU.dfm:83
+msgid "Order Materials"
+msgstr ""
+
+#. frmStFeatureItems..Caption
+#: packages/frmStFeatureItemsU.dfm:4
+#. frmStFeatureItems..cxTabControl1..cxPageControl1..cxTabSheet1..Caption
+#: packages/frmStFeatureItemsU.dfm:83
+msgid "Style Feature Items"
+msgstr ""
+
+#. frmStFeatureItems..cxTabControl1..cxPageControl1..cxTabSheet1..Label3..Caption
+#: packages/frmStFeatureItemsU.dfm:106
+msgid "Sequens:"
+msgstr ""
+
+#. frmStFeature..Caption
+#: packages/frmStFeatureU.dfm:4
+#. frmStFeature..cxTabControl1..cxPageControl1..cxTabSheet1..Caption
+#: packages/frmStFeatureU.dfm:83
+msgid "Feature Style"
+msgstr ""
+
+#. frmStLayingRuleItems..Caption
+#: packages/frmStLayingRuleItemsU.dfm:4
+#. frmStLayingRuleItems..cxTabControl1..cxPageControl1..cxTabSheet1..Caption
+#: packages/frmStLayingRuleItemsU.dfm:83
+msgid "Style Rule Items"
+msgstr ""
+
+#. frmStLayingRuleItems..cxTabControl1..cxPageControl1..cxTabSheet1..Label4..Caption
+#: packages/frmStLayingRuleItemsU.dfm:114
+msgid "Feature Items:"
+msgstr ""
+
+#. frmStMaterial..Caption
+#: packages/frmStMaterialU.dfm:4
+#. frmStMaterial..cxTabControl1..cxPageControl1..cxTabSheet1..Caption
+#: packages/frmStMaterialU.dfm:89
+msgid "Style Materials"
+msgstr ""
+
+#. frmStMaterial..ActionList..actReff_1..Caption
+#: packages/frmStMaterialU.dfm:354
+msgid "Laying Rule Details"
+msgstr ""
+
+#. frmStyle..cxTabControl1..cxPageControl1..cxTabSheet1..Label3..Caption
+#: packages/frmStylesU.dfm:106
+msgid "Style Type:"
+msgstr ""
+
+#. frmStyle..cxTabControl1..cxPageControl1..cxTabSheet1..Label4..Caption
+#: packages/frmStylesU.dfm:114
+msgid "U/M Code:"
+msgstr ""
+
+#. frmStyle..cxTabControl1..cxPageControl1..cxTabSheet1..Label5..Caption
+#: packages/frmStylesU.dfm:130
+msgid "Item Format:"
+msgstr ""
+
+#. frmStyle..cxTabControl1..cxPageControl1..cxTabSheet1..cxDBTextEdit2..DataBinding.DataField
+#: packages/frmStylesU.dfm:145
+msgid "stdesc"
+msgstr ""
+
+#. frmStyle..cxTabControl1..cxPageControl1..cxTabSheet1..cxDBTextEdit3..DataBinding.DataField
+#: packages/frmStylesU.dfm:192
+msgid "itmfmt"
+msgstr ""
+
+#. frmStyle..ActionList..actReff_1..Caption
+#: packages/frmStylesU.dfm:229
+msgid "Style Types"
+msgstr ""
+
+#. frmStyle..BarManager..dxBarManager1Bar1......ItemName
+#: packages/frmStylesU.dfm:314
+msgid "stdBtnReff_2"
+msgstr ""
+
+#. frmStyle..BarManager..dxBarManager1Bar1......ItemName
+#: packages/frmStylesU.dfm:319
+msgid "stdBtnReff_3"
+msgstr ""
+
+#. Programmer's name for it: SECFDeleteConf
+#: ecfnavres.pas:7
+msgid "Are you sure to delete this item (%s)"
+msgstr ""
+
+#. Programmer's name for it: MSG_INF_100
+#: ecfreporter.pas:218
+msgid "Connection has been established successfully"
+msgstr ""
+
+#. Programmer's name for it: MSG_ERR_100
+#: ecfreporter.pas:220
+msgid "Initialization could not be done"
+msgstr ""
+
+#. Programmer's name for it: MSG_ERR_101
+#: ecfreporter.pas:221
+msgid "This application is not connected to the "
+"database"
+msgstr ""
+
+#. Programmer's name for it: MSG_ERR_102
+#: ecfreporter.pas:222
+msgid "Previous record has not been saved or "
+"canceled"
+msgstr ""
+
+#. Programmer's name for it: MSG_ERR_103
+#: ecfreporter.pas:223
+msgid "The record has already exist on the "
+"database"
+msgstr ""
+
+#. Programmer's name for it: MSG_ERR_104
+#: ecfreporter.pas:224
+msgid "Could not found specified record"
+msgstr ""
+
+#. Programmer's name for it: MSG_CNF_100
+#: ecfreporter.pas:226
+msgid "Are you sure to exit from this application?"
+msgstr ""
+
+#. Programmer's name for it: MSG_CNF_101
+#: ecfreporter.pas:227
+msgid "Are you sure to delete this record?"
+msgstr ""
+
+#. Programmer's name for it: MSG_CNF_102
+#: ecfreporter.pas:228
+msgid "You are about to abort the process, are you "
+"sure?"
+msgstr ""
+
+#. Programmer's name for it: MSG_CNF_103
+#: ecfreporter.pas:229
+msgid "Do you want to save this record?"
+msgstr ""
+
+#. SecChk.AssertCheck(SECSTR_EL_ADMRPT);
+#: ecfreporter.pas:1507
+msgid "Report File (.rpt)|*.rpt"
+msgstr ""
+
+#: ecfreporter.pas:1509
+msgid "Save secured report file as"
+msgstr ""
+
+#: ecfreporter.pas:1531
+msgid "New folder"
+msgstr ""
+
+#: ecfreporter.pas:1532
+msgid "New report"
+msgstr ""
+
+#: ecfreporter.pas:1534
+msgid "Print report"
+msgstr ""
+
+#: ecfreporter.pas:1539
+msgid "Up one level"
+msgstr ""
+
+#: ecfreporter.pas:1543
+msgid "View folder tree"
+msgstr ""
+
+#: ecfreporter.pas:1544
+msgid "Empty recycle bin"
+msgstr ""
+
+#: ecfreporter.pas:1547
+msgid "Browse file..."
+msgstr ""
+
+#: ecfreporter.pas:1551
+msgid "Import file..."
+msgstr ""
+
+#: ecfreporter.pas:1552
+msgid "Export file..."
+msgstr ""
+
+#: ecfreporter.pas:1553
+msgid "Encrypt report file"
+msgstr ""
+
+#: ecfreporter.pas:1554
+msgid "Save report file"
+msgstr ""
+
+#: ecfreporter.pas:1556
+msgid "Admin options"
+msgstr ""
+
+#: ecfreporter.pas:1557
+msgid "Show hidden files"
+msgstr ""
+
+#: frmMainU.pas:909
+msgid "You should restart this application to make your changes fully "
+"applied"
+msgstr ""
+

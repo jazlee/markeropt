@@ -1,0 +1,569 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language-Team: \n"
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Jaimy Azle <jazle@sat.net.id>\n"
+
+msgid "MaskEdit|Represents a generic masked edit control."
+msgstr ""
+
+msgid "ComboBox|Represents the combo box editor"
+msgstr ""
+
+msgid "PopupEdit|Represents an edit control with a dropdown list"
+msgstr ""
+
+msgid "CheckBox|Represents a check box control that allows selecting an option"
+msgstr ""
+
+msgid "SpinEdit|Represents a spin editor"
+msgstr ""
+
+msgid "JPEG Image File"
+msgstr ""
+
+msgid "Image|Represents an image editor"
+msgstr ""
+
+msgid "Memo|Represents an edit control that allows editing memo data"
+msgstr ""
+
+msgid "BlobEdit|Represents the BLOB editor"
+msgstr ""
+
+msgid "ButtonEdit|Represents an edit control with embedded buttons"
+msgstr ""
+
+msgid "CalcEdit|Represents an edit control with a dropdown calculator window"
+msgstr ""
+
+msgid "today"
+msgstr ""
+
+msgid "yesterday"
+msgstr ""
+
+msgid "tomorrow"
+msgstr ""
+
+msgid "Sunday"
+msgstr ""
+
+msgid "Monday"
+msgstr ""
+
+msgid "Tuesday"
+msgstr ""
+
+msgid "Wednesday"
+msgstr ""
+
+msgid "Thursday"
+msgstr ""
+
+msgid "Friday"
+msgstr ""
+
+msgid "Saturday"
+msgstr ""
+
+msgid "first"
+msgstr ""
+
+msgid "second"
+msgstr ""
+
+msgid "third"
+msgstr ""
+
+msgid "fourth"
+msgstr ""
+
+msgid "fifth"
+msgstr ""
+
+msgid "sixth"
+msgstr ""
+
+msgid "seventh"
+msgstr ""
+
+msgid "bom"
+msgstr ""
+
+msgid "eom"
+msgstr ""
+
+msgid "now"
+msgstr ""
+
+msgid "TimeEdit|Represents an editor displaying time values"
+msgstr ""
+
+msgid "DateEdit|Represents an edit control with a dropdown calendar"
+msgstr ""
+
+msgid "CurrencyEdit|Represents an editor enabling editing currency data"
+msgstr ""
+
+msgid "HyperLink|Represents a text editor with hyperlink functionality"
+msgstr ""
+
+msgid "ImageComboBox|Represents an editor displaying the list of images and text strings within the dropdown window"
+msgstr ""
+
+msgid "MRUEdit|Represents a text editor displaying the list of most recently used items (MRU) within a dropdown window"
+msgstr ""
+
+msgid "RadioGroup|Represents a group of radio buttons"
+msgstr ""
+
+msgid "True"
+msgstr ""
+
+msgid "False"
+msgstr ""
+
+msgid "LookupComboBox|Represents a lookup combo box control"
+msgstr ""
+
+msgid "Label|Represents a Label"
+msgstr ""
+
+msgid "Toolbar Panel"
+msgstr ""
+
+msgid "data"
+msgstr ""
+
+msgid "reports"
+msgstr ""
+
+msgid "Default"
+msgstr ""
+
+msgid "<No data to display>"
+msgstr ""
+
+msgid "Click here to define a filter"
+msgstr ""
+
+msgid "Click here to add a new row"
+msgstr ""
+
+msgid "Drag a column header here to group by that column"
+msgstr ""
+
+msgid "<Filter is Empty>"
+msgstr ""
+
+msgid "Click here to show/hide/move columns"
+msgstr ""
+
+msgid "First record"
+msgstr ""
+
+msgid "Prior page"
+msgstr ""
+
+msgid "Prior record"
+msgstr ""
+
+msgid "Next record"
+msgstr ""
+
+msgid "Next page"
+msgstr ""
+
+msgid "Last record"
+msgstr ""
+
+msgid "Insert record"
+msgstr ""
+
+msgid "Delete record"
+msgstr ""
+
+msgid "Edit record"
+msgstr ""
+
+msgid "Post edit"
+msgstr ""
+
+msgid "Cancel edit"
+msgstr ""
+
+msgid "Refresh data"
+msgstr ""
+
+msgid "Save Bookmark"
+msgstr ""
+
+msgid "Goto Bookmark"
+msgstr ""
+
+msgid "Filter data"
+msgstr ""
+
+msgid "ECFAPI"
+msgstr ""
+
+msgid "&Filter Log Items"
+msgstr ""
+
+msgid "&Drill Down"
+msgstr ""
+
+msgid "&Pause Log Viewer"
+msgstr ""
+
+msgid "Scroll to &Earliest Log Item"
+msgstr ""
+
+msgid "&Copy Log Item to Clipboard"
+msgstr ""
+
+msgid "ID"
+msgstr ""
+
+msgid "Date"
+msgstr ""
+
+msgid "Time"
+msgstr ""
+
+msgid "Category"
+msgstr ""
+
+msgid "Context"
+msgstr ""
+
+msgid "Text"
+msgstr ""
+
+msgid "Clear"
+msgstr ""
+
+msgid "License information for %s not found. You cannot use this control in design mode"
+msgstr ""
+
+msgid "Back"
+msgstr ""
+
+msgid "Forward"
+msgstr ""
+
+msgid "Home"
+msgstr ""
+
+msgid "Refresh"
+msgstr ""
+
+msgid "Stop"
+msgstr ""
+
+msgid "Welcome"
+msgstr ""
+
+msgid "Disconnected"
+msgstr ""
+
+msgid "Enterprise Core Framework Navigator"
+msgstr ""
+
+msgid "DockMainPanel"
+msgstr ""
+
+msgid "-"
+msgstr ""
+
+msgid "Toolbar"
+msgstr ""
+
+msgid "Log View"
+msgstr ""
+
+msgid "Module Explorer"
+msgstr ""
+
+msgid "Help"
+msgstr ""
+
+msgid "Run Command"
+msgstr ""
+
+msgid "Close active tab"
+msgstr ""
+
+msgid "Close all tab"
+msgstr ""
+
+msgid "Login server"
+msgstr ""
+
+msgid "Logout server"
+msgstr ""
+
+msgid "Settings/properties"
+msgstr ""
+
+msgid "Print"
+msgstr ""
+
+msgid "Exit"
+msgstr ""
+
+msgid "Cut"
+msgstr ""
+
+msgid "Copy"
+msgstr ""
+
+msgid "Paste"
+msgstr ""
+
+msgid "Select all"
+msgstr ""
+
+msgid "Undo"
+msgstr ""
+
+msgid "User Manager..."
+msgstr ""
+
+msgid "Connections..."
+msgstr ""
+
+msgid "User API Access Management"
+msgstr ""
+
+msgid "Execute"
+msgstr ""
+
+msgid "Contents"
+msgstr ""
+
+msgid "Search help on..."
+msgstr ""
+
+msgid "How to use help"
+msgstr ""
+
+msgid "Readme"
+msgstr ""
+
+msgid "About"
+msgstr ""
+
+msgid "Options..."
+msgstr ""
+
+msgid "Report explorer"
+msgstr ""
+
+msgid "Layout designer"
+msgstr ""
+
+msgid "Manage external tools..."
+msgstr ""
+
+msgid "Recent Documents"
+msgstr ""
+
+msgid "Main Menu"
+msgstr ""
+
+msgid "Standard"
+msgstr ""
+
+msgid "Main"
+msgstr ""
+
+msgid "Functions"
+msgstr ""
+
+msgid "Clipboard"
+msgstr ""
+
+msgid "Misc"
+msgstr ""
+
+msgid "Quick Access"
+msgstr ""
+
+msgid "File"
+msgstr ""
+
+msgid "Edit"
+msgstr ""
+
+msgid "View"
+msgstr ""
+
+msgid "Tools"
+msgstr ""
+
+msgid "Select"
+msgstr ""
+
+msgid "New transaction"
+msgstr ""
+
+msgid "Open"
+msgstr ""
+
+msgid "Show"
+msgstr ""
+
+msgid "Extended functions"
+msgstr ""
+
+msgid "Open Related"
+msgstr ""
+
+msgid "Log panel"
+msgstr ""
+
+msgid "Themes"
+msgstr ""
+
+msgid "Languages"
+msgstr ""
+
+msgid "Show report designer"
+msgstr ""
+
+msgid "External tools"
+msgstr ""
+
+msgid "Toolbars..."
+msgstr ""
+
+msgid "Run:"
+msgstr ""
+
+msgid "Run Command:"
+msgstr ""
+
+msgid "All Modules"
+msgstr ""
+
+msgid "TextColorHot"
+msgstr ""
+
+msgid "Server configuration"
+msgstr ""
+
+msgid "New"
+msgstr ""
+
+msgid "Delete"
+msgstr ""
+
+msgid "Properties"
+msgstr ""
+
+msgid "Set Default"
+msgstr ""
+
+msgid "dbconn"
+msgstr ""
+
+msgid "Error: Access module is not possible since you are not connected to the server"
+msgstr ""
+
+msgid "List of available tools:"
+msgstr ""
+
+msgid "Add"
+msgstr ""
+
+msgid "Move Down"
+msgstr ""
+
+msgid "Move Up"
+msgstr ""
+
+msgid "Close"
+msgstr ""
+
+msgid "External Tools Editor"
+msgstr ""
+
+msgid "Title:"
+msgstr ""
+
+msgid "Program:"
+msgstr ""
+
+msgid "Working Dir:"
+msgstr ""
+
+msgid "Parameters:"
+msgstr ""
+
+msgid "OK"
+msgstr ""
+
+msgid "Cancel"
+msgstr ""
+
+msgid "&Customize..."
+msgstr ""
+
+msgid "Options"
+msgstr ""
+
+msgid "Preferences"
+msgstr ""
+
+msgid "Show splash screen at startup"
+msgstr ""
+
+msgid "Splash screen"
+msgstr ""
+
+msgid "Show/hide the splash screen at startup."
+msgstr ""
+
+msgid "Instances"
+msgstr ""
+
+msgid "Enable/disable multiple instances of this application"
+msgstr ""
+
+msgid "Enable multiple instances"
+msgstr ""
+
+msgid "Setup the default theme to be used"
+msgstr ""
+
+msgid "Internationalisation"
+msgstr ""
+
+msgid "Setup default language for this application"
+msgstr ""
+
+msgid "Use ribbon bar"
+msgstr ""
+
+msgid "<< Previous"
+msgstr ""
+
+msgid "Next >>"
+msgstr ""
+
+msgid "ECFPGM"
+msgstr ""
+
+msgid "Apply Filter"
+msgstr ""
+
+msgid "Connected as %s@%s (%s:%d)"
+msgstr ""
+

@@ -1,0 +1,744 @@
+msgid ""
+msgstr ""
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Language-Team: \n"
+"Project-Id-Version: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: Jaimy Azle <jazle@sat.net.id>\n"
+
+msgid "Default"
+msgstr "Standar"
+
+msgid "<No data to display>"
+msgstr "<Tidak ada data yang dapat ditampilkan>"
+
+msgid "Click here to define a filter"
+msgstr "Klik di sini untuk mendefinisikan penyaring"
+
+msgid "Click here to add a new row"
+msgstr "Klik di sini untuk menambah baris baru"
+
+msgid "Drag a column header here to group by that column"
+msgstr "Taruh kepala kolom disini untuk pengelompokan atas kolom tersebut"
+
+msgid "<Filter is Empty>"
+msgstr "<Saringan kosong>"
+
+msgid "Click here to show/hide/move columns"
+msgstr "Klik disini untuk menampilkan/menyembunyikan/memindahkan kolom"
+
+msgid "Data has been posted successfully."
+msgstr "Data berhasil disimpan dengan sukses."
+
+msgid "First record"
+msgstr "Rekaman pertama"
+
+msgid "Prior page"
+msgstr "Halaman sebelumnya"
+
+msgid "Prior record"
+msgstr "Rekaman sebelumnya"
+
+msgid "Next record"
+msgstr "Rekaman selanjutnya"
+
+msgid "Next page"
+msgstr "Halaman selanjutnya"
+
+msgid "Last record"
+msgstr "Rekaman terakhir"
+
+msgid "Insert record"
+msgstr "Sisip rekaman"
+
+msgid "Delete record"
+msgstr "Hapus rekaman"
+
+msgid "Edit record"
+msgstr "Edit rekaman"
+
+msgid "Post edit"
+msgstr "Simpan perubahan"
+
+msgid "Cancel edit"
+msgstr "Batalkan edit"
+
+msgid "Refresh data"
+msgstr "Segarkan data"
+
+msgid "Save Bookmark"
+msgstr "Simpan penunjuk halaman"
+
+msgid "Goto Bookmark"
+msgstr "Tuju sesuai penunjuk halaman"
+
+msgid "Filter data"
+msgstr "Saring data"
+
+msgid "True"
+msgstr ""
+
+msgid "False"
+msgstr ""
+
+msgid "ECFAPI"
+msgstr ""
+
+msgid "&Filter Log Items"
+msgstr "Saring butir-butir catatan"
+
+msgid "&Drill Down"
+msgstr "Turun ke bawah"
+
+msgid "&Pause Log Viewer"
+msgstr "Hentikan sementara penilik catatan"
+
+msgid "Scroll to &Earliest Log Item"
+msgstr "Ulir ke awal butir catatan"
+
+msgid "&Copy Log Item to Clipboard"
+msgstr "Salin butir catatan ke papan jepit"
+
+msgid "ID"
+msgstr ""
+
+msgid "Date"
+msgstr "Tanggal"
+
+msgid "Time"
+msgstr "Waktu"
+
+msgid "Category"
+msgstr "Kategori"
+
+msgid "Context"
+msgstr "Konteks"
+
+msgid "Text"
+msgstr "Teks"
+
+msgid "Clear"
+msgstr "Bersih"
+
+msgid "License information for %s not found. You cannot use this control in design mode"
+msgstr "Informasi lisensi atas %s tidak ditemukan, anda tidak dapat menggunakan kontrol ini pada mode disain"
+
+msgid "Back"
+msgstr "Balik"
+
+msgid "Forward"
+msgstr "Lanjut"
+
+msgid "Home"
+msgstr "Pangkal"
+
+msgid "Refresh"
+msgstr "Segarkan"
+
+msgid "Stop"
+msgstr "Stop"
+
+msgid "Welcome"
+msgstr "Selamat Datang"
+
+msgid "Disconnected"
+msgstr "Terputus"
+
+msgid "Run Command"
+msgstr "Eksekusi perintah"
+
+msgid "Close active tab"
+msgstr "Tutup tab aktif"
+
+msgid "Close all tab"
+msgstr "Tutup semua tab"
+
+msgid "Login server"
+msgstr "Log masuk"
+
+msgid "Logout server"
+msgstr "Log keluar"
+
+msgid "Settings/properties"
+msgstr "Penataan/Opsi"
+
+msgid "Print"
+msgstr "Cetak"
+
+msgid "Exit"
+msgstr "Keluar"
+
+msgid "Select"
+msgstr "Pilih"
+
+msgid "New transaction"
+msgstr "Transaksi baru"
+
+msgid "Open"
+msgstr "Buka"
+
+msgid "Show"
+msgstr "Tampilkan"
+
+msgid "Copy"
+msgstr "Salin"
+
+msgid "Extended functions"
+msgstr "Fungsi tambahan"
+
+msgid "Open Related"
+msgstr "Buka yang terkait"
+
+msgid "Cut"
+msgstr "Potong"
+
+msgid "Paste"
+msgstr "Rekat"
+
+msgid "Select all"
+msgstr "Pilih semua"
+
+msgid "Undo"
+msgstr "Batalkan"
+
+msgid "Module explorer"
+msgstr "Penjelajah Modul"
+
+msgid "Log panel"
+msgstr "Panel catatan"
+
+msgid "Themes"
+msgstr "List tema"
+
+msgid "Languages"
+msgstr "Pilihan bahasa"
+
+msgid "Toolbars..."
+msgstr "Batang alat..."
+
+msgid "Show report designer"
+msgstr "Tampilkan pendesain laporan"
+
+msgid "Layout designer"
+msgstr "Pendesain tata letak"
+
+msgid "New layout"
+msgstr "Tata letak baru"
+
+msgid "Connections..."
+msgstr "Koneksi..."
+
+msgid "Options..."
+msgstr "Opsi..."
+
+msgid "Report explorer"
+msgstr "Penjelajah laporan"
+
+msgid "Contents"
+msgstr "Isi"
+
+msgid "Readme"
+msgstr "Baca saya"
+
+msgid "Search help on..."
+msgstr "Telusur panduan untuk..."
+
+msgid "How to use help"
+msgstr "Bagaimana menggunakan panduan"
+
+msgid "About"
+msgstr "Jati diri"
+
+msgid "File"
+msgstr "Berkas"
+
+msgid "Edit"
+msgstr "Edit"
+
+msgid "Functions"
+msgstr "Fungsi"
+
+msgid "View"
+msgstr "Tilik"
+
+msgid "Tools"
+msgstr "Peralatan"
+
+msgid "Help"
+msgstr "Panduan"
+
+msgid "Log View"
+msgstr "Tilik catatan"
+
+msgid "Manage external tools..."
+msgstr "Atur peralatan eksternal..."
+
+msgid "External tools"
+msgstr "Peralatan eksternal"
+
+msgid "All Modules"
+msgstr "Semua modul"
+
+msgid "&User Name:"
+msgstr "Nama Pengguna:"
+
+msgid "&Password:"
+msgstr "Kata Kunci:"
+
+msgid "OK"
+msgstr "OK"
+
+msgid "Cancel"
+msgstr "Batalkan"
+
+msgid "Application Server Login"
+msgstr "Login peladen aplikasi"
+
+msgid "Invalid input value. Use escape key to abandon changes"
+msgstr "Nilai input tidak valid. Gunakan tombol ESC untuk membatalkan perubahan"
+
+msgid "Connected as %s@%s (%s:%d)"
+msgstr "Terkoneksi sebagai %s@%s (%s:%d)"
+
+msgid "<< Previous"
+msgstr "<< Balik"
+
+msgid "Next >>"
+msgstr "Selanjutnya >>"
+
+msgid "ECFPGM"
+msgstr ""
+
+msgid "Apply Filter"
+msgstr "Aktikan Saringan"
+
+msgid "Module %s (%s) has already open, do you want to create a new one?"
+msgstr "Modul %s (%s) sudah dibuka, anda mau buka lagi yang baru?"
+
+msgid "&Yes"
+msgstr "Ya"
+
+msgid "&No"
+msgstr "Tidak"
+
+msgid "Confirm"
+msgstr "Konfirmasi"
+
+msgid "Work with..."
+msgstr "Kerja dengan..."
+
+msgid "Customize..."
+msgstr "Pengaturan..."
+
+msgid "Customize"
+msgstr "Pengaturan"
+
+msgid "Close"
+msgstr "Tutup"
+
+msgid " Toolbars "
+msgstr " Batang alat "
+
+msgid "New..."
+msgstr "Baru"
+
+msgid "Rename..."
+msgstr "Nama ulang"
+
+msgid "Delete"
+msgstr "Hapus"
+
+msgid "Reset..."
+msgstr "Tata ulang"
+
+msgid "Toolbars:"
+msgstr "Batang alat"
+
+msgid " Commands "
+msgstr "Perintah"
+
+msgid "Categories:"
+msgstr "Kategori"
+
+msgid "Commands:"
+msgstr "Perintah"
+
+msgid "Description  "
+msgstr "Deskripsi"
+
+msgid "Add..."
+msgstr "Tambahkan..."
+
+msgid "Insert..."
+msgstr "Sisipkan..."
+
+msgid "Visible"
+msgstr "Muncul"
+
+msgid "Move Up"
+msgstr "Pindah ke atas"
+
+msgid "Move Down"
+msgstr "Pindah ke bawah"
+
+msgid "SubMenu Editor..."
+msgstr "Pengedit submenu..."
+
+msgid " Options "
+msgstr " Opsi "
+
+msgid "Personalized Menus and Toolbars"
+msgstr "Personalisasi menu dan batang alat"
+
+msgid "Menus show recently used commands first"
+msgstr "Tampilkan menu yang terakhir digunakan lebih dulu"
+
+msgid "Show full menus after a short delay"
+msgstr "Tampilkan semua menu setelah penundaan sesaat"
+
+msgid "Reset my usage data"
+msgstr "Tata ulang data"
+
+msgid "Other  "
+msgstr "Lainnya  "
+
+msgid "Large icons"
+msgstr "Icon besar"
+
+msgid "Show ToolTips on toolbars"
+msgstr "Tampilkan ToolTips pada batang alat"
+
+msgid "Show shortcut keys in ToolTips"
+msgstr "Tampilkan tombol pintas pada ToolTips"
+
+msgid "Menu animations:"
+msgstr "Animasi menu:"
+
+msgid "(None)"
+msgstr "(Nihil)"
+
+msgid "Random"
+msgstr "Acak"
+
+msgid "Unfold"
+msgstr "Paparkan"
+
+msgid "Slide"
+msgstr "Meluncur"
+
+msgid "Fade"
+msgstr "Mengabur"
+
+msgid "Support"
+msgstr "Dukungan"
+
+msgid "Error: Access module is not possible since you are not connected to the server"
+msgstr "Galat: Akses terhadap modul tidak dimungkinkan karena anda tidak terkoneksi dengan peladen"
+
+msgid "New folder"
+msgstr "Pelipat baru"
+
+msgid "New report"
+msgstr "Laporan baru"
+
+msgid "Print report"
+msgstr "Cetak laporan"
+
+msgid "List"
+msgstr "Daftar"
+
+msgid "Details"
+msgstr "Detil"
+
+msgid "Up one level"
+msgstr "Naik satu aras"
+
+msgid "View folder tree"
+msgstr "Tilik pohon pelipat"
+
+msgid "Empty recycle bin"
+msgstr "Kosongkan kotak daur ulang"
+
+msgid "Restore"
+msgstr "Kembalikan"
+
+msgid "Properties..."
+msgstr "Properti"
+
+msgid "Browse file..."
+msgstr "Jelajahi berkas..."
+
+msgid "Import file..."
+msgstr "Impor berkas..."
+
+msgid "Export file..."
+msgstr "Ekspor berkas..."
+
+msgid "Encrypt report file"
+msgstr "Enkripsi berkas laporan"
+
+msgid "Save report file"
+msgstr "Simpan berkas laporan"
+
+msgid "New"
+msgstr "Baru"
+
+msgid "Admin options"
+msgstr "Opsi administratif"
+
+msgid "Show hidden files"
+msgstr "Tampilkan berkas tersembunyi"
+
+msgid "Folders"
+msgstr "Pelipat"
+
+msgid "Import/Export"
+msgstr "Impor/Expor"
+
+msgid "More Buttons"
+msgstr "Tombol tambahan"
+
+msgid "You should restart this application to make your changes fully applied"
+msgstr "Anda disarankan untuk start ulang aplikasi ini agar perubahan yang anda buat teraplikasikan secara penuh"
+
+msgid "Unknown user name or password."
+msgstr "Nama user ataupun password yang dimasukkan tak dikenali"
+
+msgid "ECFServer: %s: %s [$%x/%d]"
+msgstr ""
+
+msgid "Stopped"
+msgstr "Terhenti"
+
+msgid "Started"
+msgstr "Berjalan"
+
+msgid "Options"
+msgstr "Opsi-opsi"
+
+msgid "Preferences"
+msgstr "Preferensi"
+
+msgid "Use classic program explorer"
+msgstr "Gunakan penjelajah program klasik"
+
+msgid "Program Link Manager..."
+msgstr "Manajer link program..."
+
+msgid "Show splash screen at startup"
+msgstr "Tampilkan layar kilas saat mulai"
+
+msgid "Splash screen"
+msgstr "Layar kilas"
+
+msgid "Show/hide the splash screen at startup."
+msgstr "Tampilkan/Sembunyikan layar kilas saat mulai"
+
+msgid "Instances"
+msgstr "Kembaran"
+
+msgid "Enable/disable multiple instances of this application"
+msgstr "Ijinkan/Larang aplikasi ini berjalan lebih dari satu dalam waktu yang sama"
+
+msgid "Enable multiple instances"
+msgstr "Ijinkan kembaran aplikasi"
+
+msgid "Setup the default theme to be used"
+msgstr "Tata tema standar yang digunakan"
+
+msgid "Large image list editor..."
+msgstr "Editor daftar gambar besar..."
+
+msgid "Small image list editor..."
+msgstr "Editor daftar gambar kecil..."
+
+msgid "Internationalisation"
+msgstr "Internasionalisasi"
+
+msgid "Setup default language for this application"
+msgstr "Tata tema standar untuk aplikasi ini"
+
+msgid "List of available tools:"
+msgstr "Daftar peralatan yang tersedia:"
+
+msgid "Add"
+msgstr "Tambah"
+
+msgid "External Tools Editor"
+msgstr "Editor Peralatan Luar"
+
+msgid "Title:"
+msgstr "Judul:"
+
+msgid "Program:"
+msgstr "Program:"
+
+msgid "Working Dir:"
+msgstr "Direktori kerja:"
+
+msgid "Parameters:"
+msgstr "Parameter:"
+
+msgid ""
+"Perhatian: Aplikasi ini dilindungi oleh undang-undang hak cipta dan kesepakatan \n"
+"internasional. Segala bentuk reproduksi, atau distribusi dari aplikasi ini, atau\n"
+"bagian dari aplikasi ini tanpa ijin tertulis adalah melanggar hukum dan akan \n"
+"dituntut ke meja hijau."
+msgstr ""
+"Perhatian: Aplikasi ini dilindungi oleh undang-undang hak cipta dan kesepakatan \n"
+"internasional. Segala bentuk reproduksi, atau distribusi dari aplikasi ini, atau\n"
+"bagian dari aplikasi ini tanpa ijin tertulis adalah melanggar hukum dan akan \n"
+"dituntut ke meja hijau."
+
+msgid "Enterprise Core Framework Navigator"
+msgstr ""
+
+msgid "Toolbar"
+msgstr "Batang alat"
+
+msgid "User manager..."
+msgstr "Pengatur pengguna"
+
+msgid "User API Access Management"
+msgstr "Atur akses API pengguna"
+
+msgid "Execute"
+msgstr "Eksekusi"
+
+msgid "Recent Documents"
+msgstr "Dokumen terkini"
+
+msgid "Main Menu"
+msgstr "Menu Utama"
+
+msgid "Standard"
+msgstr "Standar"
+
+msgid "Main"
+msgstr "Utama"
+
+msgid "Clipboard"
+msgstr "Papan jepit"
+
+msgid "Misc"
+msgstr "Lain-lain"
+
+msgid "Quick Access"
+msgstr "Akses Cepat"
+
+msgid "Server configuration"
+msgstr "Konfigurasi peladen"
+
+msgid "Properties"
+msgstr "Properti"
+
+msgid "Set Default"
+msgstr "Buat standar"
+
+msgid "Setup this configuration as default?"
+msgstr "Setup konfigurasi terpilih sebagai standar?"
+
+msgid "Use ribbon bar"
+msgstr "Gunakan batang pita"
+
+msgid "Run Command:"
+msgstr "Eksekusi perintah:"
+
+msgid "Please close all opened program(s) first"
+msgstr "Mohon tutup dulu semua program yang masih aktif terbuka"
+
+msgid "Optimize"
+msgstr "Optimasi"
+
+msgid "New order"
+msgstr "Pesanan baru"
+
+msgid "New package"
+msgstr "Paket baru"
+
+msgid "Close package"
+msgstr "Tutup paket"
+
+msgid "Find order"
+msgstr "Temukan pesanan"
+
+msgid "Styles"
+msgstr "Corak mode"
+
+msgid "Style"
+msgstr "Corak mode"
+
+msgid "Unit of measurement"
+msgstr "Satuan pengukuran"
+
+msgid "Features"
+msgstr "Fitur"
+
+msgid "Materials"
+msgstr "Bahan"
+
+msgid "Customers"
+msgstr "Pelanggan"
+
+msgid "Customer"
+msgstr "Pelanggan"
+
+msgid "Items"
+msgstr "Barang"
+
+msgid "Item"
+msgstr "Barang"
+
+msgid "New order"
+msgstr "Pesanan baru"
+
+msgid "Package"
+msgstr "Paket"
+
+msgid "Manage Orders"
+msgstr "Kelola Pesanan"
+
+msgid "Manage References"
+msgstr "Kelola Referensi"
+
+msgid "Miscellaneous"
+msgstr "Lain-lain"
+
+msgid "Order list"
+msgstr "Daftar pesanan"
+
+msgid "Order No"
+msgstr "No Pesanan"
+
+msgid "Description"
+msgstr "Deskripsi"
+
+msgid "Order Header"
+msgstr "Judul Pesanan"
+
+msgid "Order Items"
+msgstr "Pesanan Barang"
+
+msgid "Browse"
+msgstr "Jelajahi"
+
+msgid "Algorithm"
+msgstr "Algoritma"
+
+msgid "Marker Len/Width"
+msgstr "Panjang/Lebar Marker"
+
+msgid "Close Window"
+msgstr "Tutup Jendela"
+
+msgid "Save"
+msgstr "Simpan"
+
+msgid "Generate Items"
+msgstr "Buat Barang"
+
+msgid "Create Order Items"
+msgstr "Buat Barang Pesanan"

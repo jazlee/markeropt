@@ -1,0 +1,709 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<crowd>
+  <creationDate>Tue Jun 09 09:58:35 GMT+07:00 2009</creationDate>
+  <version>1.6</version>
+  <buildNumber>390</buildNumber>
+  <buildDate>Dec 18, 2008</buildDate>
+  <crowdcfg>
+    <property>
+      <name>crowd.server.id</name>
+      <value>BULC-VE8W-H23I-JMC3</value>
+    </property>
+  </crowdcfg>
+  <crowdproperties>
+    <property>
+      <name>session.lastvalidation</name>
+      <value>session.lastvalidation</value>
+    </property>
+    <property>
+      <name>session.isauthenticated</name>
+      <value>session.isauthenticated</value>
+    </property>
+    <property>
+      <name>application.password</name>
+      <value>d2mq5eng</value>
+    </property>
+    <property>
+      <name>application.name</name>
+      <value>crowd</value>
+    </property>
+    <property>
+      <name>session.validationinterval</name>
+      <value>0</value>
+    </property>
+    <property>
+      <name>crowd.server.url</name>
+      <value>http://it.usg.co.id/crowd/services/</value>
+    </property>
+    <property>
+      <name>session.tokenkey</name>
+      <value>session.tokenkey</value>
+    </property>
+    <property>
+      <name>application.login.url</name>
+      <value>http://it.usg.co.id/crowd</value>
+    </property>
+  </crowdproperties>
+  <directories>
+    <directory>
+      <id>98305</id>
+      <conception>Fri Feb 27 10:03:54 +0700 2009</conception>
+      <lastModified>Fri Feb 27 10:08:10 +0700 2009</lastModified>
+      <name>USG Authentication Center</name>
+      <description></description>
+      <implementationClass>com.atlassian.crowd.integration.directory.internal.InternalDirectory</implementationClass>
+      <active>true</active>
+      <type>1</type>
+      <attributes>
+        <attribute attributeKey="password_max_attempts">
+          <attributeValues attributeId="65539">
+            <attributeValue>10</attributeValue>
+          </attributeValues>
+        </attribute>
+        <attribute attributeKey="password_max_change_time">
+          <attributeValues attributeId="65540">
+            <attributeValue>0</attributeValue>
+          </attributeValues>
+        </attribute>
+        <attribute attributeKey="password_history_count">
+          <attributeValues attributeId="65541">
+            <attributeValue>0</attributeValue>
+          </attributeValues>
+        </attribute>
+        <attribute attributeKey="user_encryption_method">
+          <attributeValues attributeId="65542">
+            <attributeValue>atlassian-sha1</attributeValue>
+          </attributeValues>
+        </attribute>
+      </attributes>
+      <permissions>
+        <permission key="principal.add" value="true"/>
+        <permission key="principal.modify" value="true"/>
+        <permission key="principal.remove" value="true"/>
+        <permission key="group.add" value="true"/>
+        <permission key="group.modify" value="true"/>
+        <permission key="group.remove" value="true"/>
+        <permission key="role.add" value="true"/>
+        <permission key="role.modify" value="true"/>
+        <permission key="role.remove" value="true"/>
+      </permissions>
+    </directory>
+    <directory>
+      <id>360449</id>
+      <conception>Fri Feb 27 12:27:31 +0700 2009</conception>
+      <lastModified>Fri Feb 27 12:31:28 +0700 2009</lastModified>
+      <name>USG LDAP Server</name>
+      <description></description>
+      <implementationClass>com.atlassian.crowd.integration.directory.connector.ApacheDS15</implementationClass>
+      <active>true</active>
+      <type>2</type>
+      <attributes>
+        <attribute attributeKey="useMonitoring">
+          <attributeValues attributeId="393217">
+            <attributeValue>false</attributeValue>
+          </attributeValues>
+        </attribute>
+        <attribute attributeKey="ldap.secure">
+          <attributeValues attributeId="393218">
+            <attributeValue>false</attributeValue>
+          </attributeValues>
+        </attribute>
+        <attribute attributeKey="ldap.user.objectclass">
+          <attributeValues attributeId="393219">
+            <attributeValue>inetorgperson</attributeValue>
+          </attributeValues>
+        </attribute>
+        <attribute attributeKey="ldap.group.dn">
+          <attributeValues attributeId="393253">
+            <attributeValue>ou=groups</attributeValue>
+          </attributeValues>
+        </attribute>
+        <attribute attributeKey="ldap.basedn">
+          <attributeValues attributeId="393220">
+            <attributeValue>ou=sso,ou=usg,dc=busanagroup,dc=com</attributeValue>
+          </attributeValues>
+        </attribute>
+        <attribute attributeKey="ldap.userdn">
+          <attributeValues attributeId="393222">
+            <attributeValue>uid=admin,ou=system</attributeValue>
+          </attributeValues>
+        </attribute>
+        <attribute attributeKey="pollingInterval">
+          <attributeValues attributeId="393221">
+            <attributeValue>300</attributeValue>
+          </attributeValues>
+        </attribute>
+        <attribute attributeKey="ldap.role.objectclass">
+          <attributeValues attributeId="393224">
+            <attributeValue>groupOfUniqueNames</attributeValue>
+          </attributeValues>
+        </attribute>
+        <attribute attributeKey="ldap.password">
+          <attributeValues attributeId="393223">
+            <attributeValue>localsetting</attributeValue>
+          </attributeValues>
+        </attribute>
+        <attribute attributeKey="ldap.usermembership.use.for.groups">
+          <attributeValues attributeId="393225">
+            <attributeValue>false</attributeValue>
+          </attributeValues>
+        </attribute>
+        <attribute attributeKey="ldap.role.description">
+          <attributeValues attributeId="393228">
+            <attributeValue>description</attributeValue>
+          </attributeValues>
+        </attribute>
+        <attribute attributeKey="ldap.user.displayname">
+          <attributeValues attributeId="393227">
+            <attributeValue>displayName</attributeValue>
+          </attributeValues>
+        </attribute>
+        <attribute attributeKey="useCaching">
+          <attributeValues attributeId="393226">
+            <attributeValue>false</attributeValue>
+          </attributeValues>
+        </attribute>
+        <attribute attributeKey="ldap.user.lastname">
+          <attributeValues attributeId="393229">
+            <attributeValue>sn</attributeValue>
+          </attributeValues>
+        </attribute>
+        <attribute attributeKey="ldap.user.username">
+          <attributeValues attributeId="393230">
+            <attributeValue>cn</attributeValue>
+          </attributeValues>
+        </attribute>
+        <attribute attributeKey="ldap.group.description">
+          <attributeValues attributeId="393231">
+            <attributeValue>description</attributeValue>
+          </attributeValues>
+        </attribute>
+        <attribute attributeKey="cacheMaxElements">
+          <attributeValues attributeId="393232">
+            <attributeValue>50000</attributeValue>
+          </attributeValues>
+        </attribute>
+        <attribute attributeKey="ldap.group.usernames">
+          <attributeValues attributeId="393233">
+            <attributeValue>uniqueMember</attributeValue>
+          </attributeValues>
+        </attribute>
+        <attribute attributeKey="ldap.usermembership.use">
+          <attributeValues attributeId="393234">
+            <attributeValue>false</attributeValue>
+          </attributeValues>
+        </attribute>
+        <attribute attributeKey="ldap.role.usernames">
+          <attributeValues attributeId="393235">
+            <attributeValue>uniqueMember</attributeValue>
+          </attributeValues>
+        </attribute>
+        <attribute attributeKey="ldap.referral">
+          <attributeValues attributeId="393236">
+            <attributeValue>false</attributeValue>
+          </attributeValues>
+        </attribute>
+        <attribute attributeKey="ldap.user.username.rdn">
+          <attributeValues attributeId="393237">
+            <attributeValue>uid</attributeValue>
+          </attributeValues>
+        </attribute>
+        <attribute attributeKey="ldap.role.dn">
+          <attributeValues attributeId="393254">
+            <attributeValue>ou=roles</attributeValue>
+          </attributeValues>
+        </attribute>
+        <attribute attributeKey="ldap.user.password">
+          <attributeValues attributeId="393238">
+            <attributeValue>userpassword</attributeValue>
+          </attributeValues>
+        </attribute>
+        <attribute attributeKey="ldap.user.filter">
+          <attributeValues attributeId="393239">
+            <attributeValue>(objectclass=inetorgperson)</attributeValue>
+          </attributeValues>
+        </attribute>
+        <attribute attributeKey="ldap.user.group">
+          <attributeValues attributeId="393240">
+            <attributeValue>memberOf</attributeValue>
+          </attributeValues>
+        </attribute>
+        <attribute attributeKey="ldap.group.filter">
+          <attributeValues attributeId="393241">
+            <attributeValue>(objectclass=groupOfUniqueNames)</attributeValue>
+          </attributeValues>
+        </attribute>
+        <attribute attributeKey="ldap.user.dn">
+          <attributeValues attributeId="393255">
+            <attributeValue>ou=users</attributeValue>
+          </attributeValues>
+        </attribute>
+        <attribute attributeKey="ldap.group.objectclass">
+          <attributeValues attributeId="393242">
+            <attributeValue>groupOfUniqueNames</attributeValue>
+          </attributeValues>
+        </attribute>
+        <attribute attributeKey="ldap.role.name">
+          <attributeValues attributeId="393243">
+            <attributeValue>cn</attributeValue>
+          </attributeValues>
+        </attribute>
+        <attribute attributeKey="ldap.url">
+          <attributeValues attributeId="393246">
+            <attributeValue>ldap://localhost:389/</attributeValue>
+          </attributeValues>
+        </attribute>
+        <attribute attributeKey="ldap.pagedresults">
+          <attributeValues attributeId="393245">
+            <attributeValue>false</attributeValue>
+          </attributeValues>
+        </attribute>
+        <attribute attributeKey="ldap.relaxed.dn.standardisation">
+          <attributeValues attributeId="393244">
+            <attributeValue>false</attributeValue>
+          </attributeValues>
+        </attribute>
+        <attribute attributeKey="ldap.user.email">
+          <attributeValues attributeId="393247">
+            <attributeValue>mail</attributeValue>
+          </attributeValues>
+        </attribute>
+        <attribute attributeKey="ldap.roles.disabled">
+          <attributeValues attributeId="393248">
+            <attributeValue>false</attributeValue>
+          </attributeValues>
+        </attribute>
+        <attribute attributeKey="ldap.group.name">
+          <attributeValues attributeId="393249">
+            <attributeValue>cn</attributeValue>
+          </attributeValues>
+        </attribute>
+        <attribute attributeKey="ldap.user.firstname">
+          <attributeValues attributeId="393250">
+            <attributeValue>givenName</attributeValue>
+          </attributeValues>
+        </attribute>
+        <attribute attributeKey="ldap.role.filter">
+          <attributeValues attributeId="393251">
+            <attributeValue>(objectclass=groupOfUniqueNames)</attributeValue>
+          </attributeValues>
+        </attribute>
+        <attribute attributeKey="ldap.nestedgroups.disabled">
+          <attributeValues attributeId="393252">
+            <attributeValue>true</attributeValue>
+          </attributeValues>
+        </attribute>
+      </attributes>
+      <permissions>
+        <permission key="principal.add" value="true"/>
+        <permission key="principal.modify" value="true"/>
+        <permission key="principal.remove" value="true"/>
+        <permission key="group.add" value="true"/>
+        <permission key="group.modify" value="true"/>
+        <permission key="group.remove" value="true"/>
+        <permission key="role.add" value="true"/>
+        <permission key="role.modify" value="true"/>
+        <permission key="role.remove" value="true"/>
+      </permissions>
+    </directory>
+  </directories>
+  <salProperties/>
+  <principals>
+    <principal>
+      <id>-1</id>
+      <conception>Fri Feb 27 10:04:16 +0700 2009</conception>
+      <lastModified>Fri Feb 27 10:04:16 +0700 2009</lastModified>
+      <name>crwadmin</name>
+      <emailAddress>jaimy@usg.co.id</emailAddress>
+      <directoryId>98305</directoryId>
+      <active>true</active>
+      <attributes>
+        <attribute attributeKey="sn">
+          <attributeValues attributeId="65543">
+            <attributeValue>Administrator</attributeValue>
+          </attributeValues>
+        </attribute>
+        <attribute attributeKey="invalidPasswordAttempts">
+          <attributeValues attributeId="262145">
+            <attributeValue>0</attributeValue>
+          </attributeValues>
+        </attribute>
+        <attribute attributeKey="requiresPasswordChange">
+          <attributeValues attributeId="65544">
+            <attributeValue>false</attributeValue>
+          </attributeValues>
+        </attribute>
+        <attribute attributeKey="mail">
+          <attributeValues attributeId="65545">
+            <attributeValue>jaimy@usg.co.id</attributeValue>
+          </attributeValues>
+        </attribute>
+        <attribute attributeKey="lastAuthenticated">
+          <attributeValues attributeId="262146">
+            <attributeValue>1235716046703</attributeValue>
+          </attributeValues>
+        </attribute>
+        <attribute attributeKey="givenName">
+          <attributeValues attributeId="65546">
+            <attributeValue>System</attributeValue>
+          </attributeValues>
+        </attribute>
+        <attribute attributeKey="passwordLastChanged">
+          <attributeValues attributeId="65547">
+            <attributeValue>1235703856046</attributeValue>
+          </attributeValues>
+        </attribute>
+      </attributes>
+      <credentials>
+        <credential>OktwmgU6DuOu9CwPlO+5qznvRWAdYj8LtL07mOlQhd1dCjjkoMY4Y3FAqam/gBxy3X1R+zuiwhO8G+Vp8gw7Jw==</credential>
+      </credentials>
+    </principal>
+  </principals>
+  <groups>
+    <group>
+      <id>-1</id>
+      <conception>Fri Feb 27 10:04:16 +0700 2009</conception>
+      <lastModified>Fri Feb 27 10:04:16 +0700 2009</lastModified>
+      <name>crowd-administrators</name>
+      <directoryId>98305</directoryId>
+      <active>true</active>
+      <principals>
+        <principal name="crwadmin" directoryId="98305"/>
+      </principals>
+    </group>
+  </groups>
+  <roles/>
+  <applications>
+    <application>
+      <id>32770</id>
+      <conception>Fri Feb 27 10:04:16 +0700 2009</conception>
+      <lastModified>Fri Feb 27 13:27:46 +0700 2009</lastModified>
+      <name>crowd</name>
+      <description>Crowd Console</description>
+      <active>true</active>
+      <perminant>true</perminant>
+      <attributes>
+        <attribute attributeKey="applicationType">
+          <attributeValues attributeId="65548">
+            <attributeValue>CROWD</attributeValue>
+          </attributeValues>
+        </attribute>
+        <attribute attributeKey="atlassian_sha1_applied">
+          <attributeValues attributeId="65549">
+            <attributeValue>true</attributeValue>
+          </attributeValues>
+        </attribute>
+      </attributes>
+      <remoteAddresses>
+        <remoteAddress active="true" address="127.0.0.1"/>
+        <remoteAddress active="true" address="localhost"/>
+        <remoteAddress active="true" address="10.10.100.247"/>
+        <remoteAddress active="true" address="it"/>
+        <remoteAddress active="true" address="it.usg.co.id"/>
+      </remoteAddresses>
+      <credentials>
+        <credential>oRCDULEXjoAqan9nx4XYGpXv7dsdig04TTLvmorUmyLyrbIm4654AoEgxHGipZlpXxI1alPOURf2Cbuf8GqETA==</credential>
+      </credentials>
+      <directories>
+        <directory directoryId="98305" allowAll="false" index="1"/>
+        <directory directoryId="360449" allowAll="false" index="2"/>
+      </directories>
+      <groups>
+        <group name="crowd-administrators" directoryId="98305" active="true"/>
+        <group name="administrators" directoryId="360449" active="true"/>
+      </groups>
+      <permissions directoryId="98305">
+        <permission id="163841" type="principal.add" allowed="true"/>
+        <permission id="163842" type="role.add" allowed="true"/>
+        <permission id="163843" type="group.add" allowed="true"/>
+        <permission id="163844" type="principal.modify" allowed="true"/>
+        <permission id="163845" type="role.modify" allowed="true"/>
+        <permission id="163846" type="group.modify" allowed="true"/>
+        <permission id="163847" type="principal.remove" allowed="true"/>
+        <permission id="163848" type="role.remove" allowed="true"/>
+        <permission id="163849" type="group.remove" allowed="true"/>
+      </permissions>
+      <permissions directoryId="360449">
+        <permission id="425985" type="principal.add" allowed="true"/>
+        <permission id="425986" type="role.add" allowed="true"/>
+        <permission id="425987" type="group.add" allowed="true"/>
+        <permission id="425988" type="principal.modify" allowed="true"/>
+        <permission id="425989" type="role.modify" allowed="true"/>
+        <permission id="425990" type="group.modify" allowed="true"/>
+        <permission id="425991" type="principal.remove" allowed="true"/>
+        <permission id="425992" type="role.remove" allowed="true"/>
+        <permission id="425993" type="group.remove" allowed="true"/>
+      </permissions>
+    </application>
+    <application>
+      <id>458754</id>
+      <conception>Fri Feb 27 13:40:30 +0700 2009</conception>
+      <lastModified>Fri Feb 27 13:40:30 +0700 2009</lastModified>
+      <name>crucible</name>
+      <description>Source Code Review</description>
+      <active>true</active>
+      <perminant>false</perminant>
+      <attributes>
+        <attribute attributeKey="applicationType">
+          <attributeValues attributeId="393258">
+            <attributeValue>CRUCIBLE</attributeValue>
+          </attributeValues>
+        </attribute>
+        <attribute attributeKey="atlassian_sha1_applied">
+          <attributeValues attributeId="393259">
+            <attributeValue>true</attributeValue>
+          </attributeValues>
+        </attribute>
+      </attributes>
+      <remoteAddresses>
+        <remoteAddress active="true" address="10.10.100.247"/>
+      </remoteAddresses>
+      <credentials>
+        <credential>OktwmgU6DuOu9CwPlO+5qznvRWAdYj8LtL07mOlQhd1dCjjkoMY4Y3FAqam/gBxy3X1R+zuiwhO8G+Vp8gw7Jw==</credential>
+      </credentials>
+      <directories>
+        <directory directoryId="360449" allowAll="true" index="1"/>
+      </directories>
+      <permissions directoryId="360449"/>
+    </application>
+    <application>
+      <id>32769</id>
+      <conception>Fri Feb 27 10:03:00 +0700 2009</conception>
+      <lastModified>Fri Feb 27 10:14:59 +0700 2009</lastModified>
+      <name>google-apps</name>
+      <description>Google Applications Connector</description>
+      <active>true</active>
+      <perminant>true</perminant>
+      <attributes>
+        <attribute attributeKey="applicationType">
+          <attributeValues attributeId="65537">
+            <attributeValue>PLUGIN</attributeValue>
+          </attributeValues>
+        </attribute>
+        <attribute attributeKey="atlassian_sha1_applied">
+          <attributeValues attributeId="65538">
+            <attributeValue>true</attributeValue>
+          </attributeValues>
+        </attribute>
+      </attributes>
+      <credentials>
+        <credential>/iPwhVwwDOlh0cQqlpvtrYdwBLQ78c81Ld7yHhljWuoPT6RURvH1ZoSDYi2lQ9LfoPSyImrqQ0InFcv99NPSRg==</credential>
+      </credentials>
+    </application>
+    <application>
+      <id>458756</id>
+      <conception>Fri Feb 27 13:42:02 +0700 2009</conception>
+      <lastModified>Fri Feb 27 13:48:10 +0700 2009</lastModified>
+      <name>issues</name>
+      <description>Defect Tracking System</description>
+      <active>true</active>
+      <perminant>false</perminant>
+      <attributes>
+        <attribute attributeKey="applicationType">
+          <attributeValues attributeId="393262">
+            <attributeValue>JIRA</attributeValue>
+          </attributeValues>
+        </attribute>
+        <attribute attributeKey="atlassian_sha1_applied">
+          <attributeValues attributeId="393263">
+            <attributeValue>true</attributeValue>
+          </attributeValues>
+        </attribute>
+      </attributes>
+      <remoteAddresses>
+        <remoteAddress active="true" address="10.10.100.247"/>
+        <remoteAddress active="true" address="127.0.0.1"/>
+        <remoteAddress active="true" address="it.usg.co.id"/>
+        <remoteAddress active="true" address="it"/>
+      </remoteAddresses>
+      <credentials>
+        <credential>OktwmgU6DuOu9CwPlO+5qznvRWAdYj8LtL07mOlQhd1dCjjkoMY4Y3FAqam/gBxy3X1R+zuiwhO8G+Vp8gw7Jw==</credential>
+      </credentials>
+      <directories>
+        <directory directoryId="360449" allowAll="true" index="1"/>
+      </directories>
+      <permissions directoryId="360449"/>
+    </application>
+    <application>
+      <id>458753</id>
+      <conception>Fri Feb 27 13:31:03 +0700 2009</conception>
+      <lastModified>Fri Feb 27 13:47:46 +0700 2009</lastModified>
+      <name>repository</name>
+      <description>USG Repository</description>
+      <active>true</active>
+      <perminant>false</perminant>
+      <attributes>
+        <attribute attributeKey="applicationType">
+          <attributeValues attributeId="393256">
+            <attributeValue>FISHEYE</attributeValue>
+          </attributeValues>
+        </attribute>
+        <attribute attributeKey="atlassian_sha1_applied">
+          <attributeValues attributeId="393257">
+            <attributeValue>true</attributeValue>
+          </attributeValues>
+        </attribute>
+      </attributes>
+      <remoteAddresses>
+        <remoteAddress active="true" address="10.10.100.247"/>
+        <remoteAddress active="true" address="127.0.0.1"/>
+        <remoteAddress active="true" address="it.usg.co.id"/>
+        <remoteAddress active="true" address="it"/>
+      </remoteAddresses>
+      <credentials>
+        <credential>OktwmgU6DuOu9CwPlO+5qznvRWAdYj8LtL07mOlQhd1dCjjkoMY4Y3FAqam/gBxy3X1R+zuiwhO8G+Vp8gw7Jw==</credential>
+      </credentials>
+      <directories>
+        <directory directoryId="360449" allowAll="false" index="1"/>
+      </directories>
+      <groups>
+        <group name="administrators" directoryId="360449" active="true"/>
+        <group name="developers" directoryId="360449" active="true"/>
+        <group name="it-support" directoryId="360449" active="true"/>
+      </groups>
+      <permissions directoryId="360449"/>
+    </application>
+    <application>
+      <id>458755</id>
+      <conception>Fri Feb 27 13:41:18 +0700 2009</conception>
+      <lastModified>Fri Feb 27 13:47:22 +0700 2009</lastModified>
+      <name>wiki</name>
+      <description>Enterprise WIKI</description>
+      <active>true</active>
+      <perminant>false</perminant>
+      <attributes>
+        <attribute attributeKey="applicationType">
+          <attributeValues attributeId="393260">
+            <attributeValue>CONFLUENCE</attributeValue>
+          </attributeValues>
+        </attribute>
+        <attribute attributeKey="atlassian_sha1_applied">
+          <attributeValues attributeId="393261">
+            <attributeValue>true</attributeValue>
+          </attributeValues>
+        </attribute>
+      </attributes>
+      <remoteAddresses>
+        <remoteAddress active="true" address="10.10.100.247"/>
+        <remoteAddress active="true" address="127.0.0.1"/>
+        <remoteAddress active="true" address="it.usg.co.id"/>
+        <remoteAddress active="true" address="it"/>
+      </remoteAddresses>
+      <credentials>
+        <credential>OktwmgU6DuOu9CwPlO+5qznvRWAdYj8LtL07mOlQhd1dCjjkoMY4Y3FAqam/gBxy3X1R+zuiwhO8G+Vp8gw7Jw==</credential>
+      </credentials>
+      <directories>
+        <directory directoryId="360449" allowAll="true" index="1"/>
+      </directories>
+      <permissions directoryId="360449">
+        <permission id="425994" type="principal.add" allowed="true"/>
+        <permission id="425995" type="role.add" allowed="true"/>
+        <permission id="425996" type="group.add" allowed="true"/>
+        <permission id="425997" type="principal.modify" allowed="true"/>
+        <permission id="425998" type="role.modify" allowed="true"/>
+        <permission id="425999" type="group.modify" allowed="true"/>
+        <permission id="426000" type="principal.remove" allowed="true"/>
+        <permission id="426001" type="role.remove" allowed="true"/>
+        <permission id="426002" type="group.remove" allowed="true"/>
+      </permissions>
+    </application>
+  </applications>
+  <properties>
+    <property>
+      <id>1</id>
+      <name>26</name>
+      <value>true</value>
+    </property>
+    <property>
+      <id>2</id>
+      <name>6</name>
+      <value>USG Authentication Center</value>
+    </property>
+    <property>
+      <id>3</id>
+      <name>16</name>
+      <value>1eqGSQFJHOY=</value>
+    </property>
+    <property>
+      <id>4</id>
+      <name>9</name>
+      <value>1800000</value>
+    </property>
+    <property>
+      <id>5</id>
+      <name>8</name>
+      <value>true</value>
+    </property>
+    <property>
+      <id>6</id>
+      <name>4</name>
+      <value>ej3BwrZ4</value>
+    </property>
+    <property>
+      <id>7</id>
+      <name>12</name>
+      <value>[USG Authentication Center - Atlassian Crowd]</value>
+    </property>
+    <property>
+      <id>8</id>
+      <name>13</name>
+      <value>automail@usg.co.id</value>
+    </property>
+    <property>
+      <id>9</id>
+      <name>11</name>
+      <value>10.10.100.31</value>
+    </property>
+    <property>
+      <id>10</id>
+      <name>15</name>
+      <value>sysch3ck</value>
+    </property>
+    <property>
+      <id>11</id>
+      <name>14</name>
+      <value>automail</value>
+    </property>
+    <property>
+      <id>12</id>
+      <name>28</name>
+      <value>25</value>
+    </property>
+    <property>
+      <id>13</id>
+      <name>27</name>
+      <value></value>
+    </property>
+    <property>
+      <id>14</id>
+      <name>17</name>
+      <value>Hello $firstname $lastname, Your password has been reset by a $deploymenttitle administrator at $date. Your new password is: $password $deploymenttitle Administrator</value>
+    </property>
+    <property>
+      <id>15</id>
+      <name>21</name>
+      <value>support@usg.co.id</value>
+    </property>
+    <property>
+      <id>196609</id>
+      <name>24</name>
+      <value>true</value>
+    </property>
+    <property>
+      <id>196610</id>
+      <name>20</name>
+      <value>0</value>
+    </property>
+    <property>
+      <id>196611</id>
+      <name>29</name>
+      <value>false</value>
+    </property>
+    <property>
+      <id>196612</id>
+      <name>23</name>
+      <value>390</value>
+    </property>
+  </properties>
+</crowd>
